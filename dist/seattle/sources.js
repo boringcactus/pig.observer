@@ -1,4 +1,5 @@
 const DEFAULTS = ["CMR-0039", "CMR-0176", "CMR-0223", "CMR-0088", "CMR-0089", "CMR-0309", "CMR-0257"];
+const MANUAL_CACHE_BUST = false;
 const CAMERAS = {
   Ballard: [
     {

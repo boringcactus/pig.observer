@@ -1,4 +1,5 @@
 const DEFAULTS = ["139"];
+const MANUAL_CACHE_BUST = false;
 const CAMERAS = {
   Richfield: [
     {

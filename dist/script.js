@@ -39,9 +39,24 @@ function findCamera(id) {
   }
 }
 
+function compareStrings(a, b) {
+  var nameA = a.toUpperCase(); // ignore upper and lowercase
+  var nameB = b.toUpperCase(); // ignore upper and lowercase
+  if (nameA < nameB) {
+    return -1;
+  }
+  if (nameA > nameB) {
+    return 1;
+  }
+
+  // names must be equal
+  return 0;
+}
+
 function loadData() {
   const nav = document.querySelector("nav");
-  for (let neighborhood of Object.keys(CAMERAS)) {
+  let neighborhoods = Object.keys(CAMERAS).sort(compareStrings);
+  for (let neighborhood of neighborhoods) {
     const section = document.createElement("section");
     const h2 = document.createElement("h2");
     h2.innerText = neighborhood;
@@ -49,7 +64,8 @@ function loadData() {
 
     const boxes = document.createElement("ul");
     section.append(boxes);
-    for (let { id, name } of CAMERAS[neighborhood]) {
+    let cameras = CAMERAS[neighborhood].sort((a, b) => compareStrings(a.name, b.name));
+    for (let { id, name } of cameras) {
       const label = document.createElement("label");
       const checkbox = document.createElement("input");
       checkbox.type = "checkbox";
@@ -156,6 +172,9 @@ function makeCameraStream(camera) {
     video = document.createElement("img");
     video.className = 'reload';
     video.src = camera.url;
+    if (location.hostname === 'localhost' && camera.url.startsWith('/')) {
+      video.src = 'https://pig.observer' + camera.url;
+    }
     setTimeout(pokeImages, 1);
   }
   section.append(video);
@@ -242,12 +261,32 @@ dragHandler.on("drop", (el, target, source, sibling) => {
 let pokeTimeout = undefined;
 function pokeImages() {
   for (let img of document.querySelectorAll('img.reload')) {
-    img.src = img.src.replace(/(\?0\.\d+)?$/, '?' + Math.random());
-    img.addEventListener('load', e => {
-      if (pokeTimeout !== undefined) {
-        clearTimeout(pokeTimeout);
+    if (MANUAL_CACHE_BUST) {
+      if (img.dataset.origSrc === undefined) {
+        img.dataset.origSrc = img.src;
       }
-      pokeTimeout = setTimeout(pokeImages, 1000);
-    });
+      fetch(img.dataset.origSrc, {cache: "no-cache"})
+          .then(function(response) {
+            if (!response.ok) {
+              throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.blob();
+          })
+          .then(function(response) {
+            img.src = URL.createObjectURL(response);
+            if (pokeTimeout !== undefined) {
+              clearTimeout(pokeTimeout);
+            }
+            pokeTimeout = setTimeout(pokeImages, 1000);
+          });
+    } else {
+      img.src = img.src.replace(/(\?0\.\d+)?$/, '?' + Math.random());
+      img.addEventListener('load', e => {
+        if (pokeTimeout !== undefined) {
+          clearTimeout(pokeTimeout);
+        }
+        pokeTimeout = setTimeout(pokeImages, 1000);
+      });
+    }
   }
 }
