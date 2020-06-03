@@ -1,0 +1,62 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  --video-width: 30vw;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+nav, main {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+main video, main img {
+  width: var(--video-width);
+}
+
+main {
+  padding-right: 1px;
+}
+
+main h2 {
+  cursor: move;
+}
+
+main button.close {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* from Dragula */
+.gu-mirror {
+  position: fixed !important;
+  margin: 0 !important;
+  z-index: 9999 !important;
+  opacity: 0.8;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  filter: alpha(opacity=80);
+}
+.gu-hide {
+  display: none !important;
+}
+.gu-unselectable {
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
+}
+.gu-transit {
+  opacity: 0.2;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+  filter: alpha(opacity=20);
+}
+

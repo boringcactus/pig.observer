@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Traffic cameras in Seattle">
+
+    <title>Seattle traffic cameras</title>
+
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <h1>Seattle traffic cams <small>(donate to <a href="https://www.nwcombailfund.org/">bail fund</a>)</small></h1>
+    
+    <header id="controls">
+      Use checkboxes below to add/remove, drag and drop names to rearrange (if it works), URL stores layout, controls here:
+      <button type="button" id="playall">
+        Play All & Skip to Current
+      </button>
+      <label>
+        Video Width
+        <input type="range" min="0" max="100" value="30" id="vidwidth">
+      </label>
+    </header>
+    
+    <main>
+    </main>
+    
+    <aside>
+      <label>Search cameras: <input type="search" id="filter"></label>
+      <nav>
+        
+      </nav>
+    </aside>
+    
+    <footer>
+      <p>
+        data comes from <a href="https://web6.seattle.gov/Travelers/">Seattle DOT</a>.
+        developed by <a href="https://www.boringcactus.com">boringcactus</a>, poke hir if something breaks or sucks.
+        more places at <a href="/">pig.observer</a>.
+      </p>
+    </footer>
+
+    <script src="sources.js"></script>
+    <script src="script.js" defer></script>
+    <script src="/hls.min.js"></script>
+    <script src="/dragula.min.js" integrity="sha256-ug4bHfqHFAj2B5MESRxbLd3R3wdVMQzug2KHZqFEmFI=" crossorigin="anonymous"></script>
+  </body>
+</html>
