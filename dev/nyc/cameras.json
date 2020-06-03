@@ -1,0 +1,5788 @@
+{
+  "markers": [
+    {
+      "id": "368",
+      "latitude": "40.79142677512476",
+      "longitude": "-73.93807411193848",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "1 Ave @ 110 St"
+    },
+    {
+      "id": "360",
+      "latitude": "40.800426144169315",
+      "longitude": "-73.93155097961426",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "1 Ave @ 124 St"
+    },
+    {
+      "id": "1189",
+      "latitude": "40.731361",
+      "longitude": "-73.982486",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "1 Ave @ 14 St"
+    },
+    {
+      "id": "361",
+      "latitude": "40.7359741672444",
+      "longitude": "-73.97828578948975",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "1 Ave @ 23 St"
+    },
+    {
+      "id": "550",
+      "latitude": "40.74803725830298",
+      "longitude": "-73.9694881439209",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "1 Ave @ 42 St"
+    },
+    {
+      "id": "940",
+      "latitude": "40.761501",
+      "longitude": "-73.960542",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "1 Ave @ 62 St"
+    },
+    {
+      "id": "370",
+      "latitude": "40.7760243030083",
+      "longitude": "-73.9493179321289",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "1 Ave @ 86 St"
+    },
+    {
+      "id": "537",
+      "latitude": "40.783304",
+      "longitude": "-73.944662",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "1 Ave @ 96 St"
+    },
+    {
+      "id": "789",
+      "latitude": "40.731331",
+      "longitude": "-73.982561",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "1 Ave @ E 14 St"
+    },
+    {
+      "id": "1028",
+      "latitude": "40.752424",
+      "longitude": "-74.000899",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "10 Ave @ 42 St"
+    },
+    {
+      "id": "828",
+      "latitude": "40.769126",
+      "longitude": "-73.988580",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "10 Ave @ 57 St"
+    },
+    {
+      "id": "326",
+      "latitude": "40.75492947089871",
+      "longitude": "-74.00180339813232",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "11 Ave @ 34 ST"
+    },
+    {
+      "id": "192",
+      "latitude": "40.75990312387116",
+      "longitude": "-73.99815559387207",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "11 Ave @ 42 St"
+    },
+    {
+      "id": "548",
+      "latitude": "40.74182715312056",
+      "longitude": "-74.00879859924316",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "11 Ave\/Rt 9A @ 14 St"
+    },
+    {
+      "id": "545",
+      "latitude": "40.75629482445485",
+      "longitude": "-74.00450706481934",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "12 Ave @ 34 St"
+    },
+    {
+      "id": "544",
+      "latitude": "40.761268375278135",
+      "longitude": "-74.00090217590332",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "12 Ave @ 42 St"
+    },
+    {
+      "id": "543",
+      "latitude": "40.77072684694955",
+      "longitude": "-73.99420738220215",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "12 Ave @ 57 St"
+    },
+    {
+      "id": "247",
+      "latitude": "40.80195299186528",
+      "longitude": "-73.9333963394165",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "2 Ave @ 125 St"
+    },
+    {
+      "id": "794",
+      "latitude": "40.737876",
+      "longitude": "-73.980926",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "2 Ave @ 23 St"
+    },
+    {
+      "id": "165",
+      "latitude": "40.745338697450066",
+      "longitude": "-73.97489547729492",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "2 Ave @ 36 St-Midtown Tunnel"
+    },
+    {
+      "id": "551",
+      "latitude": "40.74904512643806",
+      "longitude": "-73.97197723388672",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "2 Ave @ 42 St"
+    },
+    {
+      "id": "366",
+      "latitude": "40.7534015420061",
+      "longitude": "-73.96884441375732",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "2 Ave @ 49 St"
+    },
+    {
+      "id": "472",
+      "latitude": "40.75925299429778",
+      "longitude": "-73.96468162536621",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "2 Ave @ 58 St"
+    },
+    {
+      "id": "164",
+      "latitude": "40.75990312387116",
+      "longitude": "-73.96412372589111",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "2 Ave @ 59 St (QBB)"
+    },
+    {
+      "id": "539",
+      "latitude": "40.76799670467506",
+      "longitude": "-73.9582872390747",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "2 Ave @ 72 St"
+    },
+    {
+      "id": "934",
+      "latitude": "40.770142",
+      "longitude": "-73.957381",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "2 Ave @ 74 St"
+    },
+    {
+      "id": "846",
+      "latitude": "40.732373",
+      "longitude": "-73.984954",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "2 Ave @ E 14 St"
+    },
+    {
+      "id": "328",
+      "latitude": "40.86283581665962",
+      "longitude": "-73.91700267791748",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "207 ST @ 9 Ave"
+    },
+    {
+      "id": "1190",
+      "latitude": "40.733275",
+      "longitude": "-73.987279",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3 Ave @ 14 St"
+    },
+    {
+      "id": "495",
+      "latitude": "40.737990253855365",
+      "longitude": "-73.98296356201172",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3 Ave @ 23 St"
+    },
+    {
+      "id": "403",
+      "latitude": "40.74481848035928",
+      "longitude": "-73.97798538208008",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3 AVE @ 34 ST"
+    },
+    {
+      "id": "398",
+      "latitude": "40.74989042341799",
+      "longitude": "-73.97429466247559",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3 Ave @ 42 St"
+    },
+    {
+      "id": "410",
+      "latitude": "40.75440932883489",
+      "longitude": "-73.97116184234619",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3 Ave @ 49 St"
+    },
+    {
+      "id": "399",
+      "latitude": "40.75944803383743",
+      "longitude": "-73.96734237670898",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "3 Ave @ 57 St"
+    },
+    {
+      "id": "845",
+      "latitude": "40.733504",
+      "longitude": "-73.987239",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3 Ave @ E 14 St"
+    },
+    {
+      "id": "1111",
+      "latitude": "40.824129",
+      "longitude": "-73.9087",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3 Ave @ E 163 St"
+    },
+    {
+      "id": "1134",
+      "latitude": "40.824129",
+      "longitude": "-73.908706",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3 Ave @ E 163 St"
+    },
+    {
+      "id": "1226",
+      "latitude": "40.778737",
+      "longitude": "-73.953921",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3 Ave @ E 86 St"
+    },
+    {
+      "id": "1039",
+      "latitude": "40.820328",
+      "longitude": "-73.913069",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "3rd Av. @ E 156 St."
+    },
+    {
+      "id": "1030",
+      "latitude": "40.611360",
+      "longitude": "-74.034782",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "4 Ave @ Shore Rd"
+    },
+    {
+      "id": "1113",
+      "latitude": "40.748228",
+      "longitude": "-73.9417",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "43 Ave @ 27 St"
+    },
+    {
+      "id": "1136",
+      "latitude": "40.748228",
+      "longitude": "-73.941668",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "43 Ave @ 27 St"
+    },
+    {
+      "id": "1160",
+      "latitude": "40.7557483",
+      "longitude": "-73.9784187",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "46 St Bet. 5 Ave & Madison Ave"
+    },
+    {
+      "id": "1086",
+      "latitude": "40.756320",
+      "longitude": "-73.9777487",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "47 St Bet. 5 Ave @ Madison Ave- Manhattan"
+    },
+    {
+      "id": "168",
+      "latitude": "40.74068911286629",
+      "longitude": "-73.9894437789917",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 23 St"
+    },
+    {
+      "id": "415",
+      "latitude": "40.747549574689174",
+      "longitude": "-73.98446559906006",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 34 St"
+    },
+    {
+      "id": "523",
+      "latitude": "40.752621309453865",
+      "longitude": "-73.98068904876709",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 42 St"
+    },
+    {
+      "id": "1088",
+      "latitude": "40.756036",
+      "longitude": "-73.979014",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 46 St"
+    },
+    {
+      "id": "169",
+      "latitude": "40.75710752159198",
+      "longitude": "-73.9775562286377",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 49 St"
+    },
+    {
+      "id": "409",
+      "latitude": "40.76217852730423",
+      "longitude": "-73.97377967834473",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 57 St"
+    },
+    {
+      "id": "1184",
+      "latitude": "40.764289",
+      "longitude": "-73.973023",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 59 St"
+    },
+    {
+      "id": "906",
+      "latitude": "40.768025",
+      "longitude": "-73.970282",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 65 St"
+    },
+    {
+      "id": "907",
+      "latitude": "40.768651",
+      "longitude": "-73.969814",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 66 St"
+    },
+    {
+      "id": "1158",
+      "latitude": "40.780233",
+      "longitude": "-73.961397",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 84 St"
+    },
+    {
+      "id": "1159",
+      "latitude": "40.781556",
+      "longitude": "-73.960389",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 86 St"
+    },
+    {
+      "id": "908",
+      "latitude": "40.787916",
+      "longitude": "-73.955752",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "5 Ave @ 96 St"
+    },
+    {
+      "id": "1164",
+      "latitude": "40.761861",
+      "longitude": "-73.985123",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "50 St Btwn\u00a08 Ave & Broadway"
+    },
+    {
+      "id": "509",
+      "latitude": "40.7364944535093",
+      "longitude": "-73.99656772613525",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "6 Ave @ 14 St"
+    },
+    {
+      "id": "511",
+      "latitude": "40.74208727387333",
+      "longitude": "-73.99266242980957",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "6 Ave @ 23 St"
+    },
+    {
+      "id": "170",
+      "latitude": "40.74881754464601",
+      "longitude": "-73.98746967315674",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "6 Ave @ 34 St"
+    },
+    {
+      "id": "173",
+      "latitude": "40.75408423797857",
+      "longitude": "-73.98390769958496",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "6 Ave @ 42 St"
+    },
+    {
+      "id": "414",
+      "latitude": "40.763446218285964",
+      "longitude": "-73.97695541381836",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "6 Ave @ 57 St"
+    },
+    {
+      "id": "473",
+      "latitude": "40.764291332174466",
+      "longitude": "-73.97652626037598",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "6 Ave @ 58 St"
+    },
+    {
+      "id": "717",
+      "latitude": "40.728348",
+      "longitude": "-74.002878",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "6 Ave @ West Houston St"
+    },
+    {
+      "id": "529",
+      "latitude": "40.820727097919615",
+      "longitude": "-73.93880367279053",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "7 Ave @ 145 St"
+    },
+    {
+      "id": "510",
+      "latitude": "40.74332283355683",
+      "longitude": "-73.99545192718506",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "7 Ave @ 23St"
+    },
+    {
+      "id": "501",
+      "latitude": "40.75015051263462",
+      "longitude": "-73.9905595779419",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "7 Ave @ 34 St"
+    },
+    {
+      "id": "891",
+      "latitude": "40.756691",
+      "longitude": "-73.986476",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "7 Ave @ 43 St"
+    },
+    {
+      "id": "416",
+      "latitude": "40.75964307280483",
+      "longitude": "-73.98356437683105",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "7 Ave @ 49 St"
+    },
+    {
+      "id": "1090",
+      "latitude": "40.763617",
+      "longitude": "-73.981436",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "7 Ave @ 54 St"
+    },
+    {
+      "id": "504",
+      "latitude": "40.764746389047964",
+      "longitude": "-73.97995948791504",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "7 Ave @ 57 St"
+    },
+    {
+      "id": "503",
+      "latitude": "40.73896575770038",
+      "longitude": "-74.00231838226318",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "8 Ave @ 14 St"
+    },
+    {
+      "id": "180",
+      "latitude": "40.75135341202851",
+      "longitude": "-73.99339199066162",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "8 Ave @ 34 St"
+    },
+    {
+      "id": "181",
+      "latitude": "40.75629482445485",
+      "longitude": "-73.98957252502441",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "8 Ave @ 42 St"
+    },
+    {
+      "id": "420",
+      "latitude": "40.760813294591514",
+      "longitude": "-73.98639678955078",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "8 Ave @ 49 St"
+    },
+    {
+      "id": "1183",
+      "latitude": "40.766796",
+      "longitude": "-73.982900",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "8 Ave @ 57 St"
+    },
+    {
+      "id": "179",
+      "latitude": "40.766969",
+      "longitude": "-73.982265",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "8 Ave @ Columbus Cr South"
+    },
+    {
+      "id": "500",
+      "latitude": "40.744395800976775",
+      "longitude": "-73.99811267852783",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "8th Ave @ 23 St"
+    },
+    {
+      "id": "229",
+      "latitude": "40.745793884066536",
+      "longitude": "-74.00120258331299",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "9 Ave @ 23 St"
+    },
+    {
+      "id": "178",
+      "latitude": "40.75245875985304",
+      "longitude": "-73.99613857269287",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "9 Ave @ 34 St"
+    },
+    {
+      "id": "507",
+      "latitude": "40.75447434681541",
+      "longitude": "-73.99463653564453",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "9 Ave @ 37 St"
+    },
+    {
+      "id": "506",
+      "latitude": "40.757595135105426",
+      "longitude": "-73.99244785308838",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "9 Ave @ 42 St"
+    },
+    {
+      "id": "502",
+      "latitude": "40.76198349577638",
+      "longitude": "-73.98922920227051",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "9 Ave @ 49 St"
+    },
+    {
+      "id": "508",
+      "latitude": "40.767119135122165",
+      "longitude": "-73.98549556732178",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "9 Ave @ 57 St"
+    },
+    {
+      "id": "1037",
+      "latitude": "40.799492",
+      "longitude": "-73.955209",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Adam C. Powell Blvd @ 110 St\/CPN"
+    },
+    {
+      "id": "917",
+      "latitude": "40.696346",
+      "longitude": "-73.988845",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Adams St @ Tillary St"
+    },
+    {
+      "id": "1194",
+      "latitude": "40.710749",
+      "longitude": "-73.959917",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Allan St (1 Ave) @ Houston St (B)"
+    },
+    {
+      "id": "1117",
+      "latitude": "40.719374",
+      "longitude": "-73.9902",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Allen @ Delancey St"
+    },
+    {
+      "id": "1196",
+      "latitude": "40.719108",
+      "longitude": "-73.99043",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Allen St @ Delancey St (B)"
+    },
+    {
+      "id": "248",
+      "latitude": "40.850354",
+      "longitude": "-73.940604",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Amsterdam @ 178 St"
+    },
+    {
+      "id": "526",
+      "latitude": "40.77787668796429",
+      "longitude": "-73.98141860961914",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Amsterdam @ 72 St"
+    },
+    {
+      "id": "527",
+      "latitude": "40.78687789346236",
+      "longitude": "-73.97489547729492",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Amsterdam @ 86 St"
+    },
+    {
+      "id": "741",
+      "latitude": "40.813323",
+      "longitude": "-73.956265",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Amsterdam Ave @ 125 St"
+    },
+    {
+      "id": "847",
+      "latitude": "40.84833",
+      "longitude": "-73.930868",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Amsterdam Ave @ 181 St"
+    },
+    {
+      "id": "514",
+      "latitude": "40.77020682849771",
+      "longitude": "-73.9868688583374",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Amsterdam Ave @ 60 St"
+    },
+    {
+      "id": "973",
+      "latitude": "40.760433",
+      "longitude": "-73.861412",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Astoria Blvd @ 108 St"
+    },
+    {
+      "id": "492",
+      "latitude": "40.69075876767013",
+      "longitude": "-73.9984130859375",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Atlantic Ave @ BQE"
+    },
+    {
+      "id": "1112",
+      "latitude": "40.683598",
+      "longitude": "-73.9759",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Atlantic Ave @ Fort Greene Pl"
+    },
+    {
+      "id": "1135",
+      "latitude": "40.683598",
+      "longitude": "-73.975909",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Atlantic Ave @ Fort Greene Pl"
+    },
+    {
+      "id": "172",
+      "latitude": "40.71662313269983",
+      "longitude": "-73.99918556213379",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Baxter St @ Canal Street"
+    },
+    {
+      "id": "1006",
+      "latitude": "40.707339",
+      "longitude": "-73.998294",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB - 28 North West Manhattan Tower"
+    },
+    {
+      "id": "993",
+      "latitude": "40.705446",
+      "longitude": "-73.9959166",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB - 47 North Rdwy @ West of Bklyn Twr"
+    },
+    {
+      "id": "994",
+      "latitude": "40.705361",
+      "longitude": "-73.996088",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB - 50 South Rdwy @ West of Bklyn Twr"
+    },
+    {
+      "id": "995",
+      "latitude": "40.703392",
+      "longitude": "-73.99335",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB - 66 North Rdwy @ Above Water St\/Bklyn"
+    },
+    {
+      "id": "996",
+      "latitude": "40.703286",
+      "longitude": "-73.993560",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB - 68 South Rdwy @ Above Water St\/Bklyn"
+    },
+    {
+      "id": "989",
+      "latitude": "40.708272",
+      "longitude": "-73.999488",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB -21 North Rdwy @ Above South St"
+    },
+    {
+      "id": "990",
+      "latitude": "40.708186",
+      "longitude": "-73.999623",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB -24 South Rdwy @ Above South St"
+    },
+    {
+      "id": "991",
+      "latitude": "40.7060356",
+      "longitude": "-73.9966579",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB -39 North Rdwy @ Bridge Midspan"
+    },
+    {
+      "id": "974",
+      "latitude": "40.702524",
+      "longitude": "-73.992283",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB -\u00a0 71 North Rdwy @ Front St \u00a0"
+    },
+    {
+      "id": "982",
+      "latitude": "40.708574",
+      "longitude": "-74.000112",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB \u2013 15 North Rdwy @ Manhattan Anchorage"
+    },
+    {
+      "id": "983",
+      "latitude": "40.708647",
+      "longitude": "-73.999962",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB \u2013 16 South Rdwy @ Manhattan Anchorage"
+    },
+    {
+      "id": "980",
+      "latitude": "40.707558",
+      "longitude": "-73.998581",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB \u2013 25 North Rdwy @ West of Manhattan Twr"
+    },
+    {
+      "id": "981",
+      "latitude": "40.707458",
+      "longitude": "-73.998712",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB \u2013 26 South Rdwy @ West of Manhattan Twr"
+    },
+    {
+      "id": "1032",
+      "latitude": "40.704131",
+      "longitude": "-73.994659",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB \u2013 51A Brooklyn Tower \u2013 South Rdwy"
+    },
+    {
+      "id": "1031",
+      "latitude": "40.704173",
+      "longitude": "-73.994281",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB \u2013 52A Brooklyn Tower \u2013 North Rdwy"
+    },
+    {
+      "id": "963",
+      "latitude": "40.703795",
+      "longitude": "-73.994062",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB \u2013 64 South Rdwy @ Bklyn Twr Side Sapn"
+    },
+    {
+      "id": "975",
+      "latitude": "40.702461",
+      "longitude": "-73.992372",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "BB \u2013 72 South Rdwy @ Front St"
+    },
+    {
+      "id": "1156",
+      "latitude": "40.701565",
+      "longitude": "-73.992009",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-22 BQE @ Old Fulton St"
+    },
+    {
+      "id": "998",
+      "latitude": "40.707138",
+      "longitude": "-73.998502",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-27A Manhattan Tower South"
+    },
+    {
+      "id": "999",
+      "latitude": "40.707365",
+      "longitude": "-73.998188",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-28A Manhattan Tower North"
+    },
+    {
+      "id": "1000",
+      "latitude": "40.707189",
+      "longitude": "-73.998376",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-29 North East Manhattan Tower"
+    },
+    {
+      "id": "1001",
+      "latitude": "40.707376",
+      "longitude": "-73.998188",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-30 South East Manhattan Tower"
+    },
+    {
+      "id": "1107",
+      "latitude": "40.705626",
+      "longitude": "-73.9962",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-43 North Rdwy @ Center Expansion Jt"
+    },
+    {
+      "id": "1108",
+      "latitude": "40.704815",
+      "longitude": "-73.9951",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-44 North Rdwy @ 350Ft West of Bklyn Twr"
+    },
+    {
+      "id": "1131",
+      "latitude": "40.704815",
+      "longitude": "-73.995126",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-44 North Rdwy @ 350Ft West of Bklyn Twr"
+    },
+    {
+      "id": "1109",
+      "latitude": "40.704726",
+      "longitude": "-73.9953",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-45 South Rdwy @ 350Ft West of Bklyn Twr"
+    },
+    {
+      "id": "1132",
+      "latitude": "40.704726",
+      "longitude": "-73.995256",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-45 South Rdwy @ 350Ft West of Bklyn Twr"
+    },
+    {
+      "id": "1110",
+      "latitude": "40.705548",
+      "longitude": "-73.9963",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-46 South Rdwy @ Center Expansion Jt"
+    },
+    {
+      "id": "1002",
+      "latitude": "40.704172",
+      "longitude": "-73.994324",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-51 North West Brooklyn Tower"
+    },
+    {
+      "id": "1003",
+      "latitude": "40.704071",
+      "longitude": "-73.994462",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-52 South West Brooklyn Tower"
+    },
+    {
+      "id": "1004",
+      "latitude": "40.704129",
+      "longitude": "-73.994275",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-53 North East Brooklyn Tower"
+    },
+    {
+      "id": "1005",
+      "latitude": "40.704030",
+      "longitude": "-73.994422",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-54 South East Brooklyn Tower"
+    },
+    {
+      "id": "984",
+      "latitude": "40.703912",
+      "longitude": "-73.994062",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BB-63 North Rdwy@ Bklyn Twr East"
+    },
+    {
+      "id": "924",
+      "latitude": "40.58174",
+      "longitude": "-73.838443",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Beach Channel Dr @ Beach 116 St"
+    },
+    {
+      "id": "816",
+      "latitude": "40.585808",
+      "longitude": "-73.823158",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Beach Channel Dr @B 101 St"
+    },
+    {
+      "id": "815",
+      "latitude": "40.57757",
+      "longitude": "-73.859754",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Beach Channel Dr @B 140 St"
+    },
+    {
+      "id": "818",
+      "latitude": "40.598651",
+      "longitude": "-73.766059",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Beach Channel Dr @B 32 St"
+    },
+    {
+      "id": "817",
+      "latitude": "40.589356",
+      "longitude": "-73.815578",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Beach Channel Dr @B 90 St"
+    },
+    {
+      "id": "819",
+      "latitude": "40.605347",
+      "longitude": "-73.75518",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Beach Channel Dr @B Mott Ave"
+    },
+    {
+      "id": "128",
+      "latitude": "40.666600",
+      "longitude": "-73.810400",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ 130 St"
+    },
+    {
+      "id": "699",
+      "latitude": "40.659301",
+      "longitude": "-73.854457",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ 158 Ave"
+    },
+    {
+      "id": "139",
+      "latitude": "40.639032474561056",
+      "longitude": "-74.03562068939209",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Belt Pkwy @ 68 St"
+    },
+    {
+      "id": "518",
+      "latitude": "40.60439255008019",
+      "longitude": "-74.01698586190183",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ Bay 8th St"
+    },
+    {
+      "id": "443",
+      "latitude": "40.66527499112987",
+      "longitude": "-73.74040603637695",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ Brookville Blvd"
+    },
+    {
+      "id": "499",
+      "latitude": "40.68288359591785",
+      "longitude": "-73.72645854949951",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ Cross Island Split"
+    },
+    {
+      "id": "141",
+      "latitude": "40.650917771261284",
+      "longitude": "-73.86576175689697",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ Erskine"
+    },
+    {
+      "id": "132",
+      "latitude": "40.59564132857263",
+      "longitude": "-73.90764713287354",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ Flatbush"
+    },
+    {
+      "id": "140",
+      "latitude": "40.58325730655326",
+      "longitude": "-73.96665573120117",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ Ocean Pkwy"
+    },
+    {
+      "id": "496",
+      "latitude": "40.642516876713096",
+      "longitude": "-73.8758897781372",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ Pennsylvania Ave"
+    },
+    {
+      "id": "497",
+      "latitude": "40.66527499112987",
+      "longitude": "-73.75757217407227",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Belt Pkwy @ Springfield Blvd"
+    },
+    {
+      "id": "918",
+      "latitude": "40.692174",
+      "longitude": "-73.98913",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Boerum Pl @ Fulton St & Joralemon St"
+    },
+    {
+      "id": "1040",
+      "latitude": "40.831378",
+      "longitude": "-73.900286",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Boston Rd. @ E 169 St"
+    },
+    {
+      "id": "1085",
+      "latitude": "40.727155",
+      "longitude": "-73.991628",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Bowery @ Cooper Sq & 4 St"
+    },
+    {
+      "id": "205",
+      "latitude": "40.6750400413786",
+      "longitude": "-74.00030136108398",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BQE @ Hamilton Ave B-G Ramp"
+    },
+    {
+      "id": "942",
+      "latitude": "40.692444",
+      "longitude": "-73.999539",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BQE-09-WB_at_State_St_LL-Ex27"
+    },
+    {
+      "id": "943",
+      "latitude": "40.696418",
+      "longitude": "-73.980496",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BQE-17_E_at_Navy_St-Ex29B"
+    },
+    {
+      "id": "944",
+      "latitude": "40.707191",
+      "longitude": "-73.957735",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BQE-23-EB_at_Division_Ave-Ex31"
+    },
+    {
+      "id": "945",
+      "latitude": "40.735292",
+      "longitude": "-73.91917",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BQE-32-WB_at_ramp_to_LIE-Ex35"
+    },
+    {
+      "id": "670",
+      "latitude": "40.734787",
+      "longitude": "-73.921208",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BQE33 WB at 45th St - Ex35"
+    },
+    {
+      "id": "671",
+      "latitude": "40.73825",
+      "longitude": "-73.903635",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BQE35 EB at 61st St - Ex39"
+    },
+    {
+      "id": "673",
+      "latitude": "40.754149",
+      "longitude": "-73.898635",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "BQE40 WB at Northern Blvd - Ex41"
+    },
+    {
+      "id": "986",
+      "latitude": "40.708195",
+      "longitude": "-73.999305",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Br Br - 19 N Rdwy @ FDR Dr"
+    },
+    {
+      "id": "987",
+      "latitude": "40.708045",
+      "longitude": "-73.999541",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Br Br-20 S Rdwy FDR Dr"
+    },
+    {
+      "id": "686",
+      "latitude": "40.827303",
+      "longitude": "-73.849905",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "BRE05 WB at Castle Hill Ave Ex52"
+    },
+    {
+      "id": "1106",
+      "latitude": "40.81575",
+      "longitude": "-73.9585",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 125 St"
+    },
+    {
+      "id": "1128",
+      "latitude": "40.81575",
+      "longitude": "-73.95853",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 125 St"
+    },
+    {
+      "id": "937",
+      "latitude": "40.826446",
+      "longitude": "-73.950423",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 145 St"
+    },
+    {
+      "id": "224",
+      "latitude": "40.84085950690562",
+      "longitude": "-73.93914699554443",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 169 Street"
+    },
+    {
+      "id": "475",
+      "latitude": "40.755092014459095",
+      "longitude": "-73.98674011230469",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 42 St"
+    },
+    {
+      "id": "899",
+      "latitude": "40.756583",
+      "longitude": "-73.986156",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 43 St"
+    },
+    {
+      "id": "1105",
+      "latitude": "40.758744",
+      "longitude": "-73.9855",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 46 St"
+    },
+    {
+      "id": "1127",
+      "latitude": "40.7587444",
+      "longitude": "-73.9854759",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 46 St"
+    },
+    {
+      "id": "1102",
+      "latitude": "40.758700",
+      "longitude": "-73.985348",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 46 St- Quad East"
+    },
+    {
+      "id": "1099",
+      "latitude": "40.758722",
+      "longitude": "-73.985360",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 46 St- Quad North"
+    },
+    {
+      "id": "1101",
+      "latitude": "40.758692",
+      "longitude": "-73.985371",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 46 St- Quad South"
+    },
+    {
+      "id": "1100",
+      "latitude": "40.758720",
+      "longitude": "-73.985390",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 46 St- Quad West"
+    },
+    {
+      "id": "187",
+      "latitude": "40.758711",
+      "longitude": "-73.985366",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 46 Street"
+    },
+    {
+      "id": "421",
+      "latitude": "40.761268375278135",
+      "longitude": "-73.98356437683105",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 51 St"
+    },
+    {
+      "id": "739",
+      "latitude": "40.794668",
+      "longitude": "-73.971788",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ 96 St"
+    },
+    {
+      "id": "351",
+      "latitude": "40.710637808196715",
+      "longitude": "-74.00854110717773",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broadway @ Vesey St"
+    },
+    {
+      "id": "452",
+      "latitude": "40.709046",
+      "longitude": "-74.000735",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Brooklyn Bridge - Ped Walk Way"
+    },
+    {
+      "id": "175",
+      "latitude": "40.711776362449456",
+      "longitude": "-74.00472164154053",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Bridge @ Centre Street"
+    },
+    {
+      "id": "668",
+      "latitude": "40.725389",
+      "longitude": "-73.93316",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expwyat Stewart Avenue"
+    },
+    {
+      "id": "635",
+      "latitude": "40.75766",
+      "longitude": "-73.90106",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy - GCP @ 31st Ave"
+    },
+    {
+      "id": "624",
+      "latitude": "40.71407",
+      "longitude": "-73.953137",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @  Metropolitan Ave"
+    },
+    {
+      "id": "611",
+      "latitude": "40.701366",
+      "longitude": "-73.98865",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @ Adams St"
+    },
+    {
+      "id": "595",
+      "latitude": "40.691605",
+      "longitude": "-73.999207",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @ Atlantic Ave"
+    },
+    {
+      "id": "620",
+      "latitude": "40.708182",
+      "longitude": "-73.957279",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @ Broadway St"
+    },
+    {
+      "id": "615",
+      "latitude": "40.69925119494625",
+      "longitude": "-73.96137714385986",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @ Kent Ave"
+    },
+    {
+      "id": "609",
+      "latitude": "40.700943",
+      "longitude": "-73.994701",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @ Middagh St LL"
+    },
+    {
+      "id": "605",
+      "latitude": "40.701187",
+      "longitude": "-73.9941",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @ Middagh St UL"
+    },
+    {
+      "id": "630",
+      "latitude": "40.723242",
+      "longitude": "-73.939254",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @ Morgan Ave"
+    },
+    {
+      "id": "598",
+      "latitude": "40.692369",
+      "longitude": "-73.999486",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @ State St UL"
+    },
+    {
+      "id": "588",
+      "latitude": "40.684397",
+      "longitude": "-74.001245",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Brooklyn Queens Expy @ Union St"
+    },
+    {
+      "id": "1195",
+      "latitude": "40.721091",
+      "longitude": "-73.998074",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Broome St and Lafayette St"
+    },
+    {
+      "id": "730",
+      "latitude": "40.807681",
+      "longitude": "-73.929512",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Bruckner Blvd @ Lincoln Ave"
+    },
+    {
+      "id": "1015",
+      "latitude": "40.809519",
+      "longitude": "-73.903004",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Bruckner Expwy (BRE-01) WB @ E. 149 St Ex48"
+    },
+    {
+      "id": "1016",
+      "latitude": "40.819954",
+      "longitude": "-73.890441",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Bruckner Expwy (BRE-02) EB @ Hunts Pt Ave Ex 50"
+    },
+    {
+      "id": "1017",
+      "latitude": "40.822617",
+      "longitude": "-73.885982",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Bruckner Expwy (BRE-03) @ Witier St Ex 49"
+    },
+    {
+      "id": "1026",
+      "latitude": "40.8238122990785",
+      "longitude": "-73.871726989746",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Bruckner Expy @ Bronx River Pkwy"
+    },
+    {
+      "id": "1232",
+      "latitude": "40.82",
+      "longitude": "-73.83",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-BRE-06_W - WB_at_CBX-Hutch_Int-EX6A"
+    },
+    {
+      "id": "1172",
+      "latitude": "40.838087",
+      "longitude": "-73.824953",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-BRE-08-NB_at_Waterbury_Ave-Ex7B"
+    },
+    {
+      "id": "1173",
+      "latitude": "40.840811",
+      "longitude": "-73.825902",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-BRE-09-SB_at_Lasalle_Ave-Ex7C"
+    },
+    {
+      "id": "1174",
+      "latitude": "40.84549",
+      "longitude": "-73.825543",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-BRE-10-NB_at_Middle_Twn_Rd-Ex7C"
+    },
+    {
+      "id": "1198",
+      "latitude": "40.84897",
+      "longitude": "-73.827533",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-BRE-11-SB_at_Buhre_Ave-Ex8A"
+    },
+    {
+      "id": "1175",
+      "latitude": "40.834406",
+      "longitude": "-73.874177",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-BRP-01-SB_at_E.174th_St-Ex3"
+    },
+    {
+      "id": "1234",
+      "latitude": "40.84",
+      "longitude": "-73.92",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-CBE-03_N_NB_at_Nelson_Ave-Ex02A"
+    },
+    {
+      "id": "1235",
+      "latitude": "40.84",
+      "longitude": "-73.91",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-CBE-04_N - NB_at_Macombs Rd-Ex2A"
+    },
+    {
+      "id": "1177",
+      "latitude": "40.84482",
+      "longitude": "-73.907408",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-CBE-06_N_NB_at_Weeks Ave-Ext02B"
+    },
+    {
+      "id": "1178",
+      "latitude": "40.836506",
+      "longitude": "-73.873027",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-CBE-10-SB_at_Brx.Rvr_Pkwy-Ex4A"
+    },
+    {
+      "id": "1236",
+      "latitude": "40.82",
+      "longitude": "-73.81",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-CBX-17-Med_at_E.Tremont_Ave-Ex10"
+    },
+    {
+      "id": "1199",
+      "latitude": "40.819367",
+      "longitude": "-73.81055",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-CBX-18-Med_at_Pennyfield_Av-TNB"
+    },
+    {
+      "id": "1179",
+      "latitude": "40.803545",
+      "longitude": "-73.916135",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-01-Cntr_at_E.135th_St-Ex1"
+    },
+    {
+      "id": "1180",
+      "latitude": "40.806729",
+      "longitude": "-73.923727",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C1-MDE-02-NB_at_Willis_Ave-Ex2"
+    },
+    {
+      "id": "1237",
+      "latitude": "40.81",
+      "longitude": "-73.93",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-03-SB_at_E.138th_St-Ex3"
+    },
+    {
+      "id": "1239",
+      "latitude": "40.81",
+      "longitude": "-73.93",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-04-SB_at_Grand_Concrse-Ex3"
+    },
+    {
+      "id": "1200",
+      "latitude": "40.825097",
+      "longitude": "-73.931354",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-05-SB_at_E.153rd_St-Ex4"
+    },
+    {
+      "id": "1238",
+      "latitude": "40.82",
+      "longitude": "-73.93",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-05-SB_at_E.153rd_St-Ex4"
+    },
+    {
+      "id": "1240",
+      "latitude": "40.82",
+      "longitude": "-73.93",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C1-MDE-06-NB_at_Macombs_Dam_Br-Ex5"
+    },
+    {
+      "id": "1202",
+      "latitude": "40.84154",
+      "longitude": "-73.928612",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-09-SB_at_Depot_Pl-Ex7-CBX"
+    },
+    {
+      "id": "1203",
+      "latitude": "40.855126",
+      "longitude": "-73.918007",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-11-NB_at_W.179th_St-Ex8"
+    },
+    {
+      "id": "1204",
+      "latitude": "40.867065",
+      "longitude": "-73.908921",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-12-SB_at_Heath_Ave-Ex9"
+    },
+    {
+      "id": "1206",
+      "latitude": "40.889129",
+      "longitude": "-73.888492",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-14-NB_at_Mosholu_Pkwy-Ex12"
+    },
+    {
+      "id": "1207",
+      "latitude": "40.897282",
+      "longitude": "-73.879845",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-MDE-15-NB_at_Jerome_Ave-Ex13"
+    },
+    {
+      "id": "1208",
+      "latitude": "40.837446",
+      "longitude": "-73.880984",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-SHE-02-SB_at_Cross_Brx_Expwy"
+    },
+    {
+      "id": "1210",
+      "latitude": "40.835488",
+      "longitude": "-73.824394",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-TNE-01-SB_at_Otis-Ave"
+    },
+    {
+      "id": "1211",
+      "latitude": "40.827977",
+      "longitude": "-73.817743",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C1-TNE-02-Med_at_Randall_Ave"
+    },
+    {
+      "id": "1242",
+      "latitude": "40.69",
+      "longitude": "-73.99",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-BQE-11-WB_at_Furmn_St_UP-Ex28A"
+    },
+    {
+      "id": "1243",
+      "latitude": "40.69",
+      "longitude": "-73.99",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-BQE-12-WB_at_Furmn_St_LL-Ex28A"
+    },
+    {
+      "id": "1244",
+      "latitude": "40.69",
+      "longitude": "-73.98",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-BQE-16-WB_at_Sands_St-Ex29A"
+    },
+    {
+      "id": "1245",
+      "latitude": "40.7",
+      "longitude": "-73.95",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-BQE-22-WB_at_Lee_Ave-Ex31"
+    },
+    {
+      "id": "1246",
+      "latitude": "40.7",
+      "longitude": "-73.95",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-BQE-25-WB_at_S.5th_St-Ex32"
+    },
+    {
+      "id": "1212",
+      "latitude": "40.710536",
+      "longitude": "-73.95588",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-BQE-26-Cntr_at_Grand_Ave-Ex32"
+    },
+    {
+      "id": "1247",
+      "latitude": "40.72",
+      "longitude": "-73.93",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-BQE-29_WB_at_Morgan_Street"
+    },
+    {
+      "id": "1248",
+      "latitude": "40.61",
+      "longitude": "-74.02",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-GE-01-WB_at_92nd_St-Vrrazano_Br"
+    },
+    {
+      "id": "1249",
+      "latitude": "40.62",
+      "longitude": "-74.02",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-GE-02-WB_at_Ft_Hmiltn_Pkwy-Ex19"
+    },
+    {
+      "id": "1213",
+      "latitude": "40.645287",
+      "longitude": "-74.01669",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C2-GE-08_E_EB_at_54th_St"
+    },
+    {
+      "id": "1250",
+      "latitude": "40.65",
+      "longitude": "-74.01",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C2-GE-11_E_EB_at_37th_St_Ex23"
+    },
+    {
+      "id": "1251",
+      "latitude": "40.52",
+      "longitude": "-74.23",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C3-KWV-01-NB_at_Tyrllan_Ave-Outrbr"
+    },
+    {
+      "id": "1252",
+      "latitude": "40.52",
+      "longitude": "-74.21",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-KWV-02-NB_at_Bloomngdale_Rd-Ex2"
+    },
+    {
+      "id": "1253",
+      "latitude": "40.61",
+      "longitude": "-74.15",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-MLK-01-SB_at_Watchogue_Rd-Ex10"
+    },
+    {
+      "id": "1254",
+      "latitude": "40.62",
+      "longitude": "-74.14",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-MLK-02-NB_at_Forest_Ave-Ex11"
+    },
+    {
+      "id": "1255",
+      "latitude": "40.63",
+      "longitude": "-74.14",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C3-MLK-03_NB_at_Walkr_St-Bayonne_Br"
+    },
+    {
+      "id": "1256",
+      "latitude": "40.62",
+      "longitude": "-74.17",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-01-WB_at_Forest_Ave"
+    },
+    {
+      "id": "1257",
+      "latitude": "40.62",
+      "longitude": "-74.17",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-02-EB_at_WSE_Int-Ex3"
+    },
+    {
+      "id": "1258",
+      "latitude": "40.62",
+      "longitude": "-74.16",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C3-SIE-03-WB_at_South_Ave-Ex5"
+    },
+    {
+      "id": "1260",
+      "latitude": "40.61",
+      "longitude": "-74.16",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-04-WB_at_Lambert_St_Ex6"
+    },
+    {
+      "id": "1259",
+      "latitude": "40.61",
+      "longitude": "-74.15",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-04A-WB_at_Richmond Ave"
+    },
+    {
+      "id": "1261",
+      "latitude": "40.61",
+      "longitude": "-74.15",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C3-SIE-05-WB_at_MLK-Int-Ex9"
+    },
+    {
+      "id": "1263",
+      "latitude": "40.6",
+      "longitude": "-74.15",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C3-SIE-06-EB_at_Victory_Blvd-Ex10"
+    },
+    {
+      "id": "1262",
+      "latitude": "40.6",
+      "longitude": "-74.14",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-06A-E_at_Crafton_Ave_Ex10"
+    },
+    {
+      "id": "1264",
+      "latitude": "40.6",
+      "longitude": "-74.14",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-07-EB_at_Woolley_Ave-Ex10"
+    },
+    {
+      "id": "1265",
+      "latitude": "40.6",
+      "longitude": "-74.13",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-08-EB_at_Bradley_Ave-Ex11"
+    },
+    {
+      "id": "1266",
+      "latitude": "40.61",
+      "longitude": "-74.1",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-09-EB_at_ Manor_Rd"
+    },
+    {
+      "id": "1267",
+      "latitude": "40.61",
+      "longitude": "-74.10",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-11-EB_at_Renwick_Ave"
+    },
+    {
+      "id": "1268",
+      "latitude": "40.6",
+      "longitude": "-74.07",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-12-WB_Btwn_Clove_Road_and_Richmond_Road"
+    },
+    {
+      "id": "1269",
+      "latitude": "40.6",
+      "longitude": "-74.06",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-13_EB_at_Mosel_Avenue"
+    },
+    {
+      "id": "1270",
+      "latitude": "40.60",
+      "longitude": "-74.07",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-14-WB_at_Hyland_Blvd_Ex14"
+    },
+    {
+      "id": "1271",
+      "latitude": "40.60",
+      "longitude": "-74.06",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-SIE-15-EB_at_Fingerboard_Rd_Ex15"
+    },
+    {
+      "id": "1272",
+      "latitude": "40.53",
+      "longitude": "-74.22",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-01-NB_at_Englewood_Ave-Ex2"
+    },
+    {
+      "id": "1273",
+      "latitude": "40.54",
+      "longitude": "-74.22",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-02-SB_at_Woodrow_Rd-Ex3"
+    },
+    {
+      "id": "1274",
+      "latitude": "40.54",
+      "longitude": "-74.22",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-03-SB_at_Bloomngdale_Rd-Ex3"
+    },
+    {
+      "id": "1275",
+      "latitude": "40.55",
+      "longitude": "-74.21",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-04-SB_at_Rossville_Ave-Ex4"
+    },
+    {
+      "id": "1276",
+      "latitude": "40.56",
+      "longitude": "-74.19",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-05-NB_at_Arden_Ave-Ex4"
+    },
+    {
+      "id": "1277",
+      "latitude": "40.56",
+      "longitude": "-74.19",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-06-NB_at_Muldoon_Ave-Ex5"
+    },
+    {
+      "id": "1278",
+      "latitude": "40.57",
+      "longitude": "-74.19",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-07-NB_at_Frsh_Kills_Crk-Ex5"
+    },
+    {
+      "id": "1279",
+      "latitude": "40.58",
+      "longitude": "-74.19",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-08-SB_at_Victory_Blvd-Ex7"
+    },
+    {
+      "id": "1280",
+      "latitude": "40.59",
+      "longitude": "-74.19",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-09-SB_at_Meredith_Blvd-Ex8"
+    },
+    {
+      "id": "1281",
+      "latitude": "40.6",
+      "longitude": "-74.18",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-10-SB_at_South_Ave-Ex8"
+    },
+    {
+      "id": "1282",
+      "latitude": "40.6",
+      "longitude": "-74.18",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C3-WSE-11-SB_at_Edwrd_Crry_Ave-Ex9"
+    },
+    {
+      "id": "1283",
+      "latitude": "40.61",
+      "longitude": "-74.18",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C3-WSE-12-NB_at_Bloomfield_Ave_Ex9"
+    },
+    {
+      "id": "1284",
+      "latitude": "40.72",
+      "longitude": "-74.01",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C4-WST-02-NB_at_Vestry_St"
+    },
+    {
+      "id": "1285",
+      "latitude": "40.72",
+      "longitude": "-74.01",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C4-WST-03-Med_at_Vestry_St"
+    },
+    {
+      "id": "1286",
+      "latitude": "40.74",
+      "longitude": "-74.0",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C4-WST-07-Med_at_W.23rd_St"
+    },
+    {
+      "id": "1214",
+      "latitude": "40.732548",
+      "longitude": "-73.924803",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-BQE-31-EB_at_54th_Ave"
+    },
+    {
+      "id": "1287",
+      "latitude": "40.74",
+      "longitude": "-73.89",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-BQE-39-WB_at_Broadway-Ex40"
+    },
+    {
+      "id": "1288",
+      "latitude": "40.75",
+      "longitude": "-73.9",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-BQE-42-WB_at_30th_Ave-Ex43"
+    },
+    {
+      "id": "1289",
+      "latitude": "40.75",
+      "longitude": "-73.89",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-BQE-44-Med_at_31st_Ave-Ex41"
+    },
+    {
+      "id": "1290",
+      "latitude": "40.73",
+      "longitude": "-73.76",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-CVE-01-SB_at_Union_Turnpike"
+    },
+    {
+      "id": "1291",
+      "latitude": "40.75",
+      "longitude": "-73.85",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-GCP-07-EB_at_Ditmars_Blvd-Ex9"
+    },
+    {
+      "id": "1216",
+      "latitude": "40.734074",
+      "longitude": "-73.844484",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-GCP-11_EB_at_64th_Ave-Ex10"
+    },
+    {
+      "id": "1217",
+      "latitude": "40.726696",
+      "longitude": "-73.837873",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-GCP-12_WB_at_69th_Rd-Ex11"
+    },
+    {
+      "id": "1218",
+      "latitude": "40.721099",
+      "longitude": "-73.835199",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-GCP-13-EB_at_72nd_Rd-Ex11"
+    },
+    {
+      "id": "1219",
+      "latitude": "40.71676",
+      "longitude": "-73.830245",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-GCP-14_WB_at_76th_Road-Ex13"
+    },
+    {
+      "id": "1292",
+      "latitude": "40.71",
+      "longitude": "-73.82",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-GCP-16-EB_at_Conn_at_126th_St"
+    },
+    {
+      "id": "1293",
+      "latitude": "40.73",
+      "longitude": "-73.94",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-LIE-02-EB_at_27th_St-Ex15"
+    },
+    {
+      "id": "1294",
+      "latitude": "40.73",
+      "longitude": "-73.91",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-LIE-08-EB_48th_St_LL-Ex16"
+    },
+    {
+      "id": "1295",
+      "latitude": "40.72",
+      "longitude": "-73.9",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-LIE-11-EB_at_60th_St-Ex18"
+    },
+    {
+      "id": "1296",
+      "latitude": "40.73",
+      "longitude": "-73.86",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-LIE-15-WB_at_Queens_Blvd-Ex19"
+    },
+    {
+      "id": "1297",
+      "latitude": "40.74",
+      "longitude": "-73.84",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-LIE-17-EB_at_GCP-Ex22A_GCP"
+    },
+    {
+      "id": "1298",
+      "latitude": "40.74",
+      "longitude": "-73.82",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-LIE-19-WB_at_138th_St-Ex23"
+    },
+    {
+      "id": "1299",
+      "latitude": "40.73",
+      "longitude": "-73.8",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-LIE-22-WB_at_163rd_St-Ex25"
+    },
+    {
+      "id": "1300",
+      "latitude": "40.74",
+      "longitude": "-73.76",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-LIE-27-WB_at_Clearview_Exwy-Ex27"
+    },
+    {
+      "id": "1220",
+      "latitude": "40.74669647",
+      "longitude": "-73.76365673",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-LIE-28-EB_at_213th_St-Ex28"
+    },
+    {
+      "id": "1221",
+      "latitude": "40.74907941",
+      "longitude": "-73.75828283",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-LIE-29-WB_at_220th_St-Ex29"
+    },
+    {
+      "id": "1222",
+      "latitude": "40.763711",
+      "longitude": "-73.726771",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-LIE-30-WB_at_254th_St-Ex32"
+    },
+    {
+      "id": "1301",
+      "latitude": "40.7",
+      "longitude": "-73.81",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-VWE-20_NB_at_Main_Street-Ex8"
+    },
+    {
+      "id": "1302",
+      "latitude": "40.71",
+      "longitude": "-73.82",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "C5-VWE-25-NB_at_GCP-Intr.-Ex14"
+    },
+    {
+      "id": "1303",
+      "latitude": "40.73",
+      "longitude": "-73.83",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "C5-VWE-28-SB_at_67th_Rd-Ex11"
+    },
+    {
+      "id": "915",
+      "latitude": "40.700743",
+      "longitude": "-73.989736",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cadman Plz E\/Washington St @ Prospect St"
+    },
+    {
+      "id": "919",
+      "latitude": "40.696267",
+      "longitude": "-73.991073",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Cadman Plz West @ Tillary St"
+    },
+    {
+      "id": "988",
+      "latitude": "40.719655",
+      "longitude": "-74.001842",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Canal St @ Broadway"
+    },
+    {
+      "id": "435",
+      "latitude": "40.714411227628915",
+      "longitude": "-73.99223327636719",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Canal Street @ Allen Street"
+    },
+    {
+      "id": "434",
+      "latitude": "40.715191908398225",
+      "longitude": "-73.9945936203003",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Canal Street @ Chrystie Street"
+    },
+    {
+      "id": "166",
+      "latitude": "40.76773668527497",
+      "longitude": "-73.98146152496338",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Central Park S @ Columbus Cr"
+    },
+    {
+      "id": "965",
+      "latitude": "40.79421",
+      "longitude": "-73.962857",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Central Park West @ 100 St"
+    },
+    {
+      "id": "966",
+      "latitude": "40.771797",
+      "longitude": "-73.979217",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Central Park West @ 65 St"
+    },
+    {
+      "id": "964",
+      "latitude": "40.772441",
+      "longitude": "-73.978751",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Central Park West @ 66 St"
+    },
+    {
+      "id": "968",
+      "latitude": "40.779481",
+      "longitude": "-73.973578",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Central Park West @ 77 St"
+    },
+    {
+      "id": "969",
+      "latitude": "40.782031",
+      "longitude": "-73.971734",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Central Park West @ 81 St"
+    },
+    {
+      "id": "970",
+      "latitude": "40.785302",
+      "longitude": "-73.969353",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Central Park West @ 86 St"
+    },
+    {
+      "id": "971",
+      "latitude": "40.791667",
+      "longitude": "-73.964697",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Central Park West @ 96 St"
+    },
+    {
+      "id": "347",
+      "latitude": "40.712492015158084",
+      "longitude": "-74.00909900665283",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Church St @ Park Pl"
+    },
+    {
+      "id": "163",
+      "latitude": "40.71122335281535",
+      "longitude": "-74.00978565216064",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Church Street @ Vesey"
+    },
+    {
+      "id": "1041",
+      "latitude": "40.834938",
+      "longitude": "-73.894132",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Claremont @ Boston Rd."
+    },
+    {
+      "id": "448",
+      "latitude": "40.77543932860701",
+      "longitude": "-73.7841796875",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Clearview Expy @ 26th Ave"
+    },
+    {
+      "id": "449",
+      "latitude": "40.76653408231532",
+      "longitude": "-73.78096103668213",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Clearview Expy @ 35 St"
+    },
+    {
+      "id": "873",
+      "latitude": "40.763583",
+      "longitude": "-73.836038",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "College Point Blvd @ 35 Ave"
+    },
+    {
+      "id": "911",
+      "latitude": "40.747994",
+      "longitude": "-73.833113",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "College Point Blvd @ Booth Memorial Ave"
+    },
+    {
+      "id": "874",
+      "latitude": "40.758092",
+      "longitude": "-73.834234",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "College Point Blvd @ Roosevelt Ave"
+    },
+    {
+      "id": "875",
+      "latitude": "40.75467",
+      "longitude": "-73.833092",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "College Point Blvd @ Sanford Ave"
+    },
+    {
+      "id": "505",
+      "latitude": "40.77215687670767",
+      "longitude": "-73.98171901702881",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Columbus St @ 65 Ave"
+    },
+    {
+      "id": "1167",
+      "latitude": "40.800325",
+      "longitude": "-73.958392",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "CPW @ 110 St"
+    },
+    {
+      "id": "524",
+      "latitude": "40.790809445",
+      "longitude": "-73.96459579",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "CPW @ 96 St"
+    },
+    {
+      "id": "706",
+      "latitude": "40.61998",
+      "longitude": "-73.8257",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bay Blvd @  Wildlife Refuge"
+    },
+    {
+      "id": "1078",
+      "latitude": "40.678784",
+      "longitude": "-73.844359",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bay Blvd @ 107 Ave"
+    },
+    {
+      "id": "703",
+      "latitude": "40.662511",
+      "longitude": "-73.840815",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bay Blvd @ 157 Ave"
+    },
+    {
+      "id": "696",
+      "latitude": "40.598884",
+      "longitude": "-73.820711",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bay Blvd @ 20 Rd"
+    },
+    {
+      "id": "936",
+      "latitude": "40.609628",
+      "longitude": "-73.819118",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bay Blvd @ 6 Rd"
+    },
+    {
+      "id": "1079",
+      "latitude": "40.668793",
+      "longitude": "-73.842395",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bay Blvd @ N. Conduit Ave"
+    },
+    {
+      "id": "700",
+      "latitude": "40.588759",
+      "longitude": "-73.819342",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bay Blvd @ North Channel Bridge"
+    },
+    {
+      "id": "1147",
+      "latitude": "40.844981",
+      "longitude": "-73.904992",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bronx Exp (CBE-07) SB at Clay Ave (Ex2B)"
+    },
+    {
+      "id": "1149",
+      "latitude": "40.831822",
+      "longitude": "-73.855202",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bronx Exp (CBE-12) SB at Ellis Ave (Ex4B)"
+    },
+    {
+      "id": "1150",
+      "latitude": "40.830405",
+      "longitude": "-73.85045",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bronx Exp (CBE-13) SB at Cstle Hill Ave (Ex5A)"
+    },
+    {
+      "id": "1022",
+      "latitude": "40.844891",
+      "longitude": "-73.907556",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bronx Expwy (CBE-06) NB @ Weeks Av Ex2B"
+    },
+    {
+      "id": "1148",
+      "latitude": "40.83502",
+      "longitude": "-73.865929",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bronx Expwy (CBE-11)\u00a0 SB at Wood Ave(Ex4B)"
+    },
+    {
+      "id": "194",
+      "latitude": "40.82407209894054",
+      "longitude": "-73.82426261901855",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Bronx Expy @ Randall Avenue"
+    },
+    {
+      "id": "450",
+      "latitude": "40.787365288545566",
+      "longitude": "-73.81597995758057",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Cross Island Expy @ 14 Ave"
+    },
+    {
+      "id": "281",
+      "latitude": "40.779278",
+      "longitude": "-73.768564",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Island Pkwy @ Bayside Marina"
+    },
+    {
+      "id": "143",
+      "latitude": "40.788185",
+      "longitude": "-73.790539",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Island Pkwy @ Throgsneck"
+    },
+    {
+      "id": "120",
+      "latitude": "40.740168859407845",
+      "longitude": "-73.72650146484375",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Cross Island Pkwy @ Union Tpke"
+    },
+    {
+      "id": "1042",
+      "latitude": "40.840259",
+      "longitude": "-73.885677",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Crotona Pkwy @ Cross Bronx Expwy"
+    },
+    {
+      "id": "674",
+      "latitude": "40.741934",
+      "longitude": "-73.770174",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "CVE02 NB at 64th Ave"
+    },
+    {
+      "id": "675",
+      "latitude": "40.748147",
+      "longitude": "-73.773658",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "CVE03 SB at 56th Ave"
+    },
+    {
+      "id": "676",
+      "latitude": "40.752691",
+      "longitude": "-73.775804",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "CVE04 SB at 48th Ave"
+    },
+    {
+      "id": "1225",
+      "latitude": "40.718557",
+      "longitude": "-73.988199",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Delancy St @ Essex St"
+    },
+    {
+      "id": "182",
+      "latitude": "40.75814775943021",
+      "longitude": "-73.99390697479248",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Dyer @ 42 Street"
+    },
+    {
+      "id": "1124",
+      "latitude": "40.759003",
+      "longitude": "-73.993939",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Dyer Ave @ 42 St"
+    },
+    {
+      "id": "1116",
+      "latitude": "40.733978",
+      "longitude": "-73.9888",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "E 14 St @ Irving Pl\/Lexington Av"
+    },
+    {
+      "id": "810",
+      "latitude": "40.819285",
+      "longitude": "-73.930094",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "E 149 St @ River Ave"
+    },
+    {
+      "id": "176",
+      "latitude": "40.75844032338939",
+      "longitude": "-73.96493911743164",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "E 57 St @ QBB"
+    },
+    {
+      "id": "177",
+      "latitude": "40.761918485139915",
+      "longitude": "-73.96137714385986",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "E 63 St @ QBB"
+    },
+    {
+      "id": "1115",
+      "latitude": "40.730175",
+      "longitude": "-73.9911",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "E 8 St @ Lafayette St"
+    },
+    {
+      "id": "1138",
+      "latitude": "40.730175",
+      "longitude": "-73.991076",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "E 8 St @ Lafayette St"
+    },
+    {
+      "id": "791",
+      "latitude": "40.721437",
+      "longitude": "-73.983838",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "East Houston St @ Ave B"
+    },
+    {
+      "id": "790",
+      "latitude": "40.719876",
+      "longitude": "-73.978731",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "East Houston St @ Ave D"
+    },
+    {
+      "id": "824",
+      "latitude": "40.809314",
+      "longitude": "-73.929538",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Exterior St @ 3 Ave"
+    },
+    {
+      "id": "823",
+      "latitude": "40.813690",
+      "longitude": "-73.931416",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Exterior St @ E 138 St"
+    },
+    {
+      "id": "829",
+      "latitude": "40.661198",
+      "longitude": "-73.770991",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Farmers Blvd @ 147 Ave @ 175 St"
+    },
+    {
+      "id": "835",
+      "latitude": "40.667436",
+      "longitude": "-73.766763",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Farmers Blvd @ N Conduit Ave"
+    },
+    {
+      "id": "795",
+      "latitude": "40.796969",
+      "longitude": "-73.929317",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR @ 120 St"
+    },
+    {
+      "id": "735",
+      "latitude": "40.751693",
+      "longitude": "-73.965239",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR @ 48 St"
+    },
+    {
+      "id": "734",
+      "latitude": "40.803143",
+      "longitude": "-73.930444",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR @ E 127 St"
+    },
+    {
+      "id": "733",
+      "latitude": "40.754739",
+      "longitude": "-73.962190",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR @ E 53 St"
+    },
+    {
+      "id": "732",
+      "latitude": "40.721494",
+      "longitude": "-73.974554",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR @ E 6 St"
+    },
+    {
+      "id": "731",
+      "latitude": "40.713209",
+      "longitude": "-73.977491",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR @ Grand St"
+    },
+    {
+      "id": "865",
+      "latitude": "40.710992",
+      "longitude": "-73.980565",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR @ Jackson St"
+    },
+    {
+      "id": "930",
+      "latitude": "40.724136",
+      "longitude": "-73.973412",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR Dr @ 10 St"
+    },
+    {
+      "id": "274",
+      "latitude": "40.791666",
+      "longitude": "-73.935403",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR Dr @ 111 ST"
+    },
+    {
+      "id": "272",
+      "latitude": "40.806370906488624",
+      "longitude": "-73.9333963394165",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR Dr @ 131 ST (3 Ave Br)"
+    },
+    {
+      "id": "188",
+      "latitude": "40.81095093393647",
+      "longitude": "-73.93438339233398",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR Dr @ 135 Street"
+    },
+    {
+      "id": "253",
+      "latitude": "40.734803508271256",
+      "longitude": "-73.97468090057373",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR Dr @ 23 St"
+    },
+    {
+      "id": "689",
+      "latitude": "40.744441",
+      "longitude": "-73.971242",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR Dr @ 38 St"
+    },
+    {
+      "id": "691",
+      "latitude": "40.770256",
+      "longitude": "-73.947626",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR Dr @ 79 St"
+    },
+    {
+      "id": "690",
+      "latitude": "40.777422",
+      "longitude": "-73.942713",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR Dr @ 90 St"
+    },
+    {
+      "id": "186",
+      "latitude": "40.78210123234386",
+      "longitude": "-73.94369602203369",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "FDR Dr @ 96 Street"
+    },
+    {
+      "id": "436",
+      "latitude": "40.70725456069107",
+      "longitude": "-74.00004386901855",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "FDR Dr @ Brooklyn Bridge Exit SB"
+    },
+    {
+      "id": "183",
+      "latitude": "40.70826304667949",
+      "longitude": "-73.99725437164307",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "FDR Dr @ Catherine Street"
+    },
+    {
+      "id": "223",
+      "latitude": "40.70315539593832",
+      "longitude": "-74.0070390701294",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "FDR Dr @ Old Slip"
+    },
+    {
+      "id": "876",
+      "latitude": "40.609864",
+      "longitude": "-73.922379",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flatbush Ave @ Ave U"
+    },
+    {
+      "id": "839",
+      "latitude": "40.590200",
+      "longitude": "-73.900803",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flatbush Ave @ Aviator Sports & Golf Club"
+    },
+    {
+      "id": "1089",
+      "latitude": "40.689993",
+      "longitude": "-73.981630",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flatbush Ave @ DeKalb Ave"
+    },
+    {
+      "id": "844",
+      "latitude": "40.614704",
+      "longitude": "-73.928063",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flatbush Ave @ Fillmore Ave"
+    },
+    {
+      "id": "486",
+      "latitude": "40.68802534242741",
+      "longitude": "-73.98038864135742",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flatbush Ave @ Fulton St"
+    },
+    {
+      "id": "877",
+      "latitude": "40.622374",
+      "longitude": "-73.936664",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Flatbush Ave @ Kings Hwy"
+    },
+    {
+      "id": "878",
+      "latitude": "40.601134",
+      "longitude": "-73.913036",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Flatbush Ave @ Marine Park"
+    },
+    {
+      "id": "440",
+      "latitude": "40.69121432764301",
+      "longitude": "-73.98223400115967",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flatbush Ave @ Willoughby"
+    },
+    {
+      "id": "487",
+      "latitude": "40.68389245087982",
+      "longitude": "-73.97794246673584",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flatbush Ave and 4 Ave"
+    },
+    {
+      "id": "488",
+      "latitude": "40.683209034670796",
+      "longitude": "-73.9769983291626",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flatbush Ave and Atlantic Ave"
+    },
+    {
+      "id": "493",
+      "latitude": "40.67930366476232",
+      "longitude": "-73.97455215454102",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flatbush Ave@ 6 Ave"
+    },
+    {
+      "id": "1008",
+      "latitude": "40.715065",
+      "longitude": "-73.913276",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Flushing Ave @ 54 St"
+    },
+    {
+      "id": "1009",
+      "latitude": "40.721009",
+      "longitude": "-73.904092",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flushing Ave @ 61 St"
+    },
+    {
+      "id": "1010",
+      "latitude": "40.721888",
+      "longitude": "-73.903107",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flushing Ave @ Fresh Pond Rd"
+    },
+    {
+      "id": "1011",
+      "latitude": "40.722749",
+      "longitude": "-73.901592",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flushing Ave @ Grand Ave & 64 St"
+    },
+    {
+      "id": "1029",
+      "latitude": "40.762558",
+      "longitude": "-73.837090",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Flushing Bridge"
+    },
+    {
+      "id": "327",
+      "latitude": "40.85754528867217",
+      "longitude": "-73.88408660888672",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Fordham Rd @ Hughes Ave"
+    },
+    {
+      "id": "318",
+      "latitude": "40.86179721873436",
+      "longitude": "-73.89670372009277",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Fordham Rd and Grand Concourse"
+    },
+    {
+      "id": "841",
+      "latitude": "40.848657",
+      "longitude": "-73.939207",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Ft Washington @ 178 St"
+    },
+    {
+      "id": "840",
+      "latitude": "40.849349",
+      "longitude": "-73.938940",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Ft Washinton @ 179 St"
+    },
+    {
+      "id": "119",
+      "latitude": "40.716879",
+      "longitude": "-73.800069",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "GCP @ 166 St"
+    },
+    {
+      "id": "118",
+      "latitude": "40.72693354386121",
+      "longitude": "-73.75370979309082",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "GCP @ 214 St"
+    },
+    {
+      "id": "160",
+      "latitude": "40.77010932458492",
+      "longitude": "-73.9171314239502",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "GCP @ 31 ST"
+    },
+    {
+      "id": "142",
+      "latitude": "40.767003136241364",
+      "longitude": "-73.90119144603271",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "GCP @ Astoria Blvd @ 49 St"
+    },
+    {
+      "id": "378",
+      "latitude": "40.759919",
+      "longitude": "-73.846248",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "GCP E Connector  @ 126 St"
+    },
+    {
+      "id": "947",
+      "latitude": "40.768396",
+      "longitude": "-73.905687",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "GCP-02-WB_at_46th_St-Ex45"
+    },
+    {
+      "id": "679",
+      "latitude": "40.771572",
+      "longitude": "-73.876061",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "GCP06 WB at 27th Ave - Ex6"
+    },
+    {
+      "id": "1152",
+      "latitude": "40.661152",
+      "longitude": "-74.000813",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Gowanus Exp (GE-12) WB at 26th St (Ex23)"
+    },
+    {
+      "id": "565",
+      "latitude": "40.628871",
+      "longitude": "-74.01736",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Gowanus Expwy @ 72 Street"
+    },
+    {
+      "id": "564",
+      "latitude": "40.623855",
+      "longitude": "-74.019785",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Gowanus Expwy @ 79 Street"
+    },
+    {
+      "id": "566",
+      "latitude": "40.633219",
+      "longitude": "-74.016266",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Gowanus Expwy btwn 6 & 7 Ave"
+    },
+    {
+      "id": "571",
+      "latitude": "40.6669025988096",
+      "longitude": "-73.99570941925049",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Gowanus Expy @ Prospect Interchange"
+    },
+    {
+      "id": "152",
+      "latitude": "40.66673983982907",
+      "longitude": "-73.77096176147461",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "GR Brewer @ Belt"
+    },
+    {
+      "id": "1012",
+      "latitude": "40.724536",
+      "longitude": "-73.898416",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand Ave @ Hamilton Pl"
+    },
+    {
+      "id": "1013",
+      "latitude": "40.725764",
+      "longitude": "-73.895635",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand Ave @ LIE"
+    },
+    {
+      "id": "604",
+      "latitude": "40.769492",
+      "longitude": "-73.912797",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand Central Pkwy @ 37 Street"
+    },
+    {
+      "id": "607",
+      "latitude": "40.767022",
+      "longitude": "-73.896918",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand Central Pkwy @ 72 Street"
+    },
+    {
+      "id": "608",
+      "latitude": "40.766372",
+      "longitude": "-73.8937",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand Central Pkwy @ 75 Street"
+    },
+    {
+      "id": "612",
+      "latitude": "40.758115",
+      "longitude": "-73.852715",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand Central Pkwy E\/Connector @ Astoria Blvd"
+    },
+    {
+      "id": "812",
+      "latitude": "40.826849",
+      "longitude": "-73.922609",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand Concourse @ 161 St"
+    },
+    {
+      "id": "1187",
+      "latitude": "40.71096",
+      "longitude": "-73.951087",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Grand St (Borinquen Pl) @ Union Ave"
+    },
+    {
+      "id": "519",
+      "latitude": "40.71655807771725",
+      "longitude": "-73.99094581604004",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand St @ Allen St"
+    },
+    {
+      "id": "838",
+      "latitude": "40.718427",
+      "longitude": "-73.994830",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand St @ Bowery"
+    },
+    {
+      "id": "516",
+      "latitude": "40.72000590419239",
+      "longitude": "-74.00051593780518",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand St @ Broadway"
+    },
+    {
+      "id": "1192",
+      "latitude": "40.712024",
+      "longitude": "-73.940835",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Grand St @ Bushwick Ave"
+    },
+    {
+      "id": "517",
+      "latitude": "40.71590752439506",
+      "longitude": "-73.98880004882812",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand St @ Essex St"
+    },
+    {
+      "id": "1188",
+      "latitude": "40.7116462",
+      "longitude": "-73.943913",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand St @ Graham Ave"
+    },
+    {
+      "id": "1123",
+      "latitude": "40.71597",
+      "longitude": "-73.986695",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Grand St. @ Clinton St"
+    },
+    {
+      "id": "512",
+      "latitude": "40.70562793820589",
+      "longitude": "-74.01412010192871",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Greenwich St @ Morris St"
+    },
+    {
+      "id": "832",
+      "latitude": "40.667978",
+      "longitude": "-73.771617",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Guy Brewer Blvd @ N Conduit Ave"
+    },
+    {
+      "id": "871",
+      "latitude": "40.669201",
+      "longitude": "-73.996650",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Hamilton Ave @ Hamilton Pl @ 15 St (N SR)"
+    },
+    {
+      "id": "872",
+      "latitude": "40.669085",
+      "longitude": "-73.997168",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Hamilton Ave @ Hamilton PL @ 15 St (S SR)"
+    },
+    {
+      "id": "1161",
+      "latitude": "40.824074",
+      "longitude": "-73.934464",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Harlem River Dr @ 150 St"
+    },
+    {
+      "id": "805",
+      "latitude": "40.836133",
+      "longitude": "-73.934883",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Harlem Rvr Dr (FDR) @ 166 St"
+    },
+    {
+      "id": "558",
+      "latitude": "40.82199367154931",
+      "longitude": "-73.95725727081299",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Henry Hudson @ 137 St"
+    },
+    {
+      "id": "554",
+      "latitude": "40.835891916032764",
+      "longitude": "-73.94871711730957",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Henry Hudson @ 158 St"
+    },
+    {
+      "id": "933",
+      "latitude": "40.818617",
+      "longitude": "-73.96099",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Henry Hudson Pkwy @ 125 St"
+    },
+    {
+      "id": "278",
+      "latitude": "40.88383147475169",
+      "longitude": "-73.91451358795166",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Henry Hudson Pkwy @ 232 St"
+    },
+    {
+      "id": "895",
+      "latitude": "40.779679",
+      "longitude": "-73.988462",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Henry Hudson Pkwy @ 70 St"
+    },
+    {
+      "id": "291",
+      "latitude": "40.795617968801466",
+      "longitude": "-73.97618293762207",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Henry Hudson Pkwy @ 96 St"
+    },
+    {
+      "id": "788",
+      "latitude": "40.736207",
+      "longitude": "-73.713777",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Hillside Ave @ Little Neck Pkwy"
+    },
+    {
+      "id": "157",
+      "latitude": "40.725925",
+      "longitude": "-74.009506",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Holland Tunnel"
+    },
+    {
+      "id": "722",
+      "latitude": "40.725458",
+      "longitude": "-73.996756",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Houston St @ Broadway"
+    },
+    {
+      "id": "721",
+      "latitude": "40.724006",
+      "longitude": "-73.990992",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Houston St @ Christies St"
+    },
+    {
+      "id": "201",
+      "latitude": "40.840681",
+      "longitude": "-73.838395",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Hutchinson River Pkwy @ East Tremont"
+    },
+    {
+      "id": "862",
+      "latitude": "40.507726",
+      "longitude": "-74.230003",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Hylan Ave @ Page Ave"
+    },
+    {
+      "id": "861",
+      "latitude": "40.529434",
+      "longitude": "-74.161351",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Hylan Blvd @ Arden Ave"
+    },
+    {
+      "id": "923",
+      "latitude": "40.61405",
+      "longitude": "-74.066176",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Hylan Blvd @ Bay St"
+    },
+    {
+      "id": "859",
+      "latitude": "40.560385",
+      "longitude": "-74.120024",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Hylan Blvd @ Guyon Ave"
+    },
+    {
+      "id": "860",
+      "latitude": "40.524067",
+      "longitude": "-74.186177",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Hylan Blvd @ Huguenot Ave"
+    },
+    {
+      "id": "858",
+      "latitude": "40.534229",
+      "longitude": "-74.153896",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Hylan Blvd @ Richmond Ave"
+    },
+    {
+      "id": "850",
+      "latitude": "40.586632",
+      "longitude": "-74.091912",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Hylan Blvd @ Seaview Ave"
+    },
+    {
+      "id": "863",
+      "latitude": "40.519122",
+      "longitude": "-74.197091",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Hylan Blvd @ Seguine Ave"
+    },
+    {
+      "id": "879",
+      "latitude": "40.598942",
+      "longitude": "-74.072231",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Hylan Blvd @ West Fingerboard Rd & Sand Ln"
+    },
+    {
+      "id": "1191",
+      "latitude": "40.733984",
+      "longitude": "-73.988693",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Irving Pl @ 14 St"
+    },
+    {
+      "id": "1118",
+      "latitude": "40.70273",
+      "longitude": "-73.8624",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Jackie Robinson Pkwy @ Forest Pk Dr"
+    },
+    {
+      "id": "1141",
+      "latitude": "40.70273",
+      "longitude": "-73.862445",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Jackie Robinson Pkwy @ Forest Pk Dr"
+    },
+    {
+      "id": "938",
+      "latitude": "40.678191",
+      "longitude": "-73.897749",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Jackie Robinson Pkwy @ Jamaica Ave"
+    },
+    {
+      "id": "897",
+      "latitude": "40.714811",
+      "longitude": "-73.829108",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Jackie Robinson Pkwy @ Queens Blvd"
+    },
+    {
+      "id": "900",
+      "latitude": "40.750627",
+      "longitude": "-73.819113",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Kissena Blvd @ Holly Ave"
+    },
+    {
+      "id": "902",
+      "latitude": "40.739234",
+      "longitude": "-73.815061",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Kissena Blvd @ LIE N S\/R"
+    },
+    {
+      "id": "935",
+      "latitude": "40.757138",
+      "longitude": "-73.827106",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Kissena Blvd @ Sanford Ave"
+    },
+    {
+      "id": "530",
+      "latitude": "40.807980",
+      "longitude": "-73.945472",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Lenox Ave @ 125 St"
+    },
+    {
+      "id": "521",
+      "latitude": "40.813322029621865",
+      "longitude": "-73.94060611724854",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Lenox Ave @ 135 St"
+    },
+    {
+      "id": "542",
+      "latitude": "40.74569634433956",
+      "longitude": "-73.97961616516113",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Lexington Ave @ 34 St"
+    },
+    {
+      "id": "413",
+      "latitude": "40.750638177173855",
+      "longitude": "-73.97592544555664",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Lexington Ave @ 42 St"
+    },
+    {
+      "id": "404",
+      "latitude": "40.760065655270964",
+      "longitude": "-73.96875858306885",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Lexington Ave @ 57 ST"
+    },
+    {
+      "id": "540",
+      "latitude": "40.76971930750302",
+      "longitude": "-73.96202087402344",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Lexington Ave @ 72 St"
+    },
+    {
+      "id": "894",
+      "latitude": "40.744001",
+      "longitude": "-73.837011",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "LIE @ College Point Blvd"
+    },
+    {
+      "id": "121",
+      "latitude": "40.738943",
+      "longitude": "-73.815047",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "LIE @ Kissena Blvd"
+    },
+    {
+      "id": "799",
+      "latitude": "40.745800",
+      "longitude": "-73.767759",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "LIE @ Oceania St"
+    },
+    {
+      "id": "216",
+      "latitude": "40.74091672247484",
+      "longitude": "-73.95339488983154",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "LIE @ QMT-  Pulaski Br"
+    },
+    {
+      "id": "949",
+      "latitude": "40.733208",
+      "longitude": "-73.921545",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "LIE-06-EB_ramp_E_BQE_to_W_LIE"
+    },
+    {
+      "id": "953",
+      "latitude": "40.741394",
+      "longitude": "-73.822525",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "LIE-20-WB_at_146th_St-Ex24"
+    },
+    {
+      "id": "661",
+      "latitude": "40.738072",
+      "longitude": "-73.797433",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Long Island Expy @ 172nd St"
+    },
+    {
+      "id": "662",
+      "latitude": "40.739972",
+      "longitude": "-73.790251",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy @ 185th St"
+    },
+    {
+      "id": "650",
+      "latitude": "40.732226",
+      "longitude": "-73.919593",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy @ 48 St UL"
+    },
+    {
+      "id": "651",
+      "latitude": "40.732396",
+      "longitude": "-73.919523",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy @ 48th St LL"
+    },
+    {
+      "id": "666",
+      "latitude": "40.729904",
+      "longitude": "-73.911293",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy @ 58th St LL"
+    },
+    {
+      "id": "654",
+      "latitude": "40.728409",
+      "longitude": "-73.886147",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy @ 75 St"
+    },
+    {
+      "id": "655",
+      "latitude": "40.729801",
+      "longitude": "-73.877454",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Long Island Expy @ 84 St"
+    },
+    {
+      "id": "664",
+      "latitude": "40.743389",
+      "longitude": "-73.774497",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Long Island Expy @ Francis Lewis Blvd"
+    },
+    {
+      "id": "653",
+      "latitude": "40.725338",
+      "longitude": "-73.896916",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy @ Grand Avenue"
+    },
+    {
+      "id": "646",
+      "latitude": "40.736478",
+      "longitude": "-73.928855",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy @ Greenpoint Ave"
+    },
+    {
+      "id": "659",
+      "latitude": "40.738723",
+      "longitude": "-73.814768",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Long Island Expy @ Kissena Blvd"
+    },
+    {
+      "id": "649",
+      "latitude": "40.733938",
+      "longitude": "-73.921289",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy @ ramp to W\/B BQE"
+    },
+    {
+      "id": "663",
+      "latitude": "40.742773",
+      "longitude": "-73.780607",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Long Island Expy @ Underhill Ave"
+    },
+    {
+      "id": "652",
+      "latitude": "40.730618",
+      "longitude": "-73.914372",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy btwn 50 St - 58th St"
+    },
+    {
+      "id": "648",
+      "latitude": "40.735242",
+      "longitude": "-73.923918",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Long Island Expy ramp to W\/B BQE"
+    },
+    {
+      "id": "294",
+      "latitude": "40.828115",
+      "longitude": "-73.931447",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Macombs Dam Bridge"
+    },
+    {
+      "id": "811",
+      "latitude": "40.829275",
+      "longitude": "-73.928693",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Macombs Dam Bridge @ E 161 St"
+    },
+    {
+      "id": "406",
+      "latitude": "40.74686681162143",
+      "longitude": "-73.982834815979",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "MADISON @ 34 ST"
+    },
+    {
+      "id": "407",
+      "latitude": "40.76146340890431",
+      "longitude": "-73.97214889526367",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "MADISON @ 57 ST"
+    },
+    {
+      "id": "522",
+      "latitude": "40.75197110866618",
+      "longitude": "-73.9790153503418",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Madison Ave @ 42 St"
+    },
+    {
+      "id": "1087",
+      "latitude": "40.755508",
+      "longitude": "-73.977437",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Madison Ave @ 46 St \u2013 Manhattan"
+    },
+    {
+      "id": "528",
+      "latitude": "40.75635984059143",
+      "longitude": "-73.97583961486816",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Madison Ave @ 49 St"
+    },
+    {
+      "id": "536",
+      "latitude": "40.78645548149673",
+      "longitude": "-73.95399570465088",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Madison Ave @ 96 St"
+    },
+    {
+      "id": "903",
+      "latitude": "40.742587",
+      "longitude": "-73.825432",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Main St @ LIE N S\/R"
+    },
+    {
+      "id": "904",
+      "latitude": "40.759565",
+      "longitude": "-73.830121",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Main St @ Roosevelt Ave"
+    },
+    {
+      "id": "927",
+      "latitude": "40.756669",
+      "longitude": "-73.828794",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Main St @ Sanford Ave"
+    },
+    {
+      "id": "1098",
+      "latitude": "40.8732637",
+      "longitude": "-73.9058863",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Major Deegan Expwy @ 225 St"
+    },
+    {
+      "id": "1096",
+      "latitude": "40.8765141",
+      "longitude": "-73.9047832",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Major Deegan Expwy @ 230 St"
+    },
+    {
+      "id": "202",
+      "latitude": "40.836801045460255",
+      "longitude": "-73.93009185791016",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Major Deegan Expy @ S of W 167 Street"
+    },
+    {
+      "id": "1038",
+      "latitude": "40.798238",
+      "longitude": "-73.952408",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Malcolm X Blvd\/Lenox Ave @ 110 St\/CPN"
+    },
+    {
+      "id": "932",
+      "latitude": "40.820458",
+      "longitude": "-73.936233",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Malcom X Blvd @ 145 St"
+    },
+    {
+      "id": "287",
+      "latitude": "40.70644125441471",
+      "longitude": "-74.01609420776367",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Manhattan BBT Entrance"
+    },
+    {
+      "id": "1044",
+      "latitude": "40.841586",
+      "longitude": "-73.888508",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Marmion Av.\u00a0 @ Cross Bronx Expwy"
+    },
+    {
+      "id": "1049",
+      "latitude": "40.820135",
+      "longitude": "-73.836092",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Med_at_Senger_Pl-Ex18"
+    },
+    {
+      "id": "1054",
+      "latitude": "40.851993",
+      "longitude": "-73.835938",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Med_at_Wilkenson_Ave-Ex3\u00a0"
+    },
+    {
+      "id": "1035",
+      "latitude": "40.824194",
+      "longitude": "-73.913826",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Melrose Ave\/Webster Ave @ E 161"
+    },
+    {
+      "id": "1186",
+      "latitude": "40.715924",
+      "longitude": "-73.961926",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Metropolitan Ave @ Berry St"
+    },
+    {
+      "id": "1121",
+      "latitude": "40.71261",
+      "longitude": "-73.9004",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Metropolitan Ave @ Fresh Pond Rd"
+    },
+    {
+      "id": "1144",
+      "latitude": "40.71261",
+      "longitude": "-73.90043",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Metropolitan Ave @ Fresh Pond Rd"
+    },
+    {
+      "id": "1153",
+      "latitude": "40.71298",
+      "longitude": "-73.993783",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "MHB-16 Manh Colonade Entr"
+    },
+    {
+      "id": "459",
+      "latitude": "40.716139",
+      "longitude": "-73.996063",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "MHB-16 Manhattan Colonade Entr"
+    },
+    {
+      "id": "806",
+      "latitude": "40.705112",
+      "longitude": "-73.989272",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "MHB-27 Bklyn N URDWY @ Twr"
+    },
+    {
+      "id": "807",
+      "latitude": "40.705069",
+      "longitude": "-73.989401",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "MHB-28 Bklyn LRDW @ Twr"
+    },
+    {
+      "id": "808",
+      "latitude": "40.705039",
+      "longitude": "-73.989502",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "MHB-29 Brklyn S URDWY @ Twr"
+    },
+    {
+      "id": "470",
+      "latitude": "40.7030577937025",
+      "longitude": "-73.98849964141846",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "MHB-31 Bklyn N URW @ Anch"
+    },
+    {
+      "id": "822",
+      "latitude": "40.702878",
+      "longitude": "-73.988450",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "MHB-32 Bklyn S URDW @ Anch"
+    },
+    {
+      "id": "471",
+      "latitude": "40.698177499555555",
+      "longitude": "-73.9865255355835",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "MHB-33 Bklyn LRW @ Ex Ramp"
+    },
+    {
+      "id": "446",
+      "latitude": "40.710689",
+      "longitude": "-73.984656",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Montgomergy @ South St"
+    },
+    {
+      "id": "1061",
+      "latitude": "40.603647",
+      "longitude": "-74.069355",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Narrows Rd South @ Fingerboard Rd"
+    },
+    {
+      "id": "1060",
+      "latitude": "40.605488",
+      "longitude": "-74.076704",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Narrows Rd South @ Hylan Blvd"
+    },
+    {
+      "id": "1062",
+      "latitude": "40.601206",
+      "longitude": "-74.065126",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Narrows Rd South @ Lily Pond Ave"
+    },
+    {
+      "id": "1033",
+      "latitude": "40.844531",
+      "longitude": "-73.903627",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NB Cross Brx Expy-Webster Av Exit ramp @ E 174 St & Cater Av"
+    },
+    {
+      "id": "1052",
+      "latitude": "40.831915",
+      "longitude": "-73.83819",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NB_at_Bruckner_Blvd-Ex19"
+    },
+    {
+      "id": "1046",
+      "latitude": "40.828595",
+      "longitude": "-73.837973",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NB_at_Hutch_Rvr_Pkwy-Ex54"
+    },
+    {
+      "id": "1047",
+      "latitude": "40.827323",
+      "longitude": "-73.832001",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NB_at_Lafayette_Ave-Ex11"
+    },
+    {
+      "id": "1057",
+      "latitude": "40.844926",
+      "longitude": "-73.917694",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NB_at_Macombs Rd-Ex2A"
+    },
+    {
+      "id": "1059",
+      "latitude": "40.841652",
+      "longitude": "-73.888588",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NB_at_Marmion Ave-Ex03"
+    },
+    {
+      "id": "1048",
+      "latitude": "40.825128",
+      "longitude": "-73.825504",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NB_at_Randall_Ave-Ex11"
+    },
+    {
+      "id": "1045",
+      "latitude": "40.844609",
+      "longitude": "-73.924637",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NB_at_Undercliff_Ave-Ex1C"
+    },
+    {
+      "id": "1053",
+      "latitude": "40.834888",
+      "longitude": "-73.838269",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NB_at_Waterbury_Ave-Ex19\u00a0"
+    },
+    {
+      "id": "277",
+      "latitude": "40.883900",
+      "longitude": "-73.825900",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "NE Thruway @ Conner St"
+    },
+    {
+      "id": "147",
+      "latitude": "40.868476",
+      "longitude": "-73.832667",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "New Eng Thru @ Bartow"
+    },
+    {
+      "id": "848",
+      "latitude": "40.757824",
+      "longitude": "-73.861028",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ 108 St"
+    },
+    {
+      "id": "849",
+      "latitude": "40.758271",
+      "longitude": "-73.855567",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ 114 St"
+    },
+    {
+      "id": "978",
+      "latitude": "40.753647",
+      "longitude": "-73.914468",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ 48 St"
+    },
+    {
+      "id": "880",
+      "latitude": "40.752967",
+      "longitude": "-73.910238",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ 51 St"
+    },
+    {
+      "id": "979",
+      "latitude": "40.75391",
+      "longitude": "-73.901201",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ 61 St"
+    },
+    {
+      "id": "290",
+      "latitude": "40.75366161748887",
+      "longitude": "-73.89859199523926",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ 68 St"
+    },
+    {
+      "id": "972",
+      "latitude": "40.755492",
+      "longitude": "-73.885347",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ 82 St"
+    },
+    {
+      "id": "977",
+      "latitude": "40.753292",
+      "longitude": "-73.906896",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ Broadway"
+    },
+    {
+      "id": "738",
+      "latitude": "40.752004",
+      "longitude": "-73.931943",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ Honeywell Bridge"
+    },
+    {
+      "id": "939",
+      "latitude": "40.756845",
+      "longitude": "-73.873712",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ Junction Blvd"
+    },
+    {
+      "id": "746",
+      "latitude": "40.770649",
+      "longitude": "-73.735503",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ Little Neck Pkwy"
+    },
+    {
+      "id": "925",
+      "latitude": "40.762967",
+      "longitude": "-73.831958",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Northern Blvd @ Main St"
+    },
+    {
+      "id": "881",
+      "latitude": "40.764641",
+      "longitude": "-73.82347",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ Parsons Blvd"
+    },
+    {
+      "id": "976",
+      "latitude": "40.752466",
+      "longitude": "-73.924313",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ Steinway"
+    },
+    {
+      "id": "882",
+      "latitude": "40.763955",
+      "longitude": "-73.828126",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Northern Blvd @ Union St"
+    },
+    {
+      "id": "723",
+      "latitude": "40.626558",
+      "longitude": "-73.970924",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Ocean Pkwy @ Ave I"
+    },
+    {
+      "id": "707",
+      "latitude": "40.59785",
+      "longitude": "-73.9655",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Ocean Pkwy @ Ave U"
+    },
+    {
+      "id": "852",
+      "latitude": "40.591079",
+      "longitude": "-73.965347",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Ocean Pkwy @ Ave X"
+    },
+    {
+      "id": "853",
+      "latitude": "40.605697",
+      "longitude": "-73.966819",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Ocean Pkwy @ Kings Hwy"
+    },
+    {
+      "id": "851",
+      "latitude": "40.575219",
+      "longitude": "-73.968764",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Ocean Pkwy @ Surf Av @ Sea Breeze Ave"
+    },
+    {
+      "id": "912",
+      "latitude": "40.702956",
+      "longitude": "-73.994687",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Old Fulton St @ Furman St"
+    },
+    {
+      "id": "913",
+      "latitude": "40.700757",
+      "longitude": "-73.991042",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Old Fulton St @ Prospect St"
+    },
+    {
+      "id": "531",
+      "latitude": "40.73938847159067",
+      "longitude": "-73.9863109588623",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Park Ave @ 23 St"
+    },
+    {
+      "id": "419",
+      "latitude": "40.74618404154383",
+      "longitude": "-73.98124694824219",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Park Ave @ 34 St"
+    },
+    {
+      "id": "552",
+      "latitude": "40.76084580045815",
+      "longitude": "-73.97051811218262",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Park Ave @ 57 St"
+    },
+    {
+      "id": "909",
+      "latitude": "40.77114",
+      "longitude": "-73.963907",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Park Ave @ 72 St"
+    },
+    {
+      "id": "910",
+      "latitude": "40.786516",
+      "longitude": "-73.952456",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Park Ave @ 96 St"
+    },
+    {
+      "id": "426",
+      "latitude": "40.70868595561338",
+      "longitude": "-74.00193214416504",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Pearl St @ Dover"
+    },
+    {
+      "id": "427",
+      "latitude": "40.71047515599995",
+      "longitude": "-74.00021553039551",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Pearl Street @ St. James Pl"
+    },
+    {
+      "id": "866",
+      "latitude": "40.856678",
+      "longitude": "-73.836682",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Pelham Pkwy @ Stillwell Ave"
+    },
+    {
+      "id": "883",
+      "latitude": "40.855609",
+      "longitude": "-73.869347",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Pelham Pkwy E\/B @ Boston Rd"
+    },
+    {
+      "id": "884",
+      "latitude": "40.857212",
+      "longitude": "-73.868891",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Pelham Pkwy W\/B @ Boston Rd"
+    },
+    {
+      "id": "885",
+      "latitude": "40.864552",
+      "longitude": "-73.813781",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Pelham Shore Rd @ City Island Rd"
+    },
+    {
+      "id": "580",
+      "latitude": "40.662427",
+      "longitude": "-73.988693",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Prospect Expy @ 6 Ave"
+    },
+    {
+      "id": "578",
+      "latitude": "40.660376",
+      "longitude": "-73.987234",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Prospect Expy @ 7 Ave"
+    },
+    {
+      "id": "577",
+      "latitude": "40.657429",
+      "longitude": "-73.983135",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Prospect Expy @ 9 Ave"
+    },
+    {
+      "id": "572",
+      "latitude": "40.647792",
+      "longitude": "-73.974938",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Prospect Expy @ Caton Ave"
+    },
+    {
+      "id": "573",
+      "latitude": "40.649811",
+      "longitude": "-73.97541",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Prospect Expy @ Fort Hamilton Pkwy"
+    },
+    {
+      "id": "697",
+      "latitude": "40.666593",
+      "longitude": "-73.994958",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Prospect Pkwy @ 3 Ave"
+    },
+    {
+      "id": "485",
+      "latitude": "40.75028055686146",
+      "longitude": "-73.94013404846191",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB @ Crescent St"
+    },
+    {
+      "id": "483",
+      "latitude": "40.75268632918292",
+      "longitude": "-73.94644260406494",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB LL CM @ 11 St"
+    },
+    {
+      "id": "890",
+      "latitude": "40.757631",
+      "longitude": "-73.956358",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB LL CM @ E Channel"
+    },
+    {
+      "id": "480",
+      "latitude": "40.75736758257757",
+      "longitude": "-73.95699977874756",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "QBB LL CM @ W Channel"
+    },
+    {
+      "id": "889",
+      "latitude": "40.759021",
+      "longitude": "-73.959431",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB LL CM @ York Ave"
+    },
+    {
+      "id": "928",
+      "latitude": "40.760066",
+      "longitude": "-73.961675",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB NOR @ 1 Ave"
+    },
+    {
+      "id": "898",
+      "latitude": "40.758048",
+      "longitude": "-73.957042",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB NOR @ W Channel"
+    },
+    {
+      "id": "478",
+      "latitude": "40.75873288606094",
+      "longitude": "-73.96008968353271",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB NOR @ York Ave"
+    },
+    {
+      "id": "476",
+      "latitude": "40.759383020721145",
+      "longitude": "-73.96150588989258",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "QBB SOR @ 1 Ave"
+    },
+    {
+      "id": "887",
+      "latitude": "40.758904",
+      "longitude": "-73.959539",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB SOR @ Sutton Pl"
+    },
+    {
+      "id": "888",
+      "latitude": "40.757855",
+      "longitude": "-73.957152",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB SOR @ W Channel"
+    },
+    {
+      "id": "481",
+      "latitude": "40.756197300130765",
+      "longitude": "-73.95468235015869",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB UL CM @ Roosevelt"
+    },
+    {
+      "id": "479",
+      "latitude": "40.75857035140236",
+      "longitude": "-73.96039009094238",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB UL CM @ York Ave"
+    },
+    {
+      "id": "922",
+      "latitude": "40.745235",
+      "longitude": "-73.9377",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB UL Entrance @ Thomson Ave"
+    },
+    {
+      "id": "484",
+      "latitude": "40.7508982634657",
+      "longitude": "-73.94210815429688",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "QBB Uramp @ 23 St"
+    },
+    {
+      "id": "124",
+      "latitude": "40.72797425371559",
+      "longitude": "-73.85765075683594",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Qns Blvd @ 65 Ave"
+    },
+    {
+      "id": "126",
+      "latitude": "40.741495",
+      "longitude": "-73.898293",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Qns Blvd @ 65 PL"
+    },
+    {
+      "id": "125",
+      "latitude": "40.73356779034111",
+      "longitude": "-73.86932373046875",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Qns Blvd @ QnCnt Mall"
+    },
+    {
+      "id": "1007",
+      "latitude": "40.744584",
+      "longitude": "-73.928866",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Queens Blvd @ 36 St"
+    },
+    {
+      "id": "921",
+      "latitude": "40.74383",
+      "longitude": "-73.926217",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Queens Blvd @ 39 St - East"
+    },
+    {
+      "id": "1027",
+      "latitude": "40.743075",
+      "longitude": "-73.916846",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Queens Blvd @ 48 St"
+    },
+    {
+      "id": "726",
+      "latitude": "40.7489478",
+      "longitude": "-73.9373769",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Queens Blvd @ Jackson Ave"
+    },
+    {
+      "id": "728",
+      "latitude": "40.7460324",
+      "longitude": "-73.9344491",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Queens Blvd @ Skillman"
+    },
+    {
+      "id": "498",
+      "latitude": "40.747615",
+      "longitude": "-73.936121",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Queens Blvd @ Sunnyside Br"
+    },
+    {
+      "id": "1093",
+      "latitude": "40.743316",
+      "longitude": "-73.921505",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Queens Blvd E\/B @ 43 St"
+    },
+    {
+      "id": "737",
+      "latitude": "40.750323",
+      "longitude": "-73.938321",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Queens Plaza N @ Northern Blvd"
+    },
+    {
+      "id": "215",
+      "latitude": "40.74937024193277",
+      "longitude": "-73.93863201141357",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Queens Plaza North @ 2811 (Westside)"
+    },
+    {
+      "id": "727",
+      "latitude": "40.7501753",
+      "longitude": "-73.9398494",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Queens Plz S @ 27 St"
+    },
+    {
+      "id": "833",
+      "latitude": "40.672635",
+      "longitude": "-73.785637",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Rockaway Blvd @ Baisley Blvd"
+    },
+    {
+      "id": "837",
+      "latitude": "40.640648",
+      "longitude": "-73.743377",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Rockaway Blvd @ Brookville Blvd"
+    },
+    {
+      "id": "714",
+      "latitude": "40.63702097456225",
+      "longitude": "-73.74043371586913",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Rockaway Blvd @ Division St"
+    },
+    {
+      "id": "843",
+      "latitude": "40.659656",
+      "longitude": "-73.773968",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Rockaway Blvd @ Farmers Blvd"
+    },
+    {
+      "id": "836",
+      "latitude": "40.656274",
+      "longitude": "-73.767364",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Rockaway Blvd @ Guy Brewer Blvd"
+    },
+    {
+      "id": "842",
+      "latitude": "40.666800",
+      "longitude": "-73.779833",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Rockaway Blvd @ S. Conduit Ave"
+    },
+    {
+      "id": "831",
+      "latitude": "40.674354",
+      "longitude": "-73.801268",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Rockaway Blvd @ Van Wyck Expy E S\/R"
+    },
+    {
+      "id": "830",
+      "latitude": "40.674459",
+      "longitude": "-73.802180",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Rockaway Blvd @ Van Wyck Expy W S\/R"
+    },
+    {
+      "id": "1165",
+      "latitude": "40.743472",
+      "longitude": "-73.914821",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Roosevelt Ave @ 50 St"
+    },
+    {
+      "id": "1166",
+      "latitude": "40.747351",
+      "longitude": "-73.8867",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Roosevelt Ave @ 79St"
+    },
+    {
+      "id": "1168",
+      "latitude": "40.746808",
+      "longitude": "-73.891632",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Roosevelt Ave @ Broadway & \u00a074 st"
+    },
+    {
+      "id": "1162",
+      "latitude": "40.759597",
+      "longitude": "-73.830128",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Roosevelt Ave @ Main St"
+    },
+    {
+      "id": "886",
+      "latitude": "40.761617",
+      "longitude": "-73.822077",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Roosevelt Ave @ Parsons Blvd"
+    },
+    {
+      "id": "430",
+      "latitude": "40.719648119182985",
+      "longitude": "-74.01206016540527",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "RT. 9A @ N. Moore St"
+    },
+    {
+      "id": "834",
+      "latitude": "40.665993",
+      "longitude": "-73.789550",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "S Conduit Ave @ 150 St"
+    },
+    {
+      "id": "920",
+      "latitude": "40.700378",
+      "longitude": "-73.988693",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Sands St @ Adams St"
+    },
+    {
+      "id": "425",
+      "latitude": "40.69918612299095",
+      "longitude": "-73.98476600646973",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Sands St @ BQE Ent"
+    },
+    {
+      "id": "424",
+      "latitude": "40.699961",
+      "longitude": "-73.986828",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Sands St @ Brooklyn Bridge Ent"
+    },
+    {
+      "id": "1058",
+      "latitude": "40.843935",
+      "longitude": "-73.895622",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "SB_at_Arthur AveEx3"
+    },
+    {
+      "id": "1051",
+      "latitude": "40.82484",
+      "longitude": "-73.836742",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "SB_at_Lafayette_Ave-Ex18"
+    },
+    {
+      "id": "1055",
+      "latitude": "40.860857",
+      "longitude": "-73.828593",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "SB_at_NET-Ex4"
+    },
+    {
+      "id": "1071",
+      "latitude": "40.607106",
+      "longitude": "-74.060997",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "School Rd @ Bay Ave"
+    },
+    {
+      "id": "855",
+      "latitude": "40.596501",
+      "longitude": "-73.744193",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Seagirt Blvd @ B 9 St"
+    },
+    {
+      "id": "1025",
+      "latitude": "40.830583",
+      "longitude": "-73.885398",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Sheridan Expwy (SHE-01) SB @ Jennings St"
+    },
+    {
+      "id": "112",
+      "latitude": "40.614885",
+      "longitude": "-74.157435",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "SIE @ Richmond Ave"
+    },
+    {
+      "id": "344",
+      "latitude": "40.701797",
+      "longitude": "-74.011144",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "South St @ Broad St"
+    },
+    {
+      "id": "438",
+      "latitude": "40.7092715173956",
+      "longitude": "-73.99154663085938",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "South Street @ Pike Street"
+    },
+    {
+      "id": "1043",
+      "latitude": "40.840532",
+      "longitude": "-73.886229",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Southern Bl.\u00a0 @ Cross Bronx Expwy"
+    },
+    {
+      "id": "744",
+      "latitude": "40.718516",
+      "longitude": "-73.735207",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Springfield Ave @ Jamaica Ave"
+    },
+    {
+      "id": "743",
+      "latitude": "40.680209",
+      "longitude": "-73.753356",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Springfield Blvd @ Merrick Blvd"
+    },
+    {
+      "id": "740",
+      "latitude": "40.810107",
+      "longitude": "-73.952585",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "St Nicholas Ave @ 125 St"
+    },
+    {
+      "id": "532",
+      "latitude": "40.824429",
+      "longitude": "-73.944747",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "St Nicholas Ave @ 145 St"
+    },
+    {
+      "id": "533",
+      "latitude": "40.849657",
+      "longitude": "-73.933675",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "St Nicholas Ave @ 181 St"
+    },
+    {
+      "id": "901",
+      "latitude": "40.596706",
+      "longitude": "-73.985239",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Stillwell Ave @ 86 St"
+    },
+    {
+      "id": "856",
+      "latitude": "40.575565",
+      "longitude": "-73.981202",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Stillwell Ave @ Surf Ave"
+    },
+    {
+      "id": "826",
+      "latitude": "40.807061",
+      "longitude": "-73.933681",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Third Ave Bridge"
+    },
+    {
+      "id": "535",
+      "latitude": "40.735226",
+      "longitude": "-73.990946",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Union Sq @ 14 St"
+    },
+    {
+      "id": "745",
+      "latitude": "40.743982",
+      "longitude": "-73.717583",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Union tpke @ Little Neck Pkwy"
+    },
+    {
+      "id": "1119",
+      "latitude": "40.741099",
+      "longitude": "-73.9343",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Dam St @ 48 Ave"
+    },
+    {
+      "id": "1142",
+      "latitude": "40.741099",
+      "longitude": "-73.93429",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Dam St @ 48 Ave"
+    },
+    {
+      "id": "1120",
+      "latitude": "40.740368",
+      "longitude": "-73.9345",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Dam St Bet. 48 Ave & Hunter Pt"
+    },
+    {
+      "id": "1143",
+      "latitude": "40.740368",
+      "longitude": "-73.934462",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Dam St Bet. 48 Ave & Hunter Pt"
+    },
+    {
+      "id": "584",
+      "latitude": "40.693773",
+      "longitude": "-73.81193",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Wyck Expwy @ 101  Ave SB"
+    },
+    {
+      "id": "582",
+      "latitude": "40.693968",
+      "longitude": "-73.811431",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Van Wyck Expwy @ 101 Ave NB"
+    },
+    {
+      "id": "581",
+      "latitude": "40.687341",
+      "longitude": "-73.807777",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Van Wyck Expwy @ 109 Ave"
+    },
+    {
+      "id": "579",
+      "latitude": "40.684474",
+      "longitude": "-73.806756",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Van Wyck Expwy @ 111 Ave"
+    },
+    {
+      "id": "562",
+      "latitude": "40.669369",
+      "longitude": "-73.80159",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Van Wyck Expwy @ 133 Ave SB"
+    },
+    {
+      "id": "590",
+      "latitude": "40.706768",
+      "longitude": "-73.819027",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Wyck Expwy @ 87 Ave"
+    },
+    {
+      "id": "586",
+      "latitude": "40.699832",
+      "longitude": "-73.814823",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Wyck Expwy @ 91 Ave"
+    },
+    {
+      "id": "568",
+      "latitude": "40.673467",
+      "longitude": "-73.801589",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Van Wyck Expwy @ Alwick Rd SB"
+    },
+    {
+      "id": "585",
+      "latitude": "40.697027",
+      "longitude": "-73.813767",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Wyck Expwy @ Atlantic Ave"
+    },
+    {
+      "id": "926",
+      "latitude": "40.751959",
+      "longitude": "-73.83615",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Wyck Expwy @ Avery Ave"
+    },
+    {
+      "id": "599",
+      "latitude": "40.748502",
+      "longitude": "-73.834591",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Wyck Expwy @ College Point Blvd."
+    },
+    {
+      "id": "575",
+      "latitude": "40.677796",
+      "longitude": "-73.80354",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Van Wyck Expwy @ Foch Blvd. SB"
+    },
+    {
+      "id": "594",
+      "latitude": "40.716877",
+      "longitude": "-73.826497",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Wyck Expwy @ GCP\/Interchange"
+    },
+    {
+      "id": "587",
+      "latitude": "40.703875",
+      "longitude": "-73.8167",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Wyck Expwy @ Hillside Ave"
+    },
+    {
+      "id": "591",
+      "latitude": "40.711483",
+      "longitude": "-73.821954",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Van Wyck Expwy @ Queens Blvd.(entrance ramp)"
+    },
+    {
+      "id": "574",
+      "latitude": "40.674623",
+      "longitude": "-73.801507",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Van Wyck Expwy @ Rockaway Blvd."
+    },
+    {
+      "id": "391",
+      "latitude": "40.666235",
+      "longitude": "-73.801711",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Van Wyck Expy @ S Conduit Ave LL"
+    },
+    {
+      "id": "155",
+      "latitude": "40.637748",
+      "longitude": "-74.076018",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Victory Blvd @ Bay St"
+    },
+    {
+      "id": "154",
+      "latitude": "40.635735",
+      "longitude": "-74.083777",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Victory Blvd @ Jersey St"
+    },
+    {
+      "id": "340",
+      "latitude": "40.608768",
+      "longitude": "-74.153616",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Victory Blvd WOF Campus Dr"
+    },
+    {
+      "id": "954",
+      "latitude": "40.665866",
+      "longitude": "-73.801688",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "VWE-02-NB_at_S.Cnduit_Av_UL-Ex1"
+    },
+    {
+      "id": "955",
+      "latitude": "40.669112",
+      "longitude": "-73.801101",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "VWE-04-NB_at_133rd_Ave-Ex1"
+    },
+    {
+      "id": "956",
+      "latitude": "40.711512",
+      "longitude": "-73.822072",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "VWE-21A-NB_at_QnsBlvd-Et.Rmp-Ex9"
+    },
+    {
+      "id": "958",
+      "latitude": "40.716782",
+      "longitude": "-73.826461",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "VWE-26-NB_at_GCP-Intr.-Ex14"
+    },
+    {
+      "id": "959",
+      "latitude": "40.722917",
+      "longitude": "-73.827542",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "VWE-27-NB_at_73rd_Terrace-Ex11"
+    },
+    {
+      "id": "960",
+      "latitude": "40.743313",
+      "longitude": "-73.837726",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "VWE-29-SB_at_LIE-Ex12"
+    },
+    {
+      "id": "961",
+      "latitude": "40.762527",
+      "longitude": "-73.839458",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "VWE-32-NB_at_Northern_Blvd-Ex13"
+    },
+    {
+      "id": "678",
+      "latitude": "40.6776",
+      "longitude": "-73.802945",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "VWE08 NB at Foch Blvd - Ex2"
+    },
+    {
+      "id": "914",
+      "latitude": "40.700743",
+      "longitude": "-73.989736",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Washington St @ Prospect St"
+    },
+    {
+      "id": "339",
+      "latitude": "40.70605086387406",
+      "longitude": "-74.00485038757324",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Water St @ John St"
+    },
+    {
+      "id": "338",
+      "latitude": "40.70442421198891",
+      "longitude": "-74.00721073150635",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Water St @ Wall St"
+    },
+    {
+      "id": "985",
+      "latitude": "40.702389",
+      "longitude": "-74.012806",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Water St @ Whitehall"
+    },
+    {
+      "id": "1103",
+      "latitude": "40.712875",
+      "longitude": "-73.97",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB #25 SIR 4 @ Bklyn Twr"
+    },
+    {
+      "id": "1125",
+      "latitude": "40.7128753",
+      "longitude": "-73.9700304",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB #25 SIR 4 @ Bklyn Twr"
+    },
+    {
+      "id": "1104",
+      "latitude": "40.713595",
+      "longitude": "-73.9724",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB #9 SIR 3 @ Mid Span"
+    },
+    {
+      "id": "1126",
+      "latitude": "40.7135946",
+      "longitude": "-73.9724061",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB #9 SIR 3 @ Mid Span"
+    },
+    {
+      "id": "1091",
+      "latitude": "40.717485",
+      "longitude": "-73.985361",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB - 6A South Rdwy @ Delancey St & Clinton St"
+    },
+    {
+      "id": "1092",
+      "latitude": "40.714823",
+      "longitude": "-73.976455",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB \u2013 10 NIR-4 @ FDR RD"
+    },
+    {
+      "id": "1094",
+      "latitude": "40.7150465",
+      "longitude": "-73.9772337",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB SIR - 1 @ Manhattan Anchorage"
+    },
+    {
+      "id": "458",
+      "latitude": "40.71268719183457",
+      "longitude": "-73.9720630645752",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "WBB-18 @ SOR Cntr Span"
+    },
+    {
+      "id": "1163",
+      "latitude": "40.7121452",
+      "longitude": "-73.967627",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB-26 SIR @ Kent Ave"
+    },
+    {
+      "id": "456",
+      "latitude": "40.71724115186372",
+      "longitude": "-73.98553848266602",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB-6 North Rdwy @ Delancy St and Clinton St"
+    },
+    {
+      "id": "1080",
+      "latitude": "40.712993",
+      "longitude": "-73.969877",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB-7 NIR West of Bklyn Twr"
+    },
+    {
+      "id": "1081",
+      "latitude": "40.7120848",
+      "longitude": "-73.9670222",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WBB-8 NIR Bklyn Anch.\/Kent Av"
+    },
+    {
+      "id": "1050",
+      "latitude": "40.829767",
+      "longitude": "-73.834824",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "WB_at_CBX-Hutch_Int-EX6A"
+    },
+    {
+      "id": "1036",
+      "latitude": "40.827872",
+      "longitude": "-73.912005",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Webster Ave @ E 165"
+    },
+    {
+      "id": "1034",
+      "latitude": "40.851889",
+      "longitude": "-73.898344",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Webster Ave @ E 180 St"
+    },
+    {
+      "id": "718",
+      "latitude": "40.726958",
+      "longitude": "-73.999928",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West Broadway @ West Houston St"
+    },
+    {
+      "id": "716",
+      "latitude": "40.728739",
+      "longitude": "-74.007137",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West Houston @ Hudson St"
+    },
+    {
+      "id": "725",
+      "latitude": "40.7286",
+      "longitude": "-74.005356",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West Houston @ Varick St"
+    },
+    {
+      "id": "702",
+      "latitude": "40.590118",
+      "longitude": "-74.193442",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West Shore Expy @ Victory Blvd"
+    },
+    {
+      "id": "211",
+      "latitude": "40.72507973911892",
+      "longitude": "-74.01047229766846",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "West St @ Canal St"
+    },
+    {
+      "id": "292",
+      "latitude": "40.729832",
+      "longitude": "-74.010658",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "West St @ Clarkson"
+    },
+    {
+      "id": "401",
+      "latitude": "40.714443756177076",
+      "longitude": "-74.01326179504394",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "West St @ Murray"
+    },
+    {
+      "id": "715",
+      "latitude": "40.729104",
+      "longitude": "-74.010528",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West St @ West Houston St"
+    },
+    {
+      "id": "1230",
+      "latitude": "40.704944",
+      "longitude": "-74.017341",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West st and Battery place"
+    },
+    {
+      "id": "1227",
+      "latitude": "40.717179",
+      "longitude": "-74.012897",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West st and Chambers"
+    },
+    {
+      "id": "1228",
+      "latitude": "40.713030",
+      "longitude": "-74.014039",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West st and Fulton"
+    },
+    {
+      "id": "1229",
+      "latitude": "40.707690",
+      "longitude": "-74.015650",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West st and West Thames (Battery tunnel)"
+    },
+    {
+      "id": "319",
+      "latitude": "40.76009816150324",
+      "longitude": "-74.00218963623047",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "West Street @ Intrepid"
+    },
+    {
+      "id": "602",
+      "latitude": "40.786576",
+      "longitude": "-73.824043",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Whitestone Expwy @ 14 Ave (Median)"
+    },
+    {
+      "id": "601",
+      "latitude": "40.776191",
+      "longitude": "-73.828214",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Whitestone Expwy @ 25 Rd (Median)"
+    },
+    {
+      "id": "1231",
+      "latitude": "40.772841",
+      "longitude": "-73.830771",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Whitestone Expy @ 28 Rd N of Linden Pl"
+    },
+    {
+      "id": "1077",
+      "latitude": "40.6841",
+      "longitude": "-73.8463",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ 101 Ave"
+    },
+    {
+      "id": "1075",
+      "latitude": "40.689827",
+      "longitude": "-73.850018",
+      "title": "images\/camera2.png",
+      "icon": "images\/camera2.png",
+      "content": "Woodhaven Blvd @ 91 Ave"
+    },
+    {
+      "id": "1076",
+      "latitude": "40.685918",
+      "longitude": "-73.846934",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ 97 Ave"
+    },
+    {
+      "id": "905",
+      "latitude": "40.727879",
+      "longitude": "-73.870974",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ Dry Harbor Rd"
+    },
+    {
+      "id": "796",
+      "latitude": "40.720287",
+      "longitude": "-73.865571",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ Furmanville Ave"
+    },
+    {
+      "id": "1072",
+      "latitude": "40.73314",
+      "longitude": "-73.87023",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ Hoffman Dr"
+    },
+    {
+      "id": "708",
+      "latitude": "40.694",
+      "longitude": "-73.852",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ Jamaica Ave"
+    },
+    {
+      "id": "1084",
+      "latitude": "40.680171",
+      "longitude": "-73.844597",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ Liberty Ave"
+    },
+    {
+      "id": "792",
+      "latitude": "40.702613",
+      "longitude": "-73.855269",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ Myrtle Ave"
+    },
+    {
+      "id": "1074",
+      "latitude": "40.6975306",
+      "longitude": "-73.8527054",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ Park Lane"
+    },
+    {
+      "id": "705",
+      "latitude": "40.681271",
+      "longitude": "-73.844625",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ Rockaway Blvd"
+    },
+    {
+      "id": "709",
+      "latitude": "40.70561",
+      "longitude": "-73.8582",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Woodhaven Blvd @ Union Tpke"
+    },
+    {
+      "id": "330",
+      "latitude": "40.71437869906487",
+      "longitude": "-74.00197505950928",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Worth St @ Centre St"
+    },
+    {
+      "id": "433",
+      "latitude": "40.71275225059959",
+      "longitude": "-73.99828433990479",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Worth Street @ Bowery"
+    },
+    {
+      "id": "432",
+      "latitude": "40.71480156915783",
+      "longitude": "-74.0027904510498",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "Worth Street @ Lafayette Street"
+    },
+    {
+      "id": "941",
+      "latitude": "40.761216",
+      "longitude": "-73.957815",
+      "title": "images\/camera1.png",
+      "icon": "images\/camera1.png",
+      "content": "York Ave @ 63 St"
+    }
+  ]
+}

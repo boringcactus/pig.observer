@@ -277,9 +277,10 @@ function pokeImages() {
             fetch(img.dataset.origSrc, {cache: "no-cache"})
                 .then(function (response) {
                     if (!response.ok) {
-                        throw new Error(`HTTP error! status: ${response.status}`);
+                        console.error(`HTTP error! status: ${response.status}`);
+                    } else {
+                        return response.blob();
                     }
-                    return response.blob();
                 })
                 .then(function (response) {
                     img.src = URL.createObjectURL(response);
