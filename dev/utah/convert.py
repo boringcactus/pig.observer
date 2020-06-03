@@ -25,5 +25,5 @@ for place in places:
         url = place['url']
         name = names[cam_id]
         sources[area].append({'id': cam_id, 'url': url, 'name': name})
-with open('sources.js', 'w') as f:
+with open('sources.json', 'w') as f:
     json.dump(dict(sources), f)

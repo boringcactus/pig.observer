@@ -13,12 +13,20 @@ for camera in cameras:
     result = dict()
     result['id'] = camera['properties']['cctv_id']
     if 'HLS' in camera['properties']:
-        result['stream'] = camera['properties']['HLS']
+        url = camera['properties']['HLS']
+        url = url.replace('http://vss1live.dot.ga.gov:80/lo', '/georgiavss1')
+        url = url.replace('http://vss2live.dot.ga.gov:80/lo', '/georgiavss2')
+        url = url.replace('http://vss3live.dot.ga.gov:80/lo', '/georgiavss3')
+        url = url.replace('http://vss4live.dot.ga.gov:80/lo', '/georgiavss4')
+        url = url.replace('http://vss5live.dot.ga.gov:80/lo', '/georgiavss5')
+        result['stream'] = url
     elif camera['properties']['url'] is not None:
-        result['url'] = camera['properties']['url'].replace('http://navigator-c2c.dot.ga.gov/snapshots', '/georgiasnapshots')
+        url = camera['properties']['url']
+        url = url.replace('http://navigator-c2c.dot.ga.gov/snapshots', '/georgiasnapshots')
+        result['url'] = url
     else:
         continue
     result['name'] = camera['properties']['location_description']
     sources[subdiv].append(result)
-with open('sources.js', 'w') as f:
+with open('sources.json', 'w') as f:
     json.dump(dict(sources), f)
