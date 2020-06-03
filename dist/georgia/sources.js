@@ -11,7 +11,7 @@ const CAMERAS = {
         "name": "SR 155 (Flat Shoals Rd) : Clifton Springs Rd / Columbia Dr"
     }, {
         "id": "cctv_5006",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-239.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-239.stream/playlist.m3u8",
         "name": "I-285 : N OF NORTHLAKE PKWY"
     }, {
         "id": "cctv_13309",
@@ -31,11 +31,11 @@ const CAMERAS = {
         "name": "I-85 : S OF L-VILLE/SUWANEE RD"
     }, {
         "id": "cctv_6862",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-026.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-026.stream/playlist.m3u8",
         "name": "SR 92 / Woodstock Rd : Concord Ln / Fitchburg Dr"
     }, {
         "id": "cctv_5408",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-097.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-097.stream/playlist.m3u8",
         "name": "75/85 : WILLIAMS ST"
     }, {
         "id": "cctv_10296",
@@ -47,7 +47,7 @@ const CAMERAS = {
         "name": "SR 324 : SR 124"
     }, {
         "id": "cctv_4963",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-002.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-002.stream/playlist.m3u8",
         "name": "75/85 : S OF LANGFORD PKWY"
     }, {
         "id": "cctv_16166",
@@ -55,7 +55,7 @@ const CAMERAS = {
         "name": "SR 20 : BROOKE PARK DR"
     }, {
         "id": "cctv_5345",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-842.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-842.stream/playlist.m3u8",
         "name": "GA 400 : HAYNES BR RD"
     }, {
         "id": "cctv_15172",
@@ -83,7 +83,7 @@ const CAMERAS = {
         "name": "SR 120 (Kimball Bridge Rd) : Webb Bridge Way/Milton Oaks Dr"
     }, {
         "id": "cctv_5060",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-324.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-324.stream/playlist.m3u8",
         "name": "I-20 : EAST OF FULTON INDUS"
     }, {
         "id": "cctv_10376",
@@ -95,7 +95,7 @@ const CAMERAS = {
         "name": "PEACHTREE INDUSTRIAL BLVD : McGINNIS FERRY RD"
     }, {
         "id": "cctv_4980",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-215.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-215.stream/playlist.m3u8",
         "name": "I-285 : GLENRIDGE DR"
     }, {
         "id": "cctv_46499",
@@ -115,11 +115,11 @@ const CAMERAS = {
         "name": "Peachtree St : 5th Street"
     }, {
         "id": "cctv_16084",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-089.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-089.stream/playlist.m3u8",
         "name": "SR 6 : Skyview Dr / Oak Ridge Rd"
     }, {
         "id": "cctv_13334",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-013.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-013.stream/playlist.m3u8",
         "name": "SR 8 (Lawrenceville Hwy) : Harcourt Dr"
     }, {
         "id": "cctv_9039",
@@ -127,11 +127,11 @@ const CAMERAS = {
         "name": "SR 9 : Upper Hembree Rd/Northmeadow Pkwy"
     }, {
         "id": "cctv_7204",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-032.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-032.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree St NE : 26th Street"
     }, {
         "id": "cctv_4977",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-212.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-212.stream/playlist.m3u8",
         "name": "I-285 : W OF ROSWELL RD"
     }, {
         "id": "cctv_13766",
@@ -139,11 +139,11 @@ const CAMERAS = {
         "name": "10th St : Monroe Dr"
     }, {
         "id": "cctv_5084",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-346.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-346.stream/playlist.m3u8",
         "name": "I-20 : WINDSOR ST"
     }, {
         "id": "cctv_5073",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-336.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-336.stream/playlist.m3u8",
         "name": "I-20 : MLK JR DR"
     }, {
         "id": "cctv_46458",
@@ -159,15 +159,15 @@ const CAMERAS = {
         "name": "Ashford Dunwoody Rd : Ashwood Pkwy/Ashford Pkwy"
     }, {
         "id": "cctv_5174",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-445.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-445.stream/playlist.m3u8",
         "name": "I-75 : N OF HICKORY GROVE RD"
     }, {
         "id": "cctv_15465",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-558.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-558.stream/playlist.m3u8",
         "name": "I-575 : TOWNE LAKE PKY"
     }, {
         "id": "cctv_5067",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-330.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-330.stream/playlist.m3u8",
         "name": "I-20 : W OF HOLMES DR"
     }, {
         "id": "cctv_10183",
@@ -187,11 +187,11 @@ const CAMERAS = {
         "name": "SR 10 : Tom Brewer"
     }, {
         "id": "cctv_5401",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-963.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-963.stream/playlist.m3u8",
         "name": "I-285 : S OF SOUTH ATLANTA RD"
     }, {
         "id": "cctv_5171",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-442.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-442.stream/playlist.m3u8",
         "name": "I-75 : WADE GREEN RD"
     }, {
         "id": "cctv_13107",
@@ -199,7 +199,7 @@ const CAMERAS = {
         "name": "SR 20 : Azalea Dr"
     }, {
         "id": "cctv_9084",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-016.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-016.stream/playlist.m3u8",
         "name": "SR 9 : Wills Rd"
     }, {
         "id": "cctv_13760",
@@ -207,11 +207,11 @@ const CAMERAS = {
         "name": "Atlanta Rd : Concord Rd/Spring Rd"
     }, {
         "id": "cctv_15388",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-544.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-544.stream/playlist.m3u8",
         "name": "I-575 : BELLS FERRY RD ENT"
     }, {
         "id": "cctv_13253",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-683.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-683.stream/playlist.m3u8",
         "name": "JONESBORO RD : EXPRESS RAMP"
     }, {
         "id": "cctv_10390",
@@ -235,7 +235,7 @@ const CAMERAS = {
         "name": "US 29 : JOHNSON RD"
     }, {
         "id": "cctv_5309",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-783.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-783.stream/playlist.m3u8",
         "name": "US 78 : E OF IDLEWOOD RD"
     }, {
         "id": "cctv_13104",
@@ -243,23 +243,23 @@ const CAMERAS = {
         "name": "SR 20 : Plains Court Way"
     }, {
         "id": "cctv_5310",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-784.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-784.stream/playlist.m3u8",
         "name": "US 78 : MOUNTAIN INDUST BLVD"
     }, {
         "id": "cctv_5188",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-049.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-049.stream/playlist.m3u8",
         "name": "SR 166 : GREENBRIAR PKWY"
     }, {
         "id": "cctv_5251",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-653.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-653.stream/playlist.m3u8",
         "name": "I-285 : WEST EDGE OF TUNNEL"
     }, {
         "id": "cctv_5048",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-028.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-028.stream/playlist.m3u8",
         "name": "I-75 : S OF PACES FERRY RD"
     }, {
         "id": "cctv_13612",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-017.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-017.stream/playlist.m3u8",
         "name": "SR 8 (Lawrenceville Hwy) : I-285 SB Ramp"
     }, {
         "id": "cctv_16238",
@@ -279,11 +279,11 @@ const CAMERAS = {
         "name": "Perimeter Center Pky : Goldkist"
     }, {
         "id": "cctv_4993",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-227.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-227.stream/playlist.m3u8",
         "name": "I-285 : W OF PTREE INDSTRL"
     }, {
         "id": "cctv_16215",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-240.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-240.stream/playlist.m3u8",
         "name": "SR 141 : Grove Point Rd/St Ives County Club Pkwy"
     }, {
         "id": "cctv_13143",
@@ -299,11 +299,11 @@ const CAMERAS = {
         "name": "SR 138 / Lake Spivey Pkwy : Daniel Dr"
     }, {
         "id": "cctv_13366",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-760.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-760.stream/playlist.m3u8",
         "name": "I-75 : RAMP FROM SR 155"
     }, {
         "id": "cctv_13369",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-206.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-206.stream/playlist.m3u8",
         "name": "SR 155 / Clairmont Rd : SR 13 / Buford Hwy"
     }, {
         "id": "cctv_13363",
@@ -315,15 +315,15 @@ const CAMERAS = {
         "name": "Chastain Rd : Chastain Meadows Pkwy"
     }, {
         "id": "cctv_5215",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-552.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-552.stream/playlist.m3u8",
         "name": "I-85 : N DRUID HILLS RAMP METER"
     }, {
         "id": "cctv_15972",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-170.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-170.stream/playlist.m3u8",
         "name": "I-85 : EXIT TO SR 20"
     }, {
         "id": "cctv_13608",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-205.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-205.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : Charles Allen Dr / Parkway"
     }, {
         "id": "cctv_46444",
@@ -335,11 +335,11 @@ const CAMERAS = {
         "name": "SR 6 : South Blairs Bridge Rd / Interstate West Pkwy"
     }, {
         "id": "cctv_5186",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-047.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-047.stream/playlist.m3u8",
         "name": "I-75 : N OF CUMBERLAND BLVD"
     }, {
         "id": "cctv_5378",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-941.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-941.stream/playlist.m3u8",
         "name": "I-285 : N OF MT GILEAD RD"
     }, {
         "id": "cctv_13052",
@@ -347,7 +347,7 @@ const CAMERAS = {
         "name": "SR 280/South Cobb Dr : Pearl St"
     }, {
         "id": "cctv_13673",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-215.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-215.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : Springdale Rd"
     }, {
         "id": "cctv_10430",
@@ -355,11 +355,11 @@ const CAMERAS = {
         "name": "Main St (JB) : Spring St"
     }, {
         "id": "cctv_15431",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-309.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-309.stream/playlist.m3u8",
         "name": "I-20 : Lee Rd"
     }, {
         "id": "cctv_15568",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-465.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-465.stream/playlist.m3u8",
         "name": "I-75 : WINDY HILL RD"
     }, {
         "id": "cctv_10300",
@@ -383,7 +383,7 @@ const CAMERAS = {
         "name": "SR 42 (Moreland Ave) : SR 42 Spur (McDonough Blvd)"
     }, {
         "id": "cctv_6824",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-008.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-008.stream/playlist.m3u8",
         "name": "SR 92 / Woodstock Rd : S Cherokee Ln / Weatherstone Dr"
     }, {
         "id": "cctv_13270",
@@ -391,7 +391,7 @@ const CAMERAS = {
         "name": "SR 6 : Conley St / Convention Center"
     }, {
         "id": "cctv_5324",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-008.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-008.stream/playlist.m3u8",
         "name": "75/85 : CAPITOL AVE"
     }, {
         "id": "cctv_10238",
@@ -415,7 +415,7 @@ const CAMERAS = {
         "name": "Windward Pkwy : Walmart"
     }, {
         "id": "cctv_15591",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-468.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-468.stream/playlist.m3u8",
         "name": "I-75 : S OF TERRELL MILL RD"
     }, {
         "id": "cctv_10428",
@@ -431,7 +431,7 @@ const CAMERAS = {
         "name": "OLD PEACHTREE RD : NORTH BROWN RD"
     }, {
         "id": "cctv_16286",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fult-cam-005.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fult-cam-005.stream/playlist.m3u8",
         "name": "SR 6 : Desert Dr"
     }, {
         "id": "cctv_15202",
@@ -439,11 +439,11 @@ const CAMERAS = {
         "name": "SR 120/Whitlock Ave : Burnt Hickory Rd"
     }, {
         "id": "cctv_5113",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-372.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-372.stream/playlist.m3u8",
         "name": "I-20 : COLUMBIA DR"
     }, {
         "id": "cctv_5295",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-073.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-073.stream/playlist.m3u8",
         "name": "I-85 : SYLVAN RD"
     }, {
         "id": "cctv_7303",
@@ -451,15 +451,15 @@ const CAMERAS = {
         "name": "SR 280/South Cobb Dr : Atlanta Rd"
     }, {
         "id": "cctv_13345",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-684.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-684.stream/playlist.m3u8",
         "name": "I-75 : SR 20/81"
     }, {
         "id": "cctv_15471",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-542.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-542.stream/playlist.m3u8",
         "name": "I-575 : EXIT TO CHASTAIN RD"
     }, {
         "id": "cctv_9066",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-003.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-003.stream/playlist.m3u8",
         "name": "Milton Ave : Canton St / Roswell St"
     }, {
         "id": "cctv_10447",
@@ -471,7 +471,7 @@ const CAMERAS = {
         "name": "State Bridge Rd : Ocee Elementary"
     }, {
         "id": "cctv_15496",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-483.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-483.stream/playlist.m3u8",
         "name": "I-75 : S OF SR 120/ROSWELL RD"
     }, {
         "id": "cctv_46317",
@@ -479,7 +479,7 @@ const CAMERAS = {
         "name": "OLD PEACHTREE RD : SEVER RD"
     }, {
         "id": "cctv_7194",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-206.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-206.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : Boulevard / Monroe Dr"
     }, {
         "id": "cctv_16203",
@@ -495,11 +495,11 @@ const CAMERAS = {
         "name": "SR 8 (US 29 Lawrenceville Hwy) : Windsor Dr / Arnold Rd"
     }, {
         "id": "cctv_13233",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-754.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-754.stream/playlist.m3u8",
         "name": "I-75 : N OF SR 20/81"
     }, {
         "id": "cctv_12961",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-817.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-817.stream/playlist.m3u8",
         "name": "GA 400 : S OF WIEUCA RD"
     }, {
         "id": "cctv_10246",
@@ -507,7 +507,7 @@ const CAMERAS = {
         "name": "SR 378 : E of PLANTATION LN / E of ARC WAY"
     }, {
         "id": "cctv_13589",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-004.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-004.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Corporate Blvd / Curtis Dr"
     }, {
         "id": "cctv_9122",
@@ -515,11 +515,11 @@ const CAMERAS = {
         "name": "Atlanta Rd : Plant Atkinson Rd"
     }, {
         "id": "cctv_6702",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-037.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-037.stream/playlist.m3u8",
         "name": "SR 42 (Moreland Ave) : SR 154 (Memorial Drive)"
     }, {
         "id": "cctv_15967",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-168.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-168.stream/playlist.m3u8",
         "name": "I-85 : AT SR 20"
     }, {
         "id": "cctv_10144",
@@ -527,7 +527,7 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Old 41 Hwy"
     }, {
         "id": "cctv_5358",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-086.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-086.stream/playlist.m3u8",
         "name": "I-85 : S OF JIMMY CARTER"
     }, {
         "id": "cctv_10444",
@@ -535,7 +535,7 @@ const CAMERAS = {
         "name": "SR 3 / Tara Blvd : Upper Riverdale Rd"
     }, {
         "id": "cctv_15416",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-313.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-313.stream/playlist.m3u8",
         "name": "I-20 : West of Thornton Rd"
     }, {
         "id": "cctv_10344",
@@ -543,19 +543,19 @@ const CAMERAS = {
         "name": "SR 20 : N of ROSEBUD RD"
     }, {
         "id": "cctv_4930",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-012.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-012.stream/playlist.m3u8",
         "name": "75/85 : INTL BLVD"
     }, {
         "id": "cctv_6821",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-110.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-110.stream/playlist.m3u8",
         "name": "SR 141 (Medlock Bridge Rd) : Old Alabama Rd"
     }, {
         "id": "cctv_5034",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-267.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-267.stream/playlist.m3u8",
         "name": "I-285 : W OF PANTHERSVILLE RD"
     }, {
         "id": "cctv_15278",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-916.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-916.stream/playlist.m3u8",
         "name": "Centennial Olympic Park Dr : Andrew Young Intl Blvd South"
     }, {
         "id": "cctv_13574",
@@ -563,11 +563,11 @@ const CAMERAS = {
         "name": "SR 155 / Clairmont Rd : Century Pl"
     }, {
         "id": "cctv_13715",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-153.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-153.stream/playlist.m3u8",
         "name": "SR 154 (Memorial Drive) : Kensington Rd"
     }, {
         "id": "cctv_5263",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-664.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-664.stream/playlist.m3u8",
         "name": "I-285 : MAIN LANES - NO. 1"
     }, {
         "id": "cctv_46417",
@@ -587,11 +587,11 @@ const CAMERAS = {
         "name": "WEST PARK PLACE BLVD : S of ROCKBRIDGE RD (N)"
     }, {
         "id": "cctv_15474",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-499.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-499.stream/playlist.m3u8",
         "name": "ROSWELL RD : US 41/COBB PKWY"
     }, {
         "id": "cctv_15437",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-568.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-568.stream/playlist.m3u8",
         "name": "I-575 : 1/2 MI N OF SIXES RD"
     }, {
         "id": "cctv_13110",
@@ -599,15 +599,15 @@ const CAMERAS = {
         "name": "SR 8 (US 29 Lawrenceville Hwy) : Holly Ridge Dr/Pine St"
     }, {
         "id": "cctv_4949",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-187.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-187.stream/playlist.m3u8",
         "name": "I-85 : S OF BUFFINGTON RD"
     }, {
         "id": "cctv_5342",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-838.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-838.stream/playlist.m3u8",
         "name": "GA 400 : S OF MANSELL RD"
     }, {
         "id": "cctv_4953",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-190.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-190.stream/playlist.m3u8",
         "name": "I-85 : S OF I-285 FULTON CO."
     }, {
         "id": "cctv_6832",
@@ -615,11 +615,11 @@ const CAMERAS = {
         "name": "SR 42 (Moreland Ave) : Constitution Rd"
     }, {
         "id": "cctv_5162",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-434.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-434.stream/playlist.m3u8",
         "name": "I-75 : N OF BIG SHANTY RD"
     }, {
         "id": "cctv_15246",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-053.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-053.stream/playlist.m3u8",
         "name": "SR 42 / N Druid Hills Rd : I-85 SB Ramp"
     }, {
         "id": "cctv_10327",
@@ -631,15 +631,15 @@ const CAMERAS = {
         "name": "SR 13 / Buford Hwy : Briarwood Rd"
     }, {
         "id": "cctv_4995",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-229.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-229.stream/playlist.m3u8",
         "name": "I-285 : THE GM PLANT"
     }, {
         "id": "cctv_13094",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-033.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-033.stream/playlist.m3u8",
         "name": "SR 5 (Bill Arp Rd) : Rose Ave/Bright Star Conn"
     }, {
         "id": "cctv_5349",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-846.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-846.stream/playlist.m3u8",
         "name": "GA 400 : S OF WINDWARD PKWY"
     }, {
         "id": "cctv_32602",
@@ -651,11 +651,11 @@ const CAMERAS = {
         "name": "OLD NORCROSS RD : E of HURRICANE SHOALS RD"
     }, {
         "id": "cctv_5217",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-554.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-554.stream/playlist.m3u8",
         "name": "I-85 : STEVE REYNOLDS RAMP METER"
     }, {
         "id": "cctv_4938",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-177.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-177.stream/playlist.m3u8",
         "name": "I-85 : SENOIA RD"
     }, {
         "id": "cctv_32623",
@@ -667,7 +667,7 @@ const CAMERAS = {
         "name": "Windy Hill Rd : Benson Poole Rd"
     }, {
         "id": "cctv_15598",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-619.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-619.stream/playlist.m3u8",
         "name": "I-285 : ORCHARD RD"
     }, {
         "id": "cctv_15269",
@@ -675,15 +675,15 @@ const CAMERAS = {
         "name": "SR 8 (North Ave) : Luckie St / Tech Pkwy"
     }, {
         "id": "cctv_5041",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-273.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-273.stream/playlist.m3u8",
         "name": "I-285 : I-675"
     }, {
         "id": "cctv_15486",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-423.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-423.stream/playlist.m3u8",
         "name": "I-75 : S OF I-575"
     }, {
         "id": "cctv_5105",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-365.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-365.stream/playlist.m3u8",
         "name": "I-20 : GRESHAM RD"
     }, {
         "id": "cctv_46312",
@@ -691,11 +691,11 @@ const CAMERAS = {
         "name": "OLD PEACHTREE RD : MEADOW CHURCH RD"
     }, {
         "id": "cctv_13227",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fors-cam-004.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fors-cam-004.stream/playlist.m3u8",
         "name": "SR 20 (Buford Hwy) : Haw Creek Pkwy / Nuckolls Rd"
     }, {
         "id": "cctv_5292",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-072.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-072.stream/playlist.m3u8",
         "name": "I-85 : N OF SYLVAN RD"
     }, {
         "id": "cctv_46449",
@@ -707,7 +707,7 @@ const CAMERAS = {
         "name": "Windy Ridge Pkwy : Circle 75 Pkwy"
     }, {
         "id": "cctv_5196",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-505.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-505.stream/playlist.m3u8",
         "name": "I-575 : S OF CHASTAIN RD"
     }, {
         "id": "cctv_32587",
@@ -731,7 +731,7 @@ const CAMERAS = {
         "name": "Powers Ferry Rd : Terrell Mill Rd"
     }, {
         "id": "cctv_5097",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-358.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-358.stream/playlist.m3u8",
         "name": "I-20 : E OF MORELAND AVE"
     }, {
         "id": "cctv_10352",
@@ -739,7 +739,7 @@ const CAMERAS = {
         "name": "SR 20 : Satellite Blvd"
     }, {
         "id": "cctv_15581",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-456.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-456.stream/playlist.m3u8",
         "name": "I-75 : S OF CUMBERLAND BLVD"
     }, {
         "id": "cctv_15262",
@@ -747,11 +747,11 @@ const CAMERAS = {
         "name": "I-75 : N of Akers Mill Rd"
     }, {
         "id": "cctv_5165",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-437.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-437.stream/playlist.m3u8",
         "name": "I-75 : N OF CHASTAIN RD"
     }, {
         "id": "cctv_13077",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-081.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-081.stream/playlist.m3u8",
         "name": "SR 3 (Metropolitan Pkwy) : Ralph David Abernathy Blvd"
     }, {
         "id": "cctv_10458",
@@ -767,11 +767,11 @@ const CAMERAS = {
         "name": "SR 20 : I-75 SB"
     }, {
         "id": "cctv_5108",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-368.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-368.stream/playlist.m3u8",
         "name": "I-20 : W OF LLOYD RD"
     }, {
         "id": "cctv_5416",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-840.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-840.stream/playlist.m3u8",
         "name": "GA 400 : S OF MAXWELL RD"
     }, {
         "id": "cctv_10161",
@@ -783,11 +783,11 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : CMS (Old 41)"
     }, {
         "id": "cctv_13245",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-753.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-753.stream/playlist.m3u8",
         "name": "I-75 : N OF SR 20/81"
     }, {
         "id": "cctv_5337",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-833.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-833.stream/playlist.m3u8",
         "name": "GA 400 : N OF NORTHRIDGE"
     }, {
         "id": "cctv_10371",
@@ -799,11 +799,11 @@ const CAMERAS = {
         "name": "LAWRENCEVILLE-SUWANEE RD : I-85 NB"
     }, {
         "id": "cctv_5365",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-093.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-093.stream/playlist.m3u8",
         "name": "I-85 : SHALLOWFORD RD"
     }, {
         "id": "cctv_8802",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-381.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-381.stream/playlist.m3u8",
         "name": "I-20 : E OF WESLEY CHAPEL"
     }, {
         "id": "cctv_46392",
@@ -811,7 +811,7 @@ const CAMERAS = {
         "name": "Dekalb Ave : Clifton Rd"
     }, {
         "id": "cctv_4923",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-105.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-105.stream/playlist.m3u8",
         "name": "I-85 : N OF INDIAN TRAIL"
     }, {
         "id": "cctv_7299",
@@ -823,7 +823,7 @@ const CAMERAS = {
         "name": "Jones Bridge Rd : McGinnis Ferry Rd"
     }, {
         "id": "cctv_4916",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-001.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-001.stream/playlist.m3u8",
         "name": "I-85 : S OF LANGFORD PKWY"
     }, {
         "id": "cctv_16232",
@@ -831,11 +831,11 @@ const CAMERAS = {
         "name": "Old Alabama Rd : Preston Oaks/Breckenridge Close"
     }, {
         "id": "cctv_5093",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-354.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-354.stream/playlist.m3u8",
         "name": "I-20 : BOULEVARD"
     }, {
         "id": "cctv_15512",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-532.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-532.stream/playlist.m3u8",
         "name": "I-75 : S OF WOODSTOCK RD"
     }, {
         "id": "cctv_7349",
@@ -847,7 +847,7 @@ const CAMERAS = {
         "name": "SR 14/ US 29/ N. Main : Knotts Ave"
     }, {
         "id": "cctv_46505",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-093.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-093.stream/playlist.m3u8",
         "name": "SR 3/Northside Dr : Collier Rd"
     }, {
         "id": "cctv_10334",
@@ -855,7 +855,7 @@ const CAMERAS = {
         "name": "SR 124 : ANNISTOWN RD / CENTERVILLE-ROSEBUD RD"
     }, {
         "id": "cctv_4940",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-179.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-179.stream/playlist.m3u8",
         "name": "I-85 : FAYETTEVILLE RD"
     }, {
         "id": "cctv_15423",
@@ -875,7 +875,7 @@ const CAMERAS = {
         "name": "Cumberland Blvd : Akers Mill Rd North"
     }, {
         "id": "cctv_16069",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-969.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-969.stream/playlist.m3u8",
         "name": "Boulevard : Atlanta Ave"
     }, {
         "id": "cctv_32940",
@@ -883,7 +883,7 @@ const CAMERAS = {
         "name": "Dekalb Ave : Moreland Ave"
     }, {
         "id": "cctv_12949",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-035.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-035.stream/playlist.m3u8",
         "name": "SR 5 (Bill Arp Rd) : I-20 EB offramp"
     }, {
         "id": "cctv_10450",
@@ -891,7 +891,7 @@ const CAMERAS = {
         "name": "SR 54 : BATTLE CREEK RD"
     }, {
         "id": "cctv_5392",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-955.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-955.stream/playlist.m3u8",
         "name": "I-285 : BOLTON RD"
     }, {
         "id": "cctv_16122",
@@ -907,11 +907,11 @@ const CAMERAS = {
         "name": "McGinnis Ferry Rd : Bell Rd/Old Atlanta Rd"
     }, {
         "id": "cctv_9156",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-008.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-008.stream/playlist.m3u8",
         "name": "SR 8 (Scott Blvd) : N Decatur Rd"
     }, {
         "id": "cctv_5254",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-656.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-656.stream/playlist.m3u8",
         "name": "I-285 : MAIN LANES - NO. 6"
     }, {
         "id": "cctv_13132",
@@ -923,7 +923,7 @@ const CAMERAS = {
         "name": "Evans Mill Rd : I-20 WB Ramp"
     }, {
         "id": "cctv_15607",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-471.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-471.stream/playlist.m3u8",
         "name": "I-75 : DELK RD EXIT"
     }, {
         "id": "cctv_6254",
@@ -947,15 +947,15 @@ const CAMERAS = {
         "name": "SR 120 / Roswell Rd : East Piedmont Rd"
     }, {
         "id": "cctv_15427",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-315.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-315.stream/playlist.m3u8",
         "name": "I-20 : East of Thornton Rd/S6"
     }, {
         "id": "cctv_5406",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-968.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-968.stream/playlist.m3u8",
         "name": "I-285 : PACES FERRY RD"
     }, {
         "id": "cctv_5238",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-595.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-595.stream/playlist.m3u8",
         "name": "SR 141 : JONES MILL RD"
     }, {
         "id": "cctv_46385",
@@ -971,11 +971,11 @@ const CAMERAS = {
         "name": "SR 400 SB Ramps : McFarland Pkwy"
     }, {
         "id": "cctv_5944",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-600.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-600.stream/playlist.m3u8",
         "name": "I-675 : N OF I-75"
     }, {
         "id": "cctv_5059",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-032.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-032.stream/playlist.m3u8",
         "name": "I-75 : CUMBERLAND BLVD"
     }, {
         "id": "cctv_32665",
@@ -999,7 +999,7 @@ const CAMERAS = {
         "name": "SR 8 (Lawrenceville Hwy) : Harmony Grove Rd"
     }, {
         "id": "cctv_4944",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-182.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-182.stream/playlist.m3u8",
         "name": "I-85 : SR 138"
     }, {
         "id": "cctv_46395",
@@ -1023,11 +1023,11 @@ const CAMERAS = {
         "name": "SR 280/S Cobb Dr : King Springs Rd"
     }, {
         "id": "cctv_5225",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-574.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-574.stream/playlist.m3u8",
         "name": "75/85 : JW DOBBS RAMP METER"
     }, {
         "id": "cctv_15549",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-464.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-464.stream/playlist.m3u8",
         "name": "I-75 : S OF WINDY HILL RD"
     }, {
         "id": "cctv_13069",
@@ -1035,31 +1035,31 @@ const CAMERAS = {
         "name": "I-20 : SIGMAN RD"
     }, {
         "id": "cctv_4987",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-221.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-221.stream/playlist.m3u8",
         "name": "I-285 : 1 MI E OF ASH-DNWDY"
     }, {
         "id": "cctv_5223",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-572.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-572.stream/playlist.m3u8",
         "name": "75/85 : PULLIAM ST RAMP METER"
     }, {
         "id": "cctv_46504",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-096.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-096.stream/playlist.m3u8",
         "name": "SR 3 /Northside Dr : Ptree Battle Ave"
     }, {
         "id": "cctv_13062",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-086.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-086.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : Marietta St"
     }, {
         "id": "cctv_5023",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-257.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-257.stream/playlist.m3u8",
         "name": "I-285 : S OF REDWING CIRCLE"
     }, {
         "id": "cctv_5589",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-672.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-672.stream/playlist.m3u8",
         "name": "I-285 : E OF LAKE MIRROR"
     }, {
         "id": "cctv_5012",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-244.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-244.stream/playlist.m3u8",
         "name": "I-285 : S OF LAWRENCEVILLE HWY-US 29"
     }, {
         "id": "cctv_13741",
@@ -1067,11 +1067,11 @@ const CAMERAS = {
         "name": "Barrett Pkwy : George Busbee Pkwy"
     }, {
         "id": "cctv_5044",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-276.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-276.stream/playlist.m3u8",
         "name": "I-285 : E OF JONESBORO RD"
     }, {
         "id": "cctv_15411",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-306.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-306.stream/playlist.m3u8",
         "name": "I-20 : West of N County Line Rd"
     }, {
         "id": "cctv_7329",
@@ -1079,11 +1079,11 @@ const CAMERAS = {
         "name": "Johnson Ferry Rd : Little Willeo Rd"
     }, {
         "id": "cctv_5327",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-082.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-082.stream/playlist.m3u8",
         "name": "I-75 : CW GRANT PKWY"
     }, {
         "id": "cctv_9157",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-007.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-007.stream/playlist.m3u8",
         "name": "SR 8 (Scott Blvd) : Superior Ave"
     }, {
         "id": "cctv_13763",
@@ -1095,7 +1095,7 @@ const CAMERAS = {
         "name": "Interstate North Pkwy : Interstate North Pkwy West"
     }, {
         "id": "cctv_15294",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-924.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-924.stream/playlist.m3u8",
         "name": "Ivan Allen Jr Blvd : Ted Turner Dr"
     }, {
         "id": "cctv_10193",
@@ -1111,11 +1111,11 @@ const CAMERAS = {
         "name": "Spring Rd : Village Pkwy"
     }, {
         "id": "cctv_8801",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-382.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-382.stream/playlist.m3u8",
         "name": "I-20 : W OF PANOLA RD"
     }, {
         "id": "cctv_15954",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-525.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-525.stream/playlist.m3u8",
         "name": "I-75 : FREY RD"
     }, {
         "id": "cctv_13191",
@@ -1139,7 +1139,7 @@ const CAMERAS = {
         "name": "SR 20 : SR 13 (Buford Highway)"
     }, {
         "id": "cctv_13319",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-278.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-278.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : Marietta Blvd"
     }, {
         "id": "cctv_6321",
@@ -1151,15 +1151,15 @@ const CAMERAS = {
         "name": "SR 53 : Thurmon Tanner Rd"
     }, {
         "id": "cctv_12973",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-807.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-807.stream/playlist.m3u8",
         "name": "GA 400 : SIDNEY MARCUS BLVD EXT"
     }, {
         "id": "cctv_5117",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-376.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-376.stream/playlist.m3u8",
         "name": "I-20 : I-285 ENT Dekalb"
     }, {
         "id": "cctv_5100",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-360.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-360.stream/playlist.m3u8",
         "name": "I-20 : CLIFTON ST"
     }, {
         "id": "cctv_9187",
@@ -1171,15 +1171,15 @@ const CAMERAS = {
         "name": "NORTH BROWN RD : SEVER RD"
     }, {
         "id": "cctv_7219",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-009.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-009.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd NE : Peachtree Battle Ave NW"
     }, {
         "id": "cctv_13099",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-043.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-043.stream/playlist.m3u8",
         "name": "SR 5 (Bill Arp Rd) : Central Church Rd"
     }, {
         "id": "cctv_5274",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-701.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-701.stream/playlist.m3u8",
         "name": "I-75 : OLD DIXIE"
     }, {
         "id": "cctv_46424",
@@ -1191,7 +1191,7 @@ const CAMERAS = {
         "name": "Old Alabama Rd : Kroger"
     }, {
         "id": "cctv_15579",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-466.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-466.stream/playlist.m3u8",
         "name": "I-75 : EXIT TO WINDY HILL"
     }, {
         "id": "cctv_12910",
@@ -1199,11 +1199,11 @@ const CAMERAS = {
         "name": "Sandy Plains Rd : Morgan Rd"
     }, {
         "id": "cctv_13545",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-767.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-767.stream/playlist.m3u8",
         "name": "I-75 : BEFORE CMS 701"
     }, {
         "id": "cctv_13219",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-769.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-769.stream/playlist.m3u8",
         "name": "I-675 : S OF US 23/SR 42"
     }, {
         "id": "cctv_15195",
@@ -1211,7 +1211,7 @@ const CAMERAS = {
         "name": "SR 120/S Marietta Pkwy : I-75 SB Ramp"
     }, {
         "id": "cctv_9056",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-042.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-042.stream/playlist.m3u8",
         "name": "SR 3 / Northside Pkwy : I-75 NB Ramp"
     }, {
         "id": "cctv_13690",
@@ -1219,11 +1219,11 @@ const CAMERAS = {
         "name": "I-85 : Lindbergh Dr"
     }, {
         "id": "cctv_4973",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-209.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-209.stream/playlist.m3u8",
         "name": "I-285 : RIVERSIDE DR"
     }, {
         "id": "cctv_13047",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-080.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-080.stream/playlist.m3u8",
         "name": "SR 3 (Metropolitan Pkwy) : University Ave"
     }, {
         "id": "cctv_15327",
@@ -1231,7 +1231,7 @@ const CAMERAS = {
         "name": "Peachtree St : John Portman Blvd"
     }, {
         "id": "cctv_13238",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-680.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-680.stream/playlist.m3u8",
         "name": "JONESBORO RD : FOSTER DR"
     }, {
         "id": "cctv_10190",
@@ -1243,15 +1243,15 @@ const CAMERAS = {
         "name": "I-985 NB : SR 53"
     }, {
         "id": "cctv_13250",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-678.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-678.stream/playlist.m3u8",
         "name": "JONESBORO RD : CMS 717/718"
     }, {
         "id": "cctv_13056",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-088.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-088.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : 17th St"
     }, {
         "id": "cctv_5206",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-514.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-514.stream/playlist.m3u8",
         "name": "I-575 : S OF HWY 92"
     }, {
         "id": "cctv_32529",
@@ -1263,7 +1263,7 @@ const CAMERAS = {
         "name": "SR 154 / Trinity Ave : Forsyth St"
     }, {
         "id": "cctv_5018",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-025.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-025.stream/playlist.m3u8",
         "name": "I-75 : COLLIER RD"
     }, {
         "id": "cctv_46361",
@@ -1271,11 +1271,11 @@ const CAMERAS = {
         "name": "United Ave : TMC"
     }, {
         "id": "cctv_15565",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-485.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-485.stream/playlist.m3u8",
         "name": "I-75 : N MARIETTA PKY ENT"
     }, {
         "id": "cctv_5279",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-708.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-708.stream/playlist.m3u8",
         "name": "I-75 : N OF SR 138"
     }, {
         "id": "cctv_13758",
@@ -1283,11 +1283,11 @@ const CAMERAS = {
         "name": "SR 280/S Cobb Dr : Pat Mell Rd"
     }, {
         "id": "cctv_8958",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-015.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-015.stream/playlist.m3u8",
         "name": "SR 8 (Lawrenceville Hwy) : Montreal Rd (West)"
     }, {
         "id": "cctv_15460",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-030.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-030.stream/playlist.m3u8",
         "name": "Westside Pkwy : Webb Bridge Rd"
     }, {
         "id": "cctv_9293",
@@ -1311,7 +1311,7 @@ const CAMERAS = {
         "name": "SUGARLOAF PKWY : W of PREMIERE PKWY / E of SUGARLOAF CLUB DR"
     }, {
         "id": "cctv_4933",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-015.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-015.stream/playlist.m3u8",
         "name": "75/85 : SPRING ST"
     }, {
         "id": "cctv_16266",
@@ -1319,7 +1319,7 @@ const CAMERAS = {
         "name": "McGinnis Ferry Rd : Blackstone Way/Shakerag Trace"
     }, {
         "id": "cctv_5320",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-793.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-793.stream/playlist.m3u8",
         "name": "US 78 : US 78 E/W SPLIT"
     }, {
         "id": "cctv_13557",
@@ -1327,27 +1327,27 @@ const CAMERAS = {
         "name": "SR 138 / N Henry Blvd : Rock Quarry Rd"
     }, {
         "id": "cctv_5204",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-512.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-512.stream/playlist.m3u8",
         "name": "I-575 : SHALLOWFORD RD"
     }, {
         "id": "cctv_5405",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-967.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-967.stream/playlist.m3u8",
         "name": "I-285 : S OF PACES FERRY RD"
     }, {
         "id": "cctv_13593",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-002.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-002.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Hawk #2 (S of N Druid Hills)"
     }, {
         "id": "cctv_5224",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-573.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-573.stream/playlist.m3u8",
         "name": "75/85 : MLK JR DR RAMP METER"
     }, {
         "id": "cctv_5129",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-404.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-404.stream/playlist.m3u8",
         "name": "I-75 : N OF DELK RD"
     }, {
         "id": "cctv_13377",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-277.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-277.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : Chappell Rd"
     }, {
         "id": "cctv_12909",
@@ -1355,7 +1355,7 @@ const CAMERAS = {
         "name": "Johnson Ferry Rd : Post Oak Tritt Rd"
     }, {
         "id": "cctv_7212",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-024.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-024.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Lambert Dr / Piedmont Cir"
     }, {
         "id": "cctv_10345",
@@ -1363,7 +1363,7 @@ const CAMERAS = {
         "name": "SR 20 : WHEAT GRASS WAY / S of HILLSIDE DR"
     }, {
         "id": "cctv_5362",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-009.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-009.stream/playlist.m3u8",
         "name": "75/85 : MLK JR DR"
     }, {
         "id": "cctv_46433",
@@ -1375,7 +1375,7 @@ const CAMERAS = {
         "name": "SR 20 : BRAND RD"
     }, {
         "id": "cctv_13571",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-020.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-020.stream/playlist.m3u8",
         "name": "Old Milton Pkwy / Rucker Rd : Wills Rd"
     }, {
         "id": "cctv_13152",
@@ -1387,11 +1387,11 @@ const CAMERAS = {
         "name": "I-20 : 1/2 MI E OF SIGMAN RD"
     }, {
         "id": "cctv_5952",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-608.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-608.stream/playlist.m3u8",
         "name": "I-675 : DOUBLE BRDG RD"
     }, {
         "id": "cctv_5144",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-418.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-418.stream/playlist.m3u8",
         "name": "I-75 : CANTON RD-SR5 EB EXIT"
     }, {
         "id": "cctv_10337",
@@ -1415,7 +1415,7 @@ const CAMERAS = {
         "name": "SR 140 : Holcomb Br Middle School"
     }, {
         "id": "cctv_9160",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-005.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-005.stream/playlist.m3u8",
         "name": "SR 8 (Scott Blvd) : Coventry Rd"
     }, {
         "id": "cctv_7333",
@@ -1427,7 +1427,7 @@ const CAMERAS = {
         "name": "West Peachtree St : Linden Ave"
     }, {
         "id": "cctv_9088",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-321.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-321.stream/playlist.m3u8",
         "name": "I-20 : FULTON INDUSTRIAL"
     }, {
         "id": "cctv_12900",
@@ -1439,7 +1439,7 @@ const CAMERAS = {
         "name": "Lower Roswell Rd : Fairfield Dr"
     }, {
         "id": "cctv_15524",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-526.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-526.stream/playlist.m3u8",
         "name": "I-75 : S OF SHILOH RD"
     }, {
         "id": "cctv_10323",
@@ -1479,15 +1479,15 @@ const CAMERAS = {
         "name": "SR 54 : WATTS RD / FOREST AVE"
     }, {
         "id": "cctv_13342",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-749.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-749.stream/playlist.m3u8",
         "name": "I-75 : ON JONESBORO RD RAMP"
     }, {
         "id": "cctv_7209",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-002.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-002.stream/playlist.m3u8",
         "name": "SR 9 / Roswell Rd : Ptree Presb Church"
     }, {
         "id": "cctv_5338",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-834.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-834.stream/playlist.m3u8",
         "name": "GA 400 : N OF NORTHRIDGE"
     }, {
         "id": "cctv_10215",
@@ -1495,11 +1495,11 @@ const CAMERAS = {
         "name": "SR 20 : Mall of Georgia Blvd"
     }, {
         "id": "cctv_5081",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-343.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-343.stream/playlist.m3u8",
         "name": "I-20 : LOWERY BLVD"
     }, {
         "id": "cctv_5961",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-617.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-617.stream/playlist.m3u8",
         "name": "I-675 : HENRICO RD"
     }, {
         "id": "cctv_10363",
@@ -1515,7 +1515,7 @@ const CAMERAS = {
         "name": "State Bridge Rd : E Morton Rd"
     }, {
         "id": "cctv_8812",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-856.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-856.stream/playlist.m3u8",
         "name": "GA 400 : NEAR SR 20"
     }, {
         "id": "cctv_32612",
@@ -1535,11 +1535,11 @@ const CAMERAS = {
         "name": "SR 8 (North Ave) : Spring St"
     }, {
         "id": "cctv_6828",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-058.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-058.stream/playlist.m3u8",
         "name": "SR 42 (Moreland Ave) : Euclid Ave / McClendon Ave"
     }, {
         "id": "cctv_15268",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-052.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-052.stream/playlist.m3u8",
         "name": "SR 42 / N Druid Hills Rd : I-85 NB Ramp"
     }, {
         "id": "cctv_15174",
@@ -1563,11 +1563,11 @@ const CAMERAS = {
         "name": "SR 3 / Tara Blvd : North Avenue"
     }, {
         "id": "cctv_5314",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-788.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-788.stream/playlist.m3u8",
         "name": "US 78 : STONE MTN BYPASS"
     }, {
         "id": "cctv_4928",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-011.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-011.stream/playlist.m3u8",
         "name": "75/85 : EDGEWOOD"
     }, {
         "id": "cctv_16235",
@@ -1583,11 +1583,11 @@ const CAMERAS = {
         "name": "SR 140 : GA 400 NB RAMP"
     }, {
         "id": "cctv_5302",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-777.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-777.stream/playlist.m3u8",
         "name": "US 78 : N DRUID HILLS RD"
     }, {
         "id": "cctv_5077",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-034.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-034.stream/playlist.m3u8",
         "name": "I-75 : WINDY RIDGE PKWY"
     }, {
         "id": "cctv_32624",
@@ -1595,7 +1595,7 @@ const CAMERAS = {
         "name": "Perimeter Center West : Perimeter Center Pkwy/Olde Perimeter Way"
     }, {
         "id": "cctv_5412",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-099.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-099.stream/playlist.m3u8",
         "name": "I-75 : S OF PEACHTREE BATTLE"
     }, {
         "id": "cctv_9036",
@@ -1611,7 +1611,7 @@ const CAMERAS = {
         "name": "SR 10 : Abington Dr / Hickory Station Dr"
     }, {
         "id": "cctv_15483",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-521.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-521.stream/playlist.m3u8",
         "name": "I-75 : BIG SHANTY RD"
     }, {
         "id": "cctv_10271",
@@ -1619,15 +1619,15 @@ const CAMERAS = {
         "name": "SR 120 : MEDICAL CENTER BLVD"
     }, {
         "id": "cctv_5369",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-933.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-933.stream/playlist.m3u8",
         "name": "I-285 : N OF WASHINGTON RD"
     }, {
         "id": "cctv_13282",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-744.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-744.stream/playlist.m3u8",
         "name": "I-75 : N OF JODECO RD"
     }, {
         "id": "cctv_4992",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-226.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-226.stream/playlist.m3u8",
         "name": "I-285 : NORTH PEACHTREE"
     }, {
         "id": "cctv_32593",
@@ -1635,11 +1635,11 @@ const CAMERAS = {
         "name": "Dallas Hwy : Holland Rd/Poplar Springs"
     }, {
         "id": "cctv_9102",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-050.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-050.stream/playlist.m3u8",
         "name": "SR 42 / N Druid Hills Rd : Briarcliff Rd"
     }, {
         "id": "cctv_15556",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-490.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-490.stream/playlist.m3u8",
         "name": "I-75 : SR 5/CANTON RD CONN"
     }, {
         "id": "cctv_16163",
@@ -1651,19 +1651,19 @@ const CAMERAS = {
         "name": "Windward Pkwy : GA 400 NB"
     }, {
         "id": "cctv_5241",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-598.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-598.stream/playlist.m3u8",
         "name": "SR 141 : N OF TILLY MILL RD"
     }, {
         "id": "cctv_6858",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-112.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-112.stream/playlist.m3u8",
         "name": "SR 85 : SR 314 / W Fayetteville Rd"
     }, {
         "id": "cctv_5159",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-431.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-431.stream/playlist.m3u8",
         "name": "I-75 : 3/4 MI N OF BARRETT PKY"
     }, {
         "id": "cctv_4989",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-223.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-223.stream/playlist.m3u8",
         "name": "I-285 : E OF CHAM-DNWDY"
     }, {
         "id": "cctv_10287",
@@ -1671,11 +1671,11 @@ const CAMERAS = {
         "name": "SATELLITE BLVD : SUGARLOAF PKWY"
     }, {
         "id": "cctv_15412",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-294.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-294.stream/playlist.m3u8",
         "name": "I-20 : W OF CHAPEL HILL / CMS-057"
     }, {
         "id": "cctv_5417",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-841.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-841.stream/playlist.m3u8",
         "name": "GA 400 : S OF HAYNES BR RD"
     }, {
         "id": "cctv_10469",
@@ -1687,11 +1687,11 @@ const CAMERAS = {
         "name": "OLD NORCROSS RD : OAKLAND RDs"
     }, {
         "id": "cctv_5299",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-077.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-077.stream/playlist.m3u8",
         "name": "I-85 : LOOP RD"
     }, {
         "id": "cctv_4978",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-213.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-213.stream/playlist.m3u8",
         "name": "I-285 : ROSWELL ROAD"
     }, {
         "id": "cctv_10224",
@@ -1699,15 +1699,15 @@ const CAMERAS = {
         "name": "US 29 : LAWRENCEVILLE-SUWANEE RD"
     }, {
         "id": "cctv_5258",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-066.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-066.stream/playlist.m3u8",
         "name": "I-75 : JC PENNEY"
     }, {
         "id": "cctv_13304",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-033.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-033.stream/playlist.m3u8",
         "name": "SR 12 (Covington Hwy) : Glenwood Rd"
     }, {
         "id": "cctv_5959",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-615.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-615.stream/playlist.m3u8",
         "name": "I-675 : N OF GRANT RD"
     }, {
         "id": "cctv_15306",
@@ -1723,19 +1723,19 @@ const CAMERAS = {
         "name": "LAWRENCEVILLE-SUWANEE RD : I-85 SB"
     }, {
         "id": "cctv_5240",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-597.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-597.stream/playlist.m3u8",
         "name": "SR 141 : WINTERS CHAPEL"
     }, {
         "id": "cctv_5419",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-122.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-122.stream/playlist.m3u8",
         "name": "I-85 : OLD NORCROSS RD"
     }, {
         "id": "cctv_5011",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-243.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-243.stream/playlist.m3u8",
         "name": "I-285 : LAWRENCEVILLE HWY-US 29"
     }, {
         "id": "cctv_5397",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-096.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-096.stream/playlist.m3u8",
         "name": "I-75 : MT PARAN RAMP METER"
     }, {
         "id": "cctv_15227",
@@ -1743,19 +1743,19 @@ const CAMERAS = {
         "name": "SR 6 : Hiram Sam's Club"
     }, {
         "id": "cctv_5270",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-068.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-068.stream/playlist.m3u8",
         "name": "I-75 : FOREST PKWY"
     }, {
         "id": "cctv_13240",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-682.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-682.stream/playlist.m3u8",
         "name": "JONESBORO RD : CMS 712"
     }, {
         "id": "cctv_8955",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-002.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-002.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : E Lake Dr / Ponce Manor"
     }, {
         "id": "cctv_16218",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-255.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-255.stream/playlist.m3u8",
         "name": "SR 141 : Bell Rd"
     }, {
         "id": "cctv_6319",
@@ -1771,15 +1771,15 @@ const CAMERAS = {
         "name": "I-20 : Post Rd"
     }, {
         "id": "cctv_13249",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-677.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-677.stream/playlist.m3u8",
         "name": "JONESBORO RD : CMS 719"
     }, {
         "id": "cctv_5211",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-054.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-054.stream/playlist.m3u8",
         "name": "SR 166 : STANTON RD"
     }, {
         "id": "cctv_4952",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-019.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-019.stream/playlist.m3u8",
         "name": "75/85 : N OF 10TH ST"
     }, {
         "id": "cctv_16264",
@@ -1787,11 +1787,11 @@ const CAMERAS = {
         "name": "McGinnis Ferry Rd : Technology Circle"
     }, {
         "id": "cctv_5267",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-668.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-668.stream/playlist.m3u8",
         "name": "I-285 : W OF LOOP RD - LOOKS AT CMS 208"
     }, {
         "id": "cctv_5584",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-647.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-647.stream/playlist.m3u8",
         "name": "I-285 : RIVERDALE RD"
     }, {
         "id": "cctv_32600",
@@ -1799,7 +1799,7 @@ const CAMERAS = {
         "name": "Shallowford Rd : Childers Rd"
     }, {
         "id": "cctv_5346",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-843.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-843.stream/playlist.m3u8",
         "name": "GA 400 : KIMBALL BR RD"
     }, {
         "id": "cctv_15332",
@@ -1823,15 +1823,15 @@ const CAMERAS = {
         "name": "Paces Ferry Rd : Overlook Pkwy"
     }, {
         "id": "cctv_5064",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-328.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-328.stream/playlist.m3u8",
         "name": "I-20 : 285 ENTRANCE RAMPS"
     }, {
         "id": "cctv_15594",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-486.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-486.stream/playlist.m3u8",
         "name": "I-75 : N MARIETTA PKY ENT"
     }, {
         "id": "cctv_5092",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-353.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-353.stream/playlist.m3u8",
         "name": "I-20 : CHEROKEE AVE"
     }, {
         "id": "cctv_15573",
@@ -1839,7 +1839,7 @@ const CAMERAS = {
         "name": "SR 81 : NORTH OLA RD"
     }, {
         "id": "cctv_5152",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-425.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-425.stream/playlist.m3u8",
         "name": "I-75 : S OF BARRETT PKWY"
     }, {
         "id": "cctv_13157",
@@ -1847,11 +1847,11 @@ const CAMERAS = {
         "name": "Norcross St : Forrest St/Fraser St"
     }, {
         "id": "cctv_12988",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-030.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-030.stream/playlist.m3u8",
         "name": "SR 141 : I-285 W RAMP"
     }, {
         "id": "cctv_5080",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-342.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-342.stream/playlist.m3u8",
         "name": "I-20 : W OF LOWERY BLVD"
     }, {
         "id": "cctv_16254",
@@ -1863,7 +1863,7 @@ const CAMERAS = {
         "name": "SR 347/ Lanier Is Pkwy : I-985 NB"
     }, {
         "id": "cctv_15320",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-028.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-028.stream/playlist.m3u8",
         "name": "Westside Pkwy : Kimball Bridge Rd"
     }, {
         "id": "cctv_15274",
@@ -1883,11 +1883,11 @@ const CAMERAS = {
         "name": "OLD NORCROSS RD : MONFORT RD"
     }, {
         "id": "cctv_7215",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-026.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-026.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Rock Springs Rd"
     }, {
         "id": "cctv_5283",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-711.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-711.stream/playlist.m3u8",
         "name": "I-75 : SR 138"
     }, {
         "id": "cctv_46419",
@@ -1895,11 +1895,11 @@ const CAMERAS = {
         "name": "Old SR 6 BUS/Marietta St : Brownsville Rd"
     }, {
         "id": "cctv_6806",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-583.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-583.stream/playlist.m3u8",
         "name": "75/85 : S OF UNIVERSITY"
     }, {
         "id": "cctv_4998",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-231.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-231.stream/playlist.m3u8",
         "name": "I-285 : E OF BUFORD HWY"
     }, {
         "id": "cctv_32926",
@@ -1907,7 +1907,7 @@ const CAMERAS = {
         "name": "SR 10/US 78 : SR 20/Main St"
     }, {
         "id": "cctv_5247",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-064.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-064.stream/playlist.m3u8",
         "name": "I-75 : N OF TARA BLVD / US 41"
     }, {
         "id": "cctv_10464",
@@ -1915,7 +1915,7 @@ const CAMERAS = {
         "name": "SR 85 : Roberts Dr"
     }, {
         "id": "cctv_4945",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-183.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-183.stream/playlist.m3u8",
         "name": "I-85 : N OF SR 138"
     }, {
         "id": "cctv_13738",
@@ -1935,11 +1935,11 @@ const CAMERAS = {
         "name": "SR 316 : CEDARS RD"
     }, {
         "id": "cctv_5354",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-850.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-850.stream/playlist.m3u8",
         "name": "GA 400 : N OF MCGINNIS FERRY RD"
     }, {
         "id": "cctv_13090",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-087.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-087.stream/playlist.m3u8",
         "name": "SR 6 : I-20 WB Ramp"
     }, {
         "id": "cctv_10394",
@@ -1955,19 +1955,19 @@ const CAMERAS = {
         "name": "SR 138 : Flat Rock Rd"
     }, {
         "id": "cctv_15234",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-903.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-903.stream/playlist.m3u8",
         "name": "14th St : Techwood Dr"
     }, {
         "id": "cctv_6808",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-139.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-139.stream/playlist.m3u8",
         "name": "I-85 : SR 20 / BUFORD DR"
     }, {
         "id": "cctv_5333",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-083.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-083.stream/playlist.m3u8",
         "name": "I-75 : I-285 (SOUTH SIDE)"
     }, {
         "id": "cctv_5229",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-058.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-058.stream/playlist.m3u8",
         "name": "SR 166 : SYLVAN RD"
     }, {
         "id": "cctv_10205",
@@ -1975,7 +1975,7 @@ const CAMERAS = {
         "name": "PEACHTREE INDUSTRIAL BLVD : MEDLOCK BRIDGE RD"
     }, {
         "id": "cctv_9145",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-069.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-069.stream/playlist.m3u8",
         "name": "SR 236 / LaVista Rd : Cheshire Bridge Rd"
     }, {
         "id": "cctv_15265",
@@ -1991,15 +1991,15 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : SR 120A/ N Marietta Pkwy"
     }, {
         "id": "cctv_15586",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-624.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-624.stream/playlist.m3u8",
         "name": "I-285 : I-75 EXIT/EXP ON-OFF"
     }, {
         "id": "cctv_6836",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-108.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-108.stream/playlist.m3u8",
         "name": "SR 85 : Ellis Rd"
     }, {
         "id": "cctv_5220",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-057.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-057.stream/playlist.m3u8",
         "name": "SR 166 : US 29"
     }, {
         "id": "cctv_10312",
@@ -2007,11 +2007,11 @@ const CAMERAS = {
         "name": "SUGARLOAF PKWY : CRUSE RD"
     }, {
         "id": "cctv_15505",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-697.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-697.stream/playlist.m3u8",
         "name": "HICKORY GROVE RD : WEST OF I-75"
     }, {
         "id": "cctv_13670",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-026.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-026.stream/playlist.m3u8",
         "name": "SR 9 : Mayfield Road"
     }, {
         "id": "cctv_13258",
@@ -2027,7 +2027,7 @@ const CAMERAS = {
         "name": "SR 155 / Clairmont Rd : North Decatur Rd"
     }, {
         "id": "cctv_5381",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-944.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-944.stream/playlist.m3u8",
         "name": "I-285 : CASCADE RD"
     }, {
         "id": "cctv_10517",
@@ -2047,7 +2047,7 @@ const CAMERAS = {
         "name": "I-85 : N OF HAMILTON MILL"
     }, {
         "id": "cctv_15407",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-320.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-320.stream/playlist.m3u8",
         "name": "I-20 : MilePost 48/Chattahoochee Rvr"
     }, {
         "id": "cctv_46276",
@@ -2071,23 +2071,23 @@ const CAMERAS = {
         "name": "PLEASANT HILL RD : NORTH BERKELEY LAKE RD"
     }, {
         "id": "cctv_5948",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-604.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-604.stream/playlist.m3u8",
         "name": "I-675 : S OF SR 42"
     }, {
         "id": "cctv_6305",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-003.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-003.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Lenox Mall Entrance"
     }, {
         "id": "cctv_5193",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-502.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-502.stream/playlist.m3u8",
         "name": "I-575 : BARRETT PKWY"
     }, {
         "id": "cctv_13607",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-025.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-025.stream/playlist.m3u8",
         "name": "SR 120 (Old Milton Pkwy) : Brookside Pkwy / Vista Forest Dr"
     }, {
         "id": "cctv_5305",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-078.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-078.stream/playlist.m3u8",
         "name": "I-85 : CAMP CREEK PKWY"
     }, {
         "id": "cctv_13129",
@@ -2095,7 +2095,7 @@ const CAMERAS = {
         "name": "SR 120 / Roswell Rd : Indian Hills Pkwy"
     }, {
         "id": "cctv_5191",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-500.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-500.stream/playlist.m3u8",
         "name": "I-575 : N OF I-75"
     }, {
         "id": "cctv_13680",
@@ -2107,19 +2107,19 @@ const CAMERAS = {
         "name": "Richard D Sailors Pkwy : New Macland Rd"
     }, {
         "id": "cctv_5717",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-119.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-119.stream/playlist.m3u8",
         "name": "I-85 : JUST N OF I-285"
     }, {
         "id": "cctv_15584",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-460.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-460.stream/playlist.m3u8",
         "name": "I-75 : S OF WINDY RIDGE/AT 285 ON-RAMP"
     }, {
         "id": "cctv_5387",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-950.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-950.stream/playlist.m3u8",
         "name": "I-285 : S OF I-20 (FULTON)"
     }, {
         "id": "cctv_15957",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-169.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-169.stream/playlist.m3u8",
         "name": "I-85 : SR 20"
     }, {
         "id": "cctv_15453",
@@ -2131,7 +2131,7 @@ const CAMERAS = {
         "name": "SR 120/Whitlock Ave : Carriage Oaks Dr"
     }, {
         "id": "cctv_5236",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-593.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-593.stream/playlist.m3u8",
         "name": "SR 141 : N OF JIMMY CARTER"
     }, {
         "id": "cctv_10243",
@@ -2139,11 +2139,11 @@ const CAMERAS = {
         "name": "LAWRENCEVILLE-SUWANEE RD : SATELLITE BLVD"
     }, {
         "id": "cctv_13356",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-019.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-019.stream/playlist.m3u8",
         "name": "SR 120 (Old Milton Pkwy) : Northwinds Pkwy / 2nd St"
     }, {
         "id": "cctv_12950",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-036.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-036.stream/playlist.m3u8",
         "name": "SR 5 (Bill Arp Rd) : Douglas Blvd"
     }, {
         "id": "cctv_9302",
@@ -2155,27 +2155,27 @@ const CAMERAS = {
         "name": "SR 124 : N of HUDDERSFIELD DR / N of NORRIS LAKE RD"
     }, {
         "id": "cctv_9192",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-072.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-072.stream/playlist.m3u8",
         "name": "SR 10 (Freedom Pkwy) : North Highland Ave"
     }, {
         "id": "cctv_5038",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-270.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-270.stream/playlist.m3u8",
         "name": "I-285 : E OF BOULDERCREST RD"
     }, {
         "id": "cctv_8834",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-102.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-102.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : N Druid Hills Rd"
     }, {
         "id": "cctv_15430",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-302.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-302.stream/playlist.m3u8",
         "name": "I-20 : West of Fairburn Rd./SR 92"
     }, {
         "id": "cctv_15440",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-570.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-570.stream/playlist.m3u8",
         "name": "I-575 : 1/2 MI N OF SIXES RD"
     }, {
         "id": "cctv_15560",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-629.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-629.stream/playlist.m3u8",
         "name": "I-285 : EXIT TO I-75 N/S"
     }, {
         "id": "cctv_9313",
@@ -2187,19 +2187,19 @@ const CAMERAS = {
         "name": "Dallas Hwy : Barrett Pkwy"
     }, {
         "id": "cctv_5301",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-776.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-776.stream/playlist.m3u8",
         "name": "US 78 : LAWRENCEVILLE HWY"
     }, {
         "id": "cctv_5252",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-654.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-654.stream/playlist.m3u8",
         "name": "I-285 : WEST EDGE OF TUNNEL"
     }, {
         "id": "cctv_15983",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-473.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-473.stream/playlist.m3u8",
         "name": "I-75 : AT DELK RD ENTRANCE"
     }, {
         "id": "cctv_4956",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-193.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-193.stream/playlist.m3u8",
         "name": "I-85 : S OF OLD NATIONAL HWY"
     }, {
         "id": "cctv_10407",
@@ -2211,11 +2211,11 @@ const CAMERAS = {
         "name": "SR 10 : Stone Dr"
     }, {
         "id": "cctv_15444",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-307.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-307.stream/playlist.m3u8",
         "name": "I-20 : Near N County Line Rd"
     }, {
         "id": "cctv_5103",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-363.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-363.stream/playlist.m3u8",
         "name": "I-20 : FAYETTEVILLE RD"
     }, {
         "id": "cctv_16239",
@@ -2223,7 +2223,7 @@ const CAMERAS = {
         "name": "Jones Bridge Rd : W Morton Rd"
     }, {
         "id": "cctv_15497",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-489.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-489.stream/playlist.m3u8",
         "name": "I-75 : N OF ALLGOOD RD"
     }, {
         "id": "cctv_16092",
@@ -2231,7 +2231,7 @@ const CAMERAS = {
         "name": "Spring St : 5th Street"
     }, {
         "id": "cctv_15559",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-463.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-463.stream/playlist.m3u8",
         "name": "I-75 : I-75 AT EXPRESS FLYOVER"
     }, {
         "id": "cctv_7311",
@@ -2243,7 +2243,7 @@ const CAMERAS = {
         "name": "SR 378 : BURNS RD"
     }, {
         "id": "cctv_7195",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-207.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-207.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : Glen Iris Dr"
     }, {
         "id": "cctv_13676",
@@ -2255,7 +2255,7 @@ const CAMERAS = {
         "name": "SR 92/ FAIRBURN RD : MACK RD/ BOMAR RD"
     }, {
         "id": "cctv_15508",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-477.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-477.stream/playlist.m3u8",
         "name": "TERRELL MILL RD : EAST OF I-75"
     }, {
         "id": "cctv_15300",
@@ -2267,11 +2267,11 @@ const CAMERAS = {
         "name": "Barrett Pkwy : Cobb Pkwy"
     }, {
         "id": "cctv_5950",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-606.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-606.stream/playlist.m3u8",
         "name": "I-675 : N OF EVANS DR"
     }, {
         "id": "cctv_5104",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-364.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-364.stream/playlist.m3u8",
         "name": "I-20 : W OF GRESHAM RD"
     }, {
         "id": "cctv_10301",
@@ -2287,7 +2287,7 @@ const CAMERAS = {
         "name": "Barrett Pkwy : Stilesboro Rd"
     }, {
         "id": "cctv_4969",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-205.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-205.stream/playlist.m3u8",
         "name": "I-285 : CHATT RIVER"
     }, {
         "id": "cctv_7191",
@@ -2299,7 +2299,7 @@ const CAMERAS = {
         "name": "Windy Ridge Pkwy : Interstate North Pkwy"
     }, {
         "id": "cctv_7205",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-005.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-005.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd : Delmont Dr"
     }, {
         "id": "cctv_13652",
@@ -2307,7 +2307,7 @@ const CAMERAS = {
         "name": "Windy Hill Rd : Leland Dr"
     }, {
         "id": "cctv_15356",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-802.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-802.stream/playlist.m3u8",
         "name": "SR 3 / Central Ave : I-75 SB Exit"
     }, {
         "id": "cctv_15305",
@@ -2327,11 +2327,11 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Mack Dobbs Rd"
     }, {
         "id": "cctv_15958",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-163.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-163.stream/playlist.m3u8",
         "name": "I-85 : N OF I-985"
     }, {
         "id": "cctv_13055",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-078.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-078.stream/playlist.m3u8",
         "name": "SR 3 (Metropolitan Pkwy) : St Johns Ave"
     }, {
         "id": "cctv_32532",
@@ -2351,7 +2351,7 @@ const CAMERAS = {
         "name": "SR 140 : Nesbitt Ferry Rd/S Holcomb Bridge Way"
     }, {
         "id": "cctv_15518",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-467.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-467.stream/playlist.m3u8",
         "name": "I-75 : S OF TERRELL MILL RD"
     }, {
         "id": "cctv_7315",
@@ -2367,7 +2367,7 @@ const CAMERAS = {
         "name": "SR 140 / Holcomb Bridge Rd : GA 400 SB Ramp"
     }, {
         "id": "cctv_4988",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-222.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-222.stream/playlist.m3u8",
         "name": "I-285 : W OF CHAM-DNWDY"
     }, {
         "id": "cctv_13082",
@@ -2387,7 +2387,7 @@ const CAMERAS = {
         "name": "SR 42 (Moreland Ave) : S River Ind Blvd SE"
     }, {
         "id": "cctv_7222",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-007.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-007.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd : Peachtree Way"
     }, {
         "id": "cctv_10494",
@@ -2395,7 +2395,7 @@ const CAMERAS = {
         "name": "Rex Rd : Evans Dr"
     }, {
         "id": "cctv_5294",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-721.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-721.stream/playlist.m3u8",
         "name": "I-75 : OLD DIXIE RAMP METER"
     }, {
         "id": "cctv_10192",
@@ -2407,7 +2407,7 @@ const CAMERAS = {
         "name": "Windy Hill Rd : South Cobb Drive"
     }, {
         "id": "cctv_5313",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-787.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-787.stream/playlist.m3u8",
         "name": "US 78 : E OF JULIETTE RD"
     }, {
         "id": "cctv_16380",
@@ -2415,11 +2415,11 @@ const CAMERAS = {
         "name": "I-20 : 1/2 MI W OF SR 20/138"
     }, {
         "id": "cctv_8835",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-107.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-107.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Lanier Dr"
     }, {
         "id": "cctv_15419",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-295.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-295.stream/playlist.m3u8",
         "name": "I-20 : East of CMS-56"
     }, {
         "id": "cctv_15178",
@@ -2439,11 +2439,11 @@ const CAMERAS = {
         "name": "SUGARLOAF PKWY : N BROWN RD"
     }, {
         "id": "cctv_13061",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-085.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-085.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : North Ave"
     }, {
         "id": "cctv_13355",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-018.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-018.stream/playlist.m3u8",
         "name": "SR 120 (Old Milton Pkwy) : State Bridge Way / Chick-Fil-A"
     }, {
         "id": "cctv_16165",
@@ -2451,11 +2451,11 @@ const CAMERAS = {
         "name": "SR 20 : BUTTERWORTH RD"
     }, {
         "id": "cctv_13254",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-676.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-676.stream/playlist.m3u8",
         "name": "JONESBORO : EXPRESS LN RAMP"
     }, {
         "id": "cctv_6863",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-013.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-013.stream/playlist.m3u8",
         "name": "SR 92 / Woodstock Rd : Londonderry Dr"
     }, {
         "id": "cctv_32647",
@@ -2463,7 +2463,7 @@ const CAMERAS = {
         "name": "Walker ave : pole barn"
     }, {
         "id": "cctv_13590",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-003.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-003.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : SR 42 / N Druid Hills Rd"
     }, {
         "id": "cctv_46301",
@@ -2475,11 +2475,11 @@ const CAMERAS = {
         "name": "SR 20 : Canton Rd"
     }, {
         "id": "cctv_15297",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-156.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-156.stream/playlist.m3u8",
         "name": "SR 10 (Memorial Drive) : Rays Rd"
     }, {
         "id": "cctv_4943",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-181.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-181.stream/playlist.m3u8",
         "name": "I-85 : S OF SR 138"
     }, {
         "id": "cctv_10377",
@@ -2499,7 +2499,7 @@ const CAMERAS = {
         "name": "SR 331 / Forest Pkwy : John G Glover Ind Ct"
     }, {
         "id": "cctv_10170",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-031.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-031.stream/playlist.m3u8",
         "name": "SR 92 / Alabama Rd : Wade Green Rd"
     }, {
         "id": "cctv_10400",
@@ -2511,11 +2511,11 @@ const CAMERAS = {
         "name": "SR 138 : CROWN WAY / NORTH AVE"
     }, {
         "id": "cctv_5590",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-673.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-673.stream/playlist.m3u8",
         "name": "I-285 : EXIT TO I-75 S"
     }, {
         "id": "cctv_5066",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-033.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-033.stream/playlist.m3u8",
         "name": "I-75 : AKERS MILL RD"
     }, {
         "id": "cctv_10530",
@@ -2527,15 +2527,15 @@ const CAMERAS = {
         "name": "Academy St : Park Plaza"
     }, {
         "id": "cctv_5124",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-040.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-040.stream/playlist.m3u8",
         "name": "I-85 : S OF CLAIRMONT RD"
     }, {
         "id": "cctv_7198",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-213.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-213.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : N Highland Ave"
     }, {
         "id": "cctv_5334",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-830.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-830.stream/playlist.m3u8",
         "name": "GA 400 : S OF PITTS RD"
     }, {
         "id": "cctv_10442",
@@ -2543,11 +2543,11 @@ const CAMERAS = {
         "name": "SR 3 / Tara Blvd : McDonough Rd"
     }, {
         "id": "cctv_15911",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-480.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-480.stream/playlist.m3u8",
         "name": "I-75 : 1/2 MI N OF DELK RD"
     }, {
         "id": "cctv_5028",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-261.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-261.stream/playlist.m3u8",
         "name": "I-285 : I-20 EXIT RAMP"
     }, {
         "id": "cctv_15167",
@@ -2571,7 +2571,7 @@ const CAMERAS = {
         "name": "SR 5/Austell Rd : Hurt Rd"
     }, {
         "id": "cctv_13269",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fult-cam-003.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fult-cam-003.stream/playlist.m3u8",
         "name": "SR 6 : Centre Pkwy / Princeton Lakes Pkwy"
     }, {
         "id": "cctv_32577",
@@ -2583,7 +2583,7 @@ const CAMERAS = {
         "name": "Magnolia St : Mimosa Blvd"
     }, {
         "id": "cctv_15310",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-939.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-939.stream/playlist.m3u8",
         "name": "SR 8 (North Ave) : Techwood Dr/COP Dr"
     }, {
         "id": "cctv_15277",
@@ -2595,7 +2595,7 @@ const CAMERAS = {
         "name": "SR 324 : FORT DANIELS DR"
     }, {
         "id": "cctv_4920",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-102.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-102.stream/playlist.m3u8",
         "name": "I-85 : N OF CENTER WAY"
     }, {
         "id": "cctv_46478",
@@ -2603,7 +2603,7 @@ const CAMERAS = {
         "name": "SR 140 : Univeter Rd"
     }, {
         "id": "cctv_15577",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-479.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-479.stream/playlist.m3u8",
         "name": "TERRELL MILL RD : W OF I-75 EXP ON/OFF"
     }, {
         "id": "cctv_32622",
@@ -2611,7 +2611,7 @@ const CAMERAS = {
         "name": "Meadow Lane : Ridgeview Rd"
     }, {
         "id": "cctv_15343",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-103.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-103.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Dresden Dr"
     }, {
         "id": "cctv_10326",
@@ -2619,7 +2619,7 @@ const CAMERAS = {
         "name": "PLEASANT HILL RD : BRECKINRIDGE BLVD"
     }, {
         "id": "cctv_15617",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-627.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-627.stream/playlist.m3u8",
         "name": "I-285 : AT EXPRESS RAMP"
     }, {
         "id": "cctv_6810",
@@ -2635,7 +2635,7 @@ const CAMERAS = {
         "name": "SR 8 (US 29 Lawrenceville Hwy) : Main St / Hillcrest Rd"
     }, {
         "id": "cctv_5140",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-414.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-414.stream/playlist.m3u8",
         "name": "I-75 : N OF NORTH 120 LOOP"
     }, {
         "id": "cctv_12943",
@@ -2643,23 +2643,23 @@ const CAMERAS = {
         "name": "Chapel Hill Rd : Grace Lake Dr"
     }, {
         "id": "cctv_5308",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-782.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-782.stream/playlist.m3u8",
         "name": "US 78 : E OF BROCKETT RD"
     }, {
         "id": "cctv_5182",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-452.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-452.stream/playlist.m3u8",
         "name": "I-75 : S OF SR 92"
     }, {
         "id": "cctv_4964",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-020.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-020.stream/playlist.m3u8",
         "name": "75/85 : 14TH ST"
     }, {
         "id": "cctv_5275",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-702.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-702.stream/playlist.m3u8",
         "name": "I-75 : N OF JONESBORO RD"
     }, {
         "id": "cctv_5427",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-130.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-130.stream/playlist.m3u8",
         "name": "I-85 : S OF SUGARLOAF PKWY"
     }, {
         "id": "cctv_10392",
@@ -2667,7 +2667,7 @@ const CAMERAS = {
         "name": "Indian Trail-Lilburn Rd : Hillcrest Rd"
     }, {
         "id": "cctv_5114",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-373.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-373.stream/playlist.m3u8",
         "name": "I-20 : W OF I-285 (DEKALB)"
     }, {
         "id": "cctv_10197",
@@ -2675,7 +2675,7 @@ const CAMERAS = {
         "name": "SR 10 : Killian Hill Rd / SR 264 (Bethany Church Rd)"
     }, {
         "id": "cctv_5086",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-348.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-348.stream/playlist.m3u8",
         "name": "I-20 : EB EXIT TO 75/85 NB"
     }, {
         "id": "cctv_10391",
@@ -2699,7 +2699,7 @@ const CAMERAS = {
         "name": "SR 140 : Grimes Br Rd/Old Roswell Rd"
     }, {
         "id": "cctv_5155",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-428.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-428.stream/playlist.m3u8",
         "name": "I-75 : BARRETT EXIT"
     }, {
         "id": "cctv_13734",
@@ -2707,11 +2707,11 @@ const CAMERAS = {
         "name": "Powers Ferry Rd : Akers Mill Rd"
     }, {
         "id": "cctv_5255",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-657.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-657.stream/playlist.m3u8",
         "name": "I-285 : MAIN LANES NO. 2"
     }, {
         "id": "cctv_5216",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-553.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-553.stream/playlist.m3u8",
         "name": "I-85 : CHAM TUCKER RAMP METER"
     }, {
         "id": "cctv_6316",
@@ -2719,7 +2719,7 @@ const CAMERAS = {
         "name": "SR 141 (Medlock Bridge Rd) : State Bridge Rd"
     }, {
         "id": "cctv_8825",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-029.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-029.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Lenox Rd / SR 141 Conn"
     }, {
         "id": "cctv_15391",
@@ -2731,7 +2731,7 @@ const CAMERAS = {
         "name": "Cobb Pkwy : Market St"
     }, {
         "id": "cctv_5232",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-589.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-589.stream/playlist.m3u8",
         "name": "SR 141 (Peachtree Parkway) : Spalding Dr"
     }, {
         "id": "cctv_15333",
@@ -2747,11 +2747,11 @@ const CAMERAS = {
         "name": "I-20 : SR 124 / TURNER HILL RD"
     }, {
         "id": "cctv_6306",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-024.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-024.stream/playlist.m3u8",
         "name": "SR 92 / Alabama Rd : Woodstock Square Ave"
     }, {
         "id": "cctv_9140",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-103.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-103.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Ind Blvd : Clairmont Rd"
     }, {
         "id": "cctv_16242",
@@ -2771,7 +2771,7 @@ const CAMERAS = {
         "name": "SR 120/S Marietta Pkwy : Aviation Rd"
     }, {
         "id": "cctv_5177",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-448.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-448.stream/playlist.m3u8",
         "name": "I-75 : N OF WOODSTOCK RD"
     }, {
         "id": "cctv_10184",
@@ -2779,11 +2779,11 @@ const CAMERAS = {
         "name": "SR 9 (US 29 Lawrenceville Hwy) : Rockbridge Rd"
     }, {
         "id": "cctv_8956",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-014.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-014.stream/playlist.m3u8",
         "name": "SR 8 (Lawrenceville Hwy) : McClendon Dr / Frazier Rd"
     }, {
         "id": "cctv_5051",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-282.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-282.stream/playlist.m3u8",
         "name": "I-285 : COVINGTON HWY RAMP METER"
     }, {
         "id": "cctv_7320",
@@ -2791,11 +2791,11 @@ const CAMERAS = {
         "name": "EW Connector : Powder Springs Rd"
     }, {
         "id": "cctv_5049",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-280.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-280.stream/playlist.m3u8",
         "name": "I-285 : US 19"
     }, {
         "id": "cctv_13322",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-762.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-762.stream/playlist.m3u8",
         "name": "I-75 : BEFORE SR 155"
     }, {
         "id": "cctv_15280",
@@ -2803,19 +2803,19 @@ const CAMERAS = {
         "name": "Martin Luther King Jr Dr : Ted Turner Dr"
     }, {
         "id": "cctv_5587",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-670.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-670.stream/playlist.m3u8",
         "name": "I-285 : NEAR OUTER LOOP RD"
     }, {
         "id": "cctv_5282",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-710.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-710.stream/playlist.m3u8",
         "name": "I-75 : N OF SR 138"
     }, {
         "id": "cctv_6301",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-011.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-011.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : SR 237 / Piedmont Rd"
     }, {
         "id": "cctv_5173",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-531.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-531.stream/playlist.m3u8",
         "name": "I-75 : 1/2 MI S OF WOODSTOCK RD"
     }, {
         "id": "cctv_10315",
@@ -2831,11 +2831,11 @@ const CAMERAS = {
         "name": "Dallas Hwy : Casteel/Old Hamilton Rd"
     }, {
         "id": "cctv_13217",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-772.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-772.stream/playlist.m3u8",
         "name": "I-675 : S OF SR 138"
     }, {
         "id": "cctv_5245",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-062.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-062.stream/playlist.m3u8",
         "name": "I-75 : FOREST PKWY RAMP METER"
     }, {
         "id": "cctv_46384",
@@ -2843,11 +2843,11 @@ const CAMERAS = {
         "name": "SR 54 : SOUTHSIDE IND PKWY"
     }, {
         "id": "cctv_5121",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-038.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-038.stream/playlist.m3u8",
         "name": "I-85 : CHESHIRE BRIDGE"
     }, {
         "id": "cctv_15370",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-201.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-201.stream/playlist.m3u8",
         "name": "SR 155 / Clairmont Rd : Sams Club Dwy"
     }, {
         "id": "cctv_6253",
@@ -2867,7 +2867,7 @@ const CAMERAS = {
         "name": "SR 3 / Cobb Pkwy : Cumberland Blvd"
     }, {
         "id": "cctv_5237",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-594.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-594.stream/playlist.m3u8",
         "name": "SR 141 : JIMMY CARTER BLVD"
     }, {
         "id": "cctv_5330",
@@ -2875,7 +2875,7 @@ const CAMERAS = {
         "name": "GA 400 : ABERNATHY RD"
     }, {
         "id": "cctv_5058",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-031.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-031.stream/playlist.m3u8",
         "name": "I-75 : S OF CHATT RIVER"
     }, {
         "id": "cctv_32666",
@@ -2887,7 +2887,7 @@ const CAMERAS = {
         "name": "I-285 : EVANS RD"
     }, {
         "id": "cctv_6829",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-057.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-057.stream/playlist.m3u8",
         "name": "SR 42 (Moreland Ave) : Caroline St NE"
     }, {
         "id": "cctv_32535",
@@ -2895,7 +2895,7 @@ const CAMERAS = {
         "name": "SR 13 / Buford Hwy : CDC Driveway"
     }, {
         "id": "cctv_5226",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-575.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-575.stream/playlist.m3u8",
         "name": "75/85 : FREEDOM PKWY RAMP METER"
     }, {
         "id": "cctv_15317",
@@ -2907,7 +2907,7 @@ const CAMERAS = {
         "name": "Anvilblock Rd : Lunsford Dr"
     }, {
         "id": "cctv_15514",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-469.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-469.stream/playlist.m3u8",
         "name": "I-75 : AT TERRELL MILL RD"
     }, {
         "id": "cctv_16244",
@@ -2915,15 +2915,15 @@ const CAMERAS = {
         "name": "McGinnis Ferry Rd : Sargent Rd"
     }, {
         "id": "cctv_15285",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-101.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-101.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Colonial Dr"
     }, {
         "id": "cctv_12957",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-809.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-809.stream/playlist.m3u8",
         "name": "GA 400 : 1 MI S Of LENOX RD"
     }, {
         "id": "cctv_13346",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-279.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-279.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : Joseph E Lowery Blvd"
     }, {
         "id": "cctv_16249",
@@ -2931,7 +2931,7 @@ const CAMERAS = {
         "name": "Jones Bridge Rd : Douglas Rd"
     }, {
         "id": "cctv_7218",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-010.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-010.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd NE : Peachtree Memorial Dr"
     }, {
         "id": "cctv_7357",
@@ -2939,7 +2939,7 @@ const CAMERAS = {
         "name": "Sandy Plains Rd : Piedmont Rd"
     }, {
         "id": "cctv_15580",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-622.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-622.stream/playlist.m3u8",
         "name": "I-285 : COBB PKY WB ENT/EB EXT"
     }, {
         "id": "cctv_7351",
@@ -2947,7 +2947,7 @@ const CAMERAS = {
         "name": "Paces Ferry Rd : I-285"
     }, {
         "id": "cctv_5137",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-411.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-411.stream/playlist.m3u8",
         "name": "I-75 : GRESHAM RD"
     }, {
         "id": "cctv_9123",
@@ -2955,7 +2955,7 @@ const CAMERAS = {
         "name": "Atlanta Rd : Brownwood Ln"
     }, {
         "id": "cctv_4935",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-151.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-151.stream/playlist.m3u8",
         "name": "75/85 : 17TH ST"
     }, {
         "id": "cctv_10354",
@@ -2963,23 +2963,23 @@ const CAMERAS = {
         "name": "SR 20 : Commerce Dr / Frontier Dr"
     }, {
         "id": "cctv_5424",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-127.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-127.stream/playlist.m3u8",
         "name": "SR 316 : BOGGS RD"
     }, {
         "id": "cctv_15233",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-902.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-902.stream/playlist.m3u8",
         "name": "SR 9 (Spring St) : 17th St"
     }, {
         "id": "cctv_13265",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-740.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-740.stream/playlist.m3u8",
         "name": "I-75 : N OF HUDSON BR"
     }, {
         "id": "cctv_5218",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-555.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-555.stream/playlist.m3u8",
         "name": "I-85 : PLEASANT HILL RAMP METER"
     }, {
         "id": "cctv_5035",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-268.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-268.stream/playlist.m3u8",
         "name": "I-285 : E OF CLIFTON SPRINGS RD"
     }, {
         "id": "cctv_15454",
@@ -2987,11 +2987,11 @@ const CAMERAS = {
         "name": "Windsor St : Rawson St / I-20 Ramp"
     }, {
         "id": "cctv_6833",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-053.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-053.stream/playlist.m3u8",
         "name": "SR 42 (Moreland Ave) : Henrico Rd"
     }, {
         "id": "cctv_5164",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-436.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-436.stream/playlist.m3u8",
         "name": "I-75 : N OF CHASTAIN RD"
     }, {
         "id": "cctv_10247",
@@ -3011,7 +3011,7 @@ const CAMERAS = {
         "name": "LAWRENCEVILLE-SUWANEE RD : W of TAYLOR RD"
     }, {
         "id": "cctv_5005",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-238.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-238.stream/playlist.m3u8",
         "name": "I-285 : S OF HENDERSON RD"
     }, {
         "id": "cctv_10357",
@@ -3019,7 +3019,7 @@ const CAMERAS = {
         "name": "COLLINS HILL RD : COLLINS IND WAY - LENDON CONN"
     }, {
         "id": "cctv_5134",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-409.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-409.stream/playlist.m3u8",
         "name": "I-75 : NORTH OF S 120 LOOP"
     }, {
         "id": "cctv_10143",
@@ -3031,7 +3031,7 @@ const CAMERAS = {
         "name": "SR 124 : CENTERVILLE ES / VILLAGE GLEN DR"
     }, {
         "id": "cctv_13588",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-007.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-007.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : N Cliff Valley Rd"
     }, {
         "id": "cctv_12911",
@@ -3039,23 +3039,23 @@ const CAMERAS = {
         "name": "Sandy Plains Rd : Scufflegrit Rd"
     }, {
         "id": "cctv_15247",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-411.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-411.stream/playlist.m3u8",
         "name": "SR 154 (Memorial Drive) : Maynard Terrace"
     }, {
         "id": "cctv_4979",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-214.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-214.stream/playlist.m3u8",
         "name": "I-285 : E OF ROSWELL RD"
     }, {
         "id": "cctv_13078",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-082.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-082.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : McDaniel St"
     }, {
         "id": "cctv_15403",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-293.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-293.stream/playlist.m3u8",
         "name": "I-20 : SR 5/Bill Arp Rd"
     }, {
         "id": "cctv_5709",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-586.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-586.stream/playlist.m3u8",
         "name": "SR 141 (Peachtree Parkway) : S of Chatt River Park"
     }, {
         "id": "cctv_15319",
@@ -3075,7 +3075,7 @@ const CAMERAS = {
         "name": "SR 6 : Florence Rd"
     }, {
         "id": "cctv_13716",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-157.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-157.stream/playlist.m3u8",
         "name": "SR 10 (Memorial Drive) : Hambrick Rd"
     }, {
         "id": "cctv_10415",
@@ -3083,7 +3083,7 @@ const CAMERAS = {
         "name": "SR 378 : PARK DR / VULCAN DRWY(PH8)"
     }, {
         "id": "cctv_46414",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-274.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-274.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : Wood Sr"
     }, {
         "id": "cctv_46311",
@@ -3099,11 +3099,11 @@ const CAMERAS = {
         "name": "Mableton Pkwy : South Gordon Rd"
     }, {
         "id": "cctv_5109",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-369.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-369.stream/playlist.m3u8",
         "name": "I-20 : W OF CANDLER RD"
     }, {
         "id": "cctv_15590",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-470.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-470.stream/playlist.m3u8",
         "name": "I-75 : N TERRELL MILL EXP ON/OFF"
     }, {
         "id": "cctv_13105",
@@ -3115,23 +3115,23 @@ const CAMERAS = {
         "name": "SR 124 : SR 20 / GRAYSON HWY / CLAYTON ST"
     }, {
         "id": "cctv_5716",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-118.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-118.stream/playlist.m3u8",
         "name": "I-85 : JUST S OF I-285"
     }, {
         "id": "cctv_15464",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-561.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-561.stream/playlist.m3u8",
         "name": "I-575 : S OF RIDGEWALK PKY"
     }, {
         "id": "cctv_15502",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-497.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-497.stream/playlist.m3u8",
         "name": "I-75 : BARRETT PKY ENTRANCE"
     }, {
         "id": "cctv_5373",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-937.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-937.stream/playlist.m3u8",
         "name": "I-285 : 1 MI S OF LANGFORD PKY"
     }, {
         "id": "cctv_15971",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-175.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-175.stream/playlist.m3u8",
         "name": "I-85 : HAMILTON MILL RD"
     }, {
         "id": "cctv_10209",
@@ -3143,7 +3143,7 @@ const CAMERAS = {
         "name": "SR 120/N Marietta Pkwy : Whitlock Ave"
     }, {
         "id": "cctv_5195",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-504.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-504.stream/playlist.m3u8",
         "name": "I-575 : NOONDAY CREEK"
     }, {
         "id": "cctv_13111",
@@ -3171,11 +3171,11 @@ const CAMERAS = {
         "name": "SR 54 / Jonesboro Rd : Reynolds Rd"
     }, {
         "id": "cctv_5291",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-719.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-719.stream/playlist.m3u8",
         "name": "I-75 : HUDSON BRIDGE"
     }, {
         "id": "cctv_12975",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-814.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-814.stream/playlist.m3u8",
         "name": "GA 400 : S OF LENOX RD/SR 141 CONN"
     }, {
         "id": "cctv_13678",
@@ -3187,23 +3187,23 @@ const CAMERAS = {
         "name": "I-85 : 1 MI N OF HAMILTON MILL"
     }, {
         "id": "cctv_15966",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-161.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-161.stream/playlist.m3u8",
         "name": "I-85 : S OF I-985"
     }, {
         "id": "cctv_13771",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-601.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-601.stream/playlist.m3u8",
         "name": "Cheshire Bridge Rd : I-85 NB Ramp"
     }, {
         "id": "cctv_9059",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-047.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-047.stream/playlist.m3u8",
         "name": "SR 3 / Northside Pkwy : N Atlanta High School"
     }, {
         "id": "cctv_15487",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-492.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-492.stream/playlist.m3u8",
         "name": "I-75 : N OF BELLS FERRY RD"
     }, {
         "id": "cctv_13305",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-034.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-034.stream/playlist.m3u8",
         "name": "SR 12 (Covington Hwy) : Wesley Chapel Rd"
     }, {
         "id": "cctv_32941",
@@ -3211,7 +3211,7 @@ const CAMERAS = {
         "name": "Dekalb Ave : Rocky Ford Rd / Dekalb Pl"
     }, {
         "id": "cctv_5423",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-126.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-126.stream/playlist.m3u8",
         "name": "I-85 : BOGGS RD"
     }, {
         "id": "cctv_15252",
@@ -3243,11 +3243,11 @@ const CAMERAS = {
         "name": "SR 20 : Rock Springs Rd"
     }, {
         "id": "cctv_13264",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-728.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-728.stream/playlist.m3u8",
         "name": "SR 138 : I-75 SB RAMP"
     }, {
         "id": "cctv_4997",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-230.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-230.stream/playlist.m3u8",
         "name": "I-285 : BUFORD HIGHWAY"
     }, {
         "id": "cctv_16080",
@@ -3259,7 +3259,7 @@ const CAMERAS = {
         "name": "State Bridge Rd : Home Depot"
     }, {
         "id": "cctv_13091",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-039.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-039.stream/playlist.m3u8",
         "name": "SR 5 (Bill Arp Rd) : Wenona St"
     }, {
         "id": "cctv_46272",
@@ -3279,7 +3279,7 @@ const CAMERAS = {
         "name": "PLEASANT HILL RD : CRUSE RD"
     }, {
         "id": "cctv_15408",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-304.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-304.stream/playlist.m3u8",
         "name": "I-20 : Midway Rd Overpass"
     }, {
         "id": "cctv_46291",
@@ -3287,7 +3287,7 @@ const CAMERAS = {
         "name": "Perimeter Summit Pkwy : Parkside Pl"
     }, {
         "id": "cctv_5120",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-379.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-379.stream/playlist.m3u8",
         "name": "I-20 : E OF WESLEY CHAPEL RD"
     }, {
         "id": "cctv_13147",
@@ -3295,7 +3295,7 @@ const CAMERAS = {
         "name": "SR 92 : Roswell Crossing"
     }, {
         "id": "cctv_13604",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-022.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-022.stream/playlist.m3u8",
         "name": "SR 120 (Old Milton Pkwy) : SR 400 SB Ramp"
     }, {
         "id": "cctv_9119",
@@ -3307,19 +3307,19 @@ const CAMERAS = {
         "name": "Upper Riverdale Rd : Lamar Hutcheson Pkwy"
     }, {
         "id": "cctv_5960",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-616.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-616.stream/playlist.m3u8",
         "name": "I-675 : CEDAR GROVE RD"
     }, {
         "id": "cctv_7211",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-025.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-025.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Cheshire Br Rd"
     }, {
         "id": "cctv_13081",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-272.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-272.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : I-285 NB Ramp"
     }, {
         "id": "cctv_13228",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-739.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-739.stream/playlist.m3u8",
         "name": "I-75 : S OF FLIPPEN RD"
     }, {
         "id": "cctv_6263",
@@ -3327,7 +3327,7 @@ const CAMERAS = {
         "name": "SR 140 : Eves Rd"
     }, {
         "id": "cctv_4972",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-208.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-208.stream/playlist.m3u8",
         "name": "I-285 : WEST OF RVRSIDE DR"
     }, {
         "id": "cctv_10325",
@@ -3335,11 +3335,11 @@ const CAMERAS = {
         "name": "PLEASANT HILL RD : CLUB DR"
     }, {
         "id": "cctv_15395",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-543.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-543.stream/playlist.m3u8",
         "name": "I-575 : N BOOTH RD"
     }, {
         "id": "cctv_15987",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-153.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-153.stream/playlist.m3u8",
         "name": "I-85 : EXIT TO SR 120"
     }, {
         "id": "cctv_32604",
@@ -3355,15 +3355,15 @@ const CAMERAS = {
         "name": "Marietta St : Peachtree St"
     }, {
         "id": "cctv_12967",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-822.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-822.stream/playlist.m3u8",
         "name": "GA 400 : S OF NORTHLAND DR"
     }, {
         "id": "cctv_15459",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-031.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-031.stream/playlist.m3u8",
         "name": "North Point Pkwy : Webb Bridge Rd"
     }, {
         "id": "cctv_15583",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-457.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-457.stream/playlist.m3u8",
         "name": "I-75 : S OF AKERS MILL RD"
     }, {
         "id": "cctv_10365",
@@ -3371,7 +3371,7 @@ const CAMERAS = {
         "name": "SR 10 : Wisteria Dr / Skyland Dr"
     }, {
         "id": "cctv_9335",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-095.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-095.stream/playlist.m3u8",
         "name": "SR 3 / Northside Pkwy : W Paces Ferry Rd"
     }, {
         "id": "cctv_46314",
@@ -3379,11 +3379,11 @@ const CAMERAS = {
         "name": "OLD PEACHTREE RD : DISTRIBUTION DR"
     }, {
         "id": "cctv_5128",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-403.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-403.stream/playlist.m3u8",
         "name": "I-75 : DELK RD"
     }, {
         "id": "cctv_15969",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-166.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-166.stream/playlist.m3u8",
         "name": "I-85 : 1 MILE S OF SR 20"
     }, {
         "id": "cctv_13618",
@@ -3391,7 +3391,7 @@ const CAMERAS = {
         "name": "SR 120 / Roswell Rd : Wood Trail Ln"
     }, {
         "id": "cctv_4983",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-218.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-218.stream/playlist.m3u8",
         "name": "I-285 : PEACHTREE-DNWDY"
     }, {
         "id": "cctv_10237",
@@ -3403,23 +3403,23 @@ const CAMERAS = {
         "name": "SR 3 / Cobb Pkwy : Kennesaw Due West Rd"
     }, {
         "id": "cctv_5304",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-779.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-779.stream/playlist.m3u8",
         "name": "US 78 : RAMP TO I-285 N"
     }, {
         "id": "cctv_5107",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-367.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-367.stream/playlist.m3u8",
         "name": "I-20 : E OF FLAT SHOALS"
     }, {
         "id": "cctv_15399",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-545.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-545.stream/playlist.m3u8",
         "name": "I-575 : AT HAWKINS STORE ROAD"
     }, {
         "id": "cctv_15438",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-565.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-565.stream/playlist.m3u8",
         "name": "I-575 : SIXES RD ENT RAMP"
     }, {
         "id": "cctv_5298",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-076.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-076.stream/playlist.m3u8",
         "name": "I-85 : AIRPORT EXIT"
     }, {
         "id": "cctv_15175",
@@ -3427,11 +3427,11 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : SR 3C/Roswell St"
     }, {
         "id": "cctv_5185",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-046.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-046.stream/playlist.m3u8",
         "name": "I-85 : S OF I-285 (MORELAND INTRCHGE)"
     }, {
         "id": "cctv_4991",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-225.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-225.stream/playlist.m3u8",
         "name": "I-285 : W OF N PEACHTREE"
     }, {
         "id": "cctv_16211",
@@ -3439,7 +3439,7 @@ const CAMERAS = {
         "name": "Peachtree Center Avenue : Baker St"
     }, {
         "id": "cctv_10426",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-203.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-203.stream/playlist.m3u8",
         "name": "SR 314 : Grove Park Entry / Lowes"
     }, {
         "id": "cctv_10216",
@@ -3447,7 +3447,7 @@ const CAMERAS = {
         "name": "SR 20 : Woodward Crossing Blvd"
     }, {
         "id": "cctv_5242",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-599.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-599.stream/playlist.m3u8",
         "name": "SR 141 : TILLY MILL RD"
     }, {
         "id": "cctv_13121",
@@ -3455,7 +3455,7 @@ const CAMERAS = {
         "name": "SR 20 : SR 42 SB / Jonesboro Rd"
     }, {
         "id": "cctv_15301",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-931.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-931.stream/playlist.m3u8",
         "name": "Centennial Olympic Park Dr : Baker St"
     }, {
         "id": "cctv_10280",
@@ -3463,7 +3463,7 @@ const CAMERAS = {
         "name": "SATELLITE BLVD : N of PARAGON"
     }, {
         "id": "cctv_5339",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-835.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-835.stream/playlist.m3u8",
         "name": "GA 400 : S OF HOLCOMB BR"
     }, {
         "id": "cctv_13151",
@@ -3475,15 +3475,15 @@ const CAMERAS = {
         "name": "SR 139 / Church St : King Rd"
     }, {
         "id": "cctv_8811",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-855.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-855.stream/playlist.m3u8",
         "name": "GA 400 : NEAR PEACHTREE PKWY"
     }, {
         "id": "cctv_15390",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-549.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-549.stream/playlist.m3u8",
         "name": "I-575 : S OF SR 92"
     }, {
         "id": "cctv_5317",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-790.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-790.stream/playlist.m3u8",
         "name": "US 78 : HUGH HOWELL RD"
     }, {
         "id": "cctv_13086",
@@ -3491,19 +3491,19 @@ const CAMERAS = {
         "name": "Akers Mill Rd : Overton Park Dr"
     }, {
         "id": "cctv_15613",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-475.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-475.stream/playlist.m3u8",
         "name": "I-75 : DELK RD EXIT"
     }, {
         "id": "cctv_5078",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-340.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-340.stream/playlist.m3u8",
         "name": "I-20 : E OF LANGHORN ST"
     }, {
         "id": "cctv_5321",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-794.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-794.stream/playlist.m3u8",
         "name": "US 78 : W OF JEFFERSON DAVIS RD"
     }, {
         "id": "cctv_7226",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-019.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-019.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Darlington Rd"
     }, {
         "id": "cctv_13558",
@@ -3515,11 +3515,11 @@ const CAMERAS = {
         "name": "Douglas Blvd : Lowes Entrance"
     }, {
         "id": "cctv_8826",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-028.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-028.stream/playlist.m3u8",
         "name": "Lenox Rd : GA 400"
     }, {
         "id": "cctv_5013",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-245.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-245.stream/playlist.m3u8",
         "name": "I-285 : STONE MT FRWY-US 78"
     }, {
         "id": "cctv_16093",
@@ -3531,7 +3531,7 @@ const CAMERAS = {
         "name": "Chastain Rd : I-75 SB Ramp"
     }, {
         "id": "cctv_13190",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-271.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-271.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : SR 70 (Fulton Industrial Blvd)"
     }, {
         "id": "cctv_12897",
@@ -3539,11 +3539,11 @@ const CAMERAS = {
         "name": "Bells Ferry Rd : Shiloh/Shallowford Rd"
     }, {
         "id": "cctv_15542",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-567.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-567.stream/playlist.m3u8",
         "name": "I-575 : N OF SIXES RD"
     }, {
         "id": "cctv_15293",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-540.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-540.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : MLK Jr Dr / M-B Stadium"
     }, {
         "id": "cctv_13742",
@@ -3551,7 +3551,7 @@ const CAMERAS = {
         "name": "Powers Ferry Rd : Interstate North Pkwy"
     }, {
         "id": "cctv_13059",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-079.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-079.stream/playlist.m3u8",
         "name": "SR 3 (Metropolitan Pkwy) : Manford Rd"
     }, {
         "id": "cctv_16228",
@@ -3563,7 +3563,7 @@ const CAMERAS = {
         "name": "SR 9 (US 29 Lawrenceville Hwy) : Jimmy Carter Blvd / Mountain Ind Blvd"
     }, {
         "id": "cctv_5328",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-825.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-825.stream/playlist.m3u8",
         "name": "GA 400 : N OF I-285"
     }, {
         "id": "cctv_15903",
@@ -3571,15 +3571,15 @@ const CAMERAS = {
         "name": "SR 81 : Racetrack Rd"
     }, {
         "id": "cctv_13669",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-228.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-228.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : I-285 EB Ramp"
     }, {
         "id": "cctv_5256",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-658.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-658.stream/playlist.m3u8",
         "name": "I-285 : CD LANES - NO TRAFFIC"
     }, {
         "id": "cctv_9062",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-046.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-046.stream/playlist.m3u8",
         "name": "Mt Paran Rd : I-75 NB Ramp"
     }, {
         "id": "cctv_13336",
@@ -3587,11 +3587,11 @@ const CAMERAS = {
         "name": "SR 140 : Atlantic Blvd"
     }, {
         "id": "cctv_12962",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-819.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-819.stream/playlist.m3u8",
         "name": "GA 400 : LORIDANS DR"
     }, {
         "id": "cctv_5588",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-671.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-671.stream/playlist.m3u8",
         "name": "I-285 : W OF LAKE MIRROR"
     }, {
         "id": "cctv_10266",
@@ -3619,7 +3619,7 @@ const CAMERAS = {
         "name": "Windy Hill Rd : CMS (Roswell St)"
     }, {
         "id": "cctv_13079",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-094.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-094.stream/playlist.m3u8",
         "name": "SR 3 / Northside Dr : I-75 SB Ramp"
     }, {
         "id": "cctv_46427",
@@ -3631,11 +3631,11 @@ const CAMERAS = {
         "name": "Main St (JB) : College St"
     }, {
         "id": "cctv_9115",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-051.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-051.stream/playlist.m3u8",
         "name": "SR 9 / Roswell Rd : Wieuca Rd"
     }, {
         "id": "cctv_5118",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-377.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-377.stream/playlist.m3u8",
         "name": "I-20 : E OF I-285 (DEKALB)"
     }, {
         "id": "cctv_10136",
@@ -3643,15 +3643,15 @@ const CAMERAS = {
         "name": "Shallowford Rd : Mabry Rd"
     }, {
         "id": "cctv_15421",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-317.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-317.stream/playlist.m3u8",
         "name": "I-20 : West of Riverside Pkwy"
     }, {
         "id": "cctv_5400",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-962.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-962.stream/playlist.m3u8",
         "name": "I-285 : N OF SOUTH COBB DR"
     }, {
         "id": "cctv_5221",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-578.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-578.stream/playlist.m3u8",
         "name": "75/85 : UNIVERSITY AVE RAMP METER"
     }, {
         "id": "cctv_15259",
@@ -3659,11 +3659,11 @@ const CAMERAS = {
         "name": "SR 8 (Lawrenceville Hwy) : Walmart SC"
     }, {
         "id": "cctv_9058",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-045.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-045.stream/playlist.m3u8",
         "name": "SR 3 / US 41 / Northside Pkwy : Mt. Paran Rd."
     }, {
         "id": "cctv_15282",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-920.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-920.stream/playlist.m3u8",
         "name": "Marietta St : Centennial Olympic Park Dr"
     }, {
         "id": "cctv_46397",
@@ -3671,19 +3671,19 @@ const CAMERAS = {
         "name": "Ashford Dunwoody Rd : I-285 EB Ramp"
     }, {
         "id": "cctv_15410",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-297.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-297.stream/playlist.m3u8",
         "name": "I-20 : East of Prestley Mill Rd"
     }, {
         "id": "cctv_5019",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-250.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-250.stream/playlist.m3u8",
         "name": "I-285 : NORTH DECATUR RD"
     }, {
         "id": "cctv_15359",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-804.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-804.stream/playlist.m3u8",
         "name": "SR 3 / Central Ave : Browns Mill Rd"
     }, {
         "id": "cctv_16081",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-034.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-034.stream/playlist.m3u8",
         "name": "SR 5 (Bill Arp Rd) : I-20 WB Ramp"
     }, {
         "id": "cctv_13757",
@@ -3691,19 +3691,19 @@ const CAMERAS = {
         "name": "SR 280/S Cobb Dr : Concord Rd"
     }, {
         "id": "cctv_8959",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-001.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-001.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : Lakeshore Dr / N Ponce"
     }, {
         "id": "cctv_13251",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-679.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-679.stream/playlist.m3u8",
         "name": "JONESBORO RD : FOSTER DR"
     }, {
         "id": "cctv_5205",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-513.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-513.stream/playlist.m3u8",
         "name": "I-575 : 1 MI S OF HWY 92"
     }, {
         "id": "cctv_9158",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-009.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-009.stream/playlist.m3u8",
         "name": "SR 8 (Scott Blvd) : Church St"
     }, {
         "id": "cctv_13737",
@@ -3711,7 +3711,7 @@ const CAMERAS = {
         "name": "Johnson Ferry Rd : Sewell Mill Rd"
     }, {
         "id": "cctv_13562",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-730.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-730.stream/playlist.m3u8",
         "name": "I-75 : N OF I-675"
     }, {
         "id": "cctv_10200",
@@ -3719,7 +3719,7 @@ const CAMERAS = {
         "name": "STEVE REYNOLDS BLVD : I-85 NB RAMP"
     }, {
         "id": "cctv_4934",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-150.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-150.stream/playlist.m3u8",
         "name": "75/85 : 17TH ST"
     }, {
         "id": "cctv_13351",
@@ -3731,7 +3731,7 @@ const CAMERAS = {
         "name": "SR 10 : SR 124 (Scenic Hwy)"
     }, {
         "id": "cctv_5096",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-357.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-357.stream/playlist.m3u8",
         "name": "I-20 : MORELAND AVE"
     }, {
         "id": "cctv_12922",
@@ -3747,7 +3747,7 @@ const CAMERAS = {
         "name": "GA 14 ALT/ South Fulton Pkwy : Stonewall Tell Rd"
     }, {
         "id": "cctv_5045",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-277.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-277.stream/playlist.m3u8",
         "name": "I-285 : JONESBORO RD"
     }, {
         "id": "cctv_10405",
@@ -3759,11 +3759,11 @@ const CAMERAS = {
         "name": "I-20 : west of Turner Rd/Exit 75"
     }, {
         "id": "cctv_5430",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-133.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-133.stream/playlist.m3u8",
         "name": "I-85 : OLD PEACHTREE"
     }, {
         "id": "cctv_5052",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-283.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-283.stream/playlist.m3u8",
         "name": "I-285 : COVINGTON HWY RAMP METER"
     }, {
         "id": "cctv_15328",
@@ -3771,23 +3771,23 @@ const CAMERAS = {
         "name": "Marietta St : Forsyth St"
     }, {
         "id": "cctv_4924",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-106.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-106.stream/playlist.m3u8",
         "name": "I-85 : BEAVER RUIN"
     }, {
         "id": "cctv_15955",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-154.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-154.stream/playlist.m3u8",
         "name": "I-85 : N OF OLD PEACHTREE RD"
     }, {
         "id": "cctv_5203",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-511.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-511.stream/playlist.m3u8",
         "name": "I-575 : HAWKINS STORE RD"
     }, {
         "id": "cctv_16294",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-076.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-076.stream/playlist.m3u8",
         "name": "SR 3 (Metropolitan Pkwy) : Atlanta Metropolitan College"
     }, {
         "id": "cctv_9069",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-006.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-006.stream/playlist.m3u8",
         "name": "SR 9 : SR 120 (Old Milton Parkway)"
     }, {
         "id": "cctv_9172",
@@ -3795,7 +3795,7 @@ const CAMERAS = {
         "name": "Floyd Rd : Clay Rd"
     }, {
         "id": "cctv_13769",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-604.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-604.stream/playlist.m3u8",
         "name": "Sidney Marcus Blvd : SR 400 NB Ramp"
     }, {
         "id": "cctv_13140",
@@ -3815,7 +3815,7 @@ const CAMERAS = {
         "name": "Atlanta Rd : Pat Mell Rd"
     }, {
         "id": "cctv_5953",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-609.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-609.stream/playlist.m3u8",
         "name": "I-675 : S OF ELLENWOOD RD"
     }, {
         "id": "cctv_10255",
@@ -3823,7 +3823,7 @@ const CAMERAS = {
         "name": "OLD NORCROSS RD : W of SR 120"
     }, {
         "id": "cctv_5351",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-848.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-848.stream/playlist.m3u8",
         "name": "GA 400 : N OF WINDWARD PKWY"
     }, {
         "id": "cctv_7330",
@@ -3867,7 +3867,7 @@ const CAMERAS = {
         "name": "North Ave : Hunt St"
     }, {
         "id": "cctv_13237",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-675.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-675.stream/playlist.m3u8",
         "name": "FOSTER DR : JONESBORO RD"
     }, {
         "id": "cctv_10180",
@@ -3879,15 +3879,15 @@ const CAMERAS = {
         "name": "Canton Rd : Ebenezer Rd"
     }, {
         "id": "cctv_15606",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-458.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-458.stream/playlist.m3u8",
         "name": "I-75 : S OF I-285/COBB CLOVERLEAF"
     }, {
         "id": "cctv_5248",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-650.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-650.stream/playlist.m3u8",
         "name": "I-285 : W OF RIVERDALE RD-CMS 243"
     }, {
         "id": "cctv_5382",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-945.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-945.stream/playlist.m3u8",
         "name": "I-285 : N OF CASCADE RD"
     }, {
         "id": "cctv_12987",
@@ -3895,7 +3895,7 @@ const CAMERAS = {
         "name": "SR 140 : Holcomb Bridge Road"
     }, {
         "id": "cctv_4968",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-204.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-204.stream/playlist.m3u8",
         "name": "I-285 : 1 MI W OF PWRS FRY"
     }, {
         "id": "cctv_16231",
@@ -3907,7 +3907,7 @@ const CAMERAS = {
         "name": "LAWRENCEVILLE-SUWANEE RD : SAWMILL RD"
     }, {
         "id": "cctv_6805",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-704.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-704.stream/playlist.m3u8",
         "name": "I-75 : S OF SR 54"
     }, {
         "id": "cctv_9080",
@@ -3915,7 +3915,7 @@ const CAMERAS = {
         "name": "North Point Pkwy : Kimball Bridge Rd"
     }, {
         "id": "cctv_4948",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-186.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-186.stream/playlist.m3u8",
         "name": "I-85 : N OF FLAT SHOALS RD"
     }, {
         "id": "cctv_10502",
@@ -3923,7 +3923,7 @@ const CAMERAS = {
         "name": "Forest Pkwy : Quiktrip Way"
     }, {
         "id": "cctv_4919",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-101.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-101.stream/playlist.m3u8",
         "name": "I-85 : S OF CENTER WAY"
     }, {
         "id": "cctv_7343",
@@ -3931,11 +3931,11 @@ const CAMERAS = {
         "name": "Johnson Ferry Rd : Columns Dr"
     }, {
         "id": "cctv_5249",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-651.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-651.stream/playlist.m3u8",
         "name": "I-285 : E OF RIVERDALE RD-CMS 244"
     }, {
         "id": "cctv_13257",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fors-cam-005.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fors-cam-005.stream/playlist.m3u8",
         "name": "SR 20 (Buford Hwy) : Samples Rd / Trammel Rd"
     }, {
         "id": "cctv_15273",
@@ -3943,7 +3943,7 @@ const CAMERAS = {
         "name": "I-20 : Milepost 079"
     }, {
         "id": "cctv_13584",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-229.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-229.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : I-285 WB Ramp"
     }, {
         "id": "cctv_6323",
@@ -3955,15 +3955,15 @@ const CAMERAS = {
         "name": "Atlanta Rd : Old Concord Rd"
     }, {
         "id": "cctv_5190",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-050.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-050.stream/playlist.m3u8",
         "name": "SR 166 : MAXELL DR"
     }, {
         "id": "cctv_15552",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-484.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-484.stream/playlist.m3u8",
         "name": "I-75 : SR 120/ROSWELL RD"
     }, {
         "id": "cctv_9078",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-013.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-013.stream/playlist.m3u8",
         "name": "SR 9 : Windward Pkwy"
     }, {
         "id": "cctv_10519",
@@ -3975,27 +3975,27 @@ const CAMERAS = {
         "name": "SR 20 : Gwinnett Braves"
     }, {
         "id": "cctv_5235",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-592.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-592.stream/playlist.m3u8",
         "name": "SR 141 : S of Holcomb Bridge Rd"
     }, {
         "id": "cctv_12953",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-616.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-616.stream/playlist.m3u8",
         "name": "SR 155 / Clairmont Rd : I-85 NB Ramp"
     }, {
         "id": "cctv_6304",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-015.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-015.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Lenox Rd"
     }, {
         "id": "cctv_5192",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-501.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-501.stream/playlist.m3u8",
         "name": "I-575 : S OF BARRETT PKWY"
     }, {
         "id": "cctv_5075",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-338.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-338.stream/playlist.m3u8",
         "name": "I-20 : W OF LANGHORN ST"
     }, {
         "id": "cctv_4927",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-109.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-109.stream/playlist.m3u8",
         "name": "I-85 : STEVE REYNOLDS"
     }, {
         "id": "cctv_46441",
@@ -4007,7 +4007,7 @@ const CAMERAS = {
         "name": "SR 9 : Alpine Dr"
     }, {
         "id": "cctv_15525",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-541.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-541.stream/playlist.m3u8",
         "name": "I-575 : CHASTAIN RD"
     }, {
         "id": "cctv_32618",
@@ -4019,15 +4019,15 @@ const CAMERAS = {
         "name": "Jones Bridge Rd : Taylor Rd"
     }, {
         "id": "cctv_5029",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-262.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-262.stream/playlist.m3u8",
         "name": "I-285 : I-20 ENT RAMP"
     }, {
         "id": "cctv_5420",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-123.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-123.stream/playlist.m3u8",
         "name": "I-85 : S OF SR316"
     }, {
         "id": "cctv_5141",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-415.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-415.stream/playlist.m3u8",
         "name": "I-75 : S OF ALLGOOD RD"
     }, {
         "id": "cctv_13156",
@@ -4047,11 +4047,11 @@ const CAMERAS = {
         "name": "Memorial Dr : Central Ave"
     }, {
         "id": "cctv_6758",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-582.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-582.stream/playlist.m3u8",
         "name": "I-75 : AT BROOKWOOD CURVE"
     }, {
         "id": "cctv_5286",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-714.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-714.stream/playlist.m3u8",
         "name": "I-75 : S OF I-675"
     }, {
         "id": "cctv_10332",
@@ -4059,7 +4059,7 @@ const CAMERAS = {
         "name": "SR 124 : N of TELIDA TR / N of NORRIS LAKE RD"
     }, {
         "id": "cctv_13223",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-155.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-155.stream/playlist.m3u8",
         "name": "SR 154 (Memorial Drive) : SR 155 (Candler Rd)"
     }, {
         "id": "cctv_12979",
@@ -4067,11 +4067,11 @@ const CAMERAS = {
         "name": "SR 316 : COLLINS HILL RD"
     }, {
         "id": "cctv_5388",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-951.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-951.stream/playlist.m3u8",
         "name": "I-285 : N OF I-20 (FULTON)"
     }, {
         "id": "cctv_5115",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-374.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-374.stream/playlist.m3u8",
         "name": "I-20 : I-285 (DEKALB)"
     }, {
         "id": "cctv_16236",
@@ -4083,27 +4083,27 @@ const CAMERAS = {
         "name": "SR 13 / US 23 : N NORCROSS-TUCKER RD"
     }, {
         "id": "cctv_7223",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-006.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-006.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd : Rumson Rd"
     }, {
         "id": "cctv_15510",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-523.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-523.stream/playlist.m3u8",
         "name": "I-75 : CHASTAIN RD"
     }, {
         "id": "cctv_5009",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-241.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-241.stream/playlist.m3u8",
         "name": "I-285 : LAVISTA RD"
     }, {
         "id": "cctv_12958",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-811.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-811.stream/playlist.m3u8",
         "name": "GA 400 : SOUTH OF TUNNEL"
     }, {
         "id": "cctv_5407",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-969.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-969.stream/playlist.m3u8",
         "name": "I-285 : EXIT TO PACES FERRY RD"
     }, {
         "id": "cctv_5949",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-605.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-605.stream/playlist.m3u8",
         "name": "I-675 : SR 42"
     }, {
         "id": "cctv_32968",
@@ -4123,7 +4123,7 @@ const CAMERAS = {
         "name": "SR 120 : HURRICANE SHOALS RD"
     }, {
         "id": "cctv_13232",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-755.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-755.stream/playlist.m3u8",
         "name": "I-75 : AT SR 20/81"
     }, {
         "id": "cctv_9027",
@@ -4135,15 +4135,15 @@ const CAMERAS = {
         "name": "SR 9 (US 29 Lawrenceville Hwy) : Bethesda School Rd / Bethesda Church Rd"
     }, {
         "id": "cctv_5022",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-255.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-255.stream/playlist.m3u8",
         "name": "I-285 : N OF COVINGTON HWY"
     }, {
         "id": "cctv_5199",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-508.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-508.stream/playlist.m3u8",
         "name": "I-575 : S OF BELLS FERRY RD"
     }, {
         "id": "cctv_5259",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-660.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-660.stream/playlist.m3u8",
         "name": "I-285 : MAIN LANES NO. 4"
     }, {
         "id": "cctv_16263",
@@ -4151,19 +4151,19 @@ const CAMERAS = {
         "name": "McGinnis Ferry Rd : Johns Creek Pkwy E"
     }, {
         "id": "cctv_5398",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-960.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-960.stream/playlist.m3u8",
         "name": "I-285 : S OF S COBB DR"
     }, {
         "id": "cctv_15726",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-546.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-546.stream/playlist.m3u8",
         "name": "I-575 : S OF SHALLOWFORD RD"
     }, {
         "id": "cctv_15534",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-698.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-698.stream/playlist.m3u8",
         "name": "HICKORY GROVE RD : E OF I-75 ON/OFF EXP RAMP"
     }, {
         "id": "cctv_13216",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-773.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-773.stream/playlist.m3u8",
         "name": "I-675 : EXPRESS LN ENTR/EXIT"
     }, {
         "id": "cctv_13754",
@@ -4171,7 +4171,7 @@ const CAMERAS = {
         "name": "SR 280/S Cobb Dr : Wright Rd/S Cobb Ind Blvd"
     }, {
         "id": "cctv_5158",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-430.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-430.stream/playlist.m3u8",
         "name": "I-75 : BARRETT PKWY EXIT"
     }, {
         "id": "cctv_10454",
@@ -4179,7 +4179,7 @@ const CAMERAS = {
         "name": "SR 54 : Lake Harbin Rd"
     }, {
         "id": "cctv_15488",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-692.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-692.stream/playlist.m3u8",
         "name": "BIG SHANTY RD : GEORGE BUSBEE PKY"
     }, {
         "id": "cctv_9071",
@@ -4191,7 +4191,7 @@ const CAMERAS = {
         "name": "SR 8 (Lawrenceville Hwy) : Northlake Pkwy / Cooledge Rd"
     }, {
         "id": "cctv_4970",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-206.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-206.stream/playlist.m3u8",
         "name": "I-285 : NORTHSIDE DR"
     }, {
         "id": "cctv_10279",
@@ -4207,19 +4207,19 @@ const CAMERAS = {
         "name": "SR 42 : Dale Rd / Evans Dr"
     }, {
         "id": "cctv_5958",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-614.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-614.stream/playlist.m3u8",
         "name": "I-675 : GRANT RD"
     }, {
         "id": "cctv_46411",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-097.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-097.stream/playlist.m3u8",
         "name": "SR 3 / Northside Dr : W Wesley Rd"
     }, {
         "id": "cctv_5583",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-646.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-646.stream/playlist.m3u8",
         "name": "I-285 : NEAR RAMP FROM I-85 S"
     }, {
         "id": "cctv_4939",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-178.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-178.stream/playlist.m3u8",
         "name": "I-85 : N OF SPENCE RD"
     }, {
         "id": "cctv_32667",
@@ -4227,19 +4227,19 @@ const CAMERAS = {
         "name": "Chamblee Dunwoody Rd : Mt Vernon Rd"
     }, {
         "id": "cctv_13573",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-021.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-021.stream/playlist.m3u8",
         "name": "SR 120 (Old Milton Pkwy) : Haynes Bridge Rd"
     }, {
         "id": "cctv_7196",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-209.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-209.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : Ponce De Leon Place"
     }, {
         "id": "cctv_4951",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-189.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-189.stream/playlist.m3u8",
         "name": "I-85 : S OF I-285"
     }, {
         "id": "cctv_13343",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-761.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-761.stream/playlist.m3u8",
         "name": "I-75 : AT SR 155"
     }, {
         "id": "cctv_12915",
@@ -4255,19 +4255,19 @@ const CAMERAS = {
         "name": "Johnson Ferry Rd : Lower Roswell Rd"
     }, {
         "id": "cctv_5161",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-433.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-433.stream/playlist.m3u8",
         "name": "I-75 : S OF BIG SHANTY"
     }, {
         "id": "cctv_13248",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-727.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-727.stream/playlist.m3u8",
         "name": "I-75 : N OF SR 138"
     }, {
         "id": "cctv_5212",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-055.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-055.stream/playlist.m3u8",
         "name": "SR 166 : E OF STANTON RD"
     }, {
         "id": "cctv_15228",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-032.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-032.stream/playlist.m3u8",
         "name": "SR 12 (Covington Hwy) : Mercer Rd"
     }, {
         "id": "cctv_6313",
@@ -4283,19 +4283,19 @@ const CAMERAS = {
         "name": "Cherokee St/Wade Green Rd : Jiles Rd"
     }, {
         "id": "cctv_7214",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-027.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-027.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Monroe Dr"
     }, {
         "id": "cctv_5343",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-839.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-839.stream/playlist.m3u8",
         "name": "GA 400 : MANSELL RD"
     }, {
         "id": "cctv_15243",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-620.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-620.stream/playlist.m3u8",
         "name": "I-285 : PACES FERRY"
     }, {
         "id": "cctv_5377",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-940.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-940.stream/playlist.m3u8",
         "name": "I-285 : N OF LANGFORD PKWY"
     }, {
         "id": "cctv_32592",
@@ -4303,7 +4303,7 @@ const CAMERAS = {
         "name": "Cumberland Pkwy : Paces Ferry"
     }, {
         "id": "cctv_5130",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-406.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-406.stream/playlist.m3u8",
         "name": "I-75 : EXIT TO S 120 LOOP"
     }, {
         "id": "cctv_46432",
@@ -4315,7 +4315,7 @@ const CAMERAS = {
         "name": "SR 54 / Jonesboro Rd : SR 331 / Forest Pkwy"
     }, {
         "id": "cctv_5030",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-263.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-263.stream/playlist.m3u8",
         "name": "I-285 : S OF I-20"
     }, {
         "id": "cctv_6243",
@@ -4323,7 +4323,7 @@ const CAMERAS = {
         "name": "SR 20 : SR 81"
     }, {
         "id": "cctv_10165",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-143.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-143.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : PIEDMONT RD / MI 2.2"
     }, {
         "id": "cctv_10416",
@@ -4347,11 +4347,11 @@ const CAMERAS = {
         "name": "OLD NORCROSS RD : BRASS KEY CT / HS DRWY"
     }, {
         "id": "cctv_4932",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-014.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-014.stream/playlist.m3u8",
         "name": "75/85 : COURTLAND ST"
     }, {
         "id": "cctv_15404",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-303.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-303.stream/playlist.m3u8",
         "name": "I-20 : SR 92/Fairburn Rd"
     }, {
         "id": "cctv_13297",
@@ -4367,7 +4367,7 @@ const CAMERAS = {
         "name": "SR 120 : LANGLEY DR / DRWY(PH3)"
     }, {
         "id": "cctv_8810",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-854.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-854.stream/playlist.m3u8",
         "name": "GA 400 : NEAR SHILOH RD"
     }, {
         "id": "cctv_10204",
@@ -4379,51 +4379,51 @@ const CAMERAS = {
         "name": "SR 13 / US 23 : CEMETERY ST"
     }, {
         "id": "cctv_10168",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-012.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-012.stream/playlist.m3u8",
         "name": "SR 92 / Alabama Rd : Bells Ferry Rd"
     }, {
         "id": "cctv_13243",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-735.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-735.stream/playlist.m3u8",
         "name": "I-75 : N OF WALT STEPHENS"
     }, {
         "id": "cctv_4926",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-108.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-108.stream/playlist.m3u8",
         "name": "I-85 : S OF STEVE REYNOLDS"
     }, {
         "id": "cctv_5372",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-936.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-936.stream/playlist.m3u8",
         "name": "I-285 : N OF REDWINE RD"
     }, {
         "id": "cctv_5148",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-421.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-421.stream/playlist.m3u8",
         "name": "I-75 : N OF CANTON RD"
     }, {
         "id": "cctv_5167",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-439.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-439.stream/playlist.m3u8",
         "name": "I-75 : S OF WADE GREEN RD"
     }, {
         "id": "cctv_5335",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-831.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-831.stream/playlist.m3u8",
         "name": "GA 400 : S OF NORTHRIDGE"
     }, {
         "id": "cctv_5135",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-041.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-041.stream/playlist.m3u8",
         "name": "I-85 : NEAR CLAIRMONT RD"
     }, {
         "id": "cctv_9144",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-068.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-068.stream/playlist.m3u8",
         "name": "SR 141 Conn / Lenox Rd : Phipps Blvd"
     }, {
         "id": "cctv_7192",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-202.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-202.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : Piedmont Ave"
     }, {
         "id": "cctv_4946",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-184.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-184.stream/playlist.m3u8",
         "name": "I-85 : 1 MI N OF SR 138"
     }, {
         "id": "cctv_5404",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-966.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-966.stream/playlist.m3u8",
         "name": "I-285 : N OF S ATLANTA RD"
     }, {
         "id": "cctv_10285",
@@ -4431,7 +4431,7 @@ const CAMERAS = {
         "name": "SATELLITE BLVD : BOGGS RD"
     }, {
         "id": "cctv_5032",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-265.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-265.stream/playlist.m3u8",
         "name": "I-285 : FLAT SHOALS PKWY"
     }, {
         "id": "cctv_13601",
@@ -4439,15 +4439,15 @@ const CAMERAS = {
         "name": "SR 6 : SR 120-360 (Charles Hardy Pkwy) / W Bill Carruth Pkwy"
     }, {
         "id": "cctv_5428",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-131.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-131.stream/playlist.m3u8",
         "name": "I-85 : SUGARLOAF PKWY"
     }, {
         "id": "cctv_15485",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-522.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-522.stream/playlist.m3u8",
         "name": "I-75 : S OF CHASTAIN RD"
     }, {
         "id": "cctv_7200",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-216.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-216.stream/playlist.m3u8",
         "name": "SR 8 / Ponce De Leon Ave : Oakdale Rd"
     }, {
         "id": "cctv_13550",
@@ -4455,11 +4455,11 @@ const CAMERAS = {
         "name": "SR 8 (Veterans Memorial Hwy) : Cooper Lake Rd"
     }, {
         "id": "cctv_5146",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-042.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-042.stream/playlist.m3u8",
         "name": "I-85 : 1 MI N OF CLAIRMONT"
     }, {
         "id": "cctv_15244",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-010.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-010.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : N of Briarwood Rd / Hawk #6"
     }, {
         "id": "cctv_10476",
@@ -4467,7 +4467,7 @@ const CAMERAS = {
         "name": "SR 85 : GARDEN WALK BLVD"
     }, {
         "id": "cctv_13268",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fult-cam-001.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fult-cam-001.stream/playlist.m3u8",
         "name": "SR 6 : N Commerce Dr"
     }, {
         "id": "cctv_46310",
@@ -4479,7 +4479,7 @@ const CAMERAS = {
         "name": "Decatur St : Jesse Hill Jr Dr"
     }, {
         "id": "cctv_5261",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-662.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-662.stream/playlist.m3u8",
         "name": "I-285 : MAIN LANES NO. 2"
     }, {
         "id": "cctv_16283",
@@ -4487,7 +4487,7 @@ const CAMERAS = {
         "name": "Windy Ridge Pkwy : Hank Aaron Way"
     }, {
         "id": "cctv_16205",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-533.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-533.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : SR 8 (Hollowell Parkway)"
     }, {
         "id": "cctv_10244",
@@ -4503,11 +4503,11 @@ const CAMERAS = {
         "name": "SR 120 : PERRY ST"
     }, {
         "id": "cctv_12972",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-808.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-808.stream/playlist.m3u8",
         "name": "GA 400 : N OF SIDNEY MARCUS BLVD"
     }, {
         "id": "cctv_46413",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-267.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-267.stream/playlist.m3u8",
         "name": "US 278 / Donald Lee Hollowell Pkwy : Stiff St / MARTA"
     }, {
         "id": "cctv_13221",
@@ -4515,11 +4515,11 @@ const CAMERAS = {
         "name": "SR 8 (Lawrenceville Hwy) : Lavista Rd"
     }, {
         "id": "cctv_5213",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-550.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-550.stream/playlist.m3u8",
         "name": "I-85 : CHESHIRE BR RD"
     }, {
         "id": "cctv_15965",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-172.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-172.stream/playlist.m3u8",
         "name": "I-85 : 1.3 MILE N OF SR 20"
     }, {
         "id": "cctv_8944",
@@ -4555,7 +4555,7 @@ const CAMERAS = {
         "name": "SR 138 : I-675 SB RAMP"
     }, {
         "id": "cctv_9191",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-071.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-071.stream/playlist.m3u8",
         "name": "SR 10 (Freedom Pkwy) : North Ave"
     }, {
         "id": "cctv_12978",
@@ -4567,27 +4567,27 @@ const CAMERAS = {
         "name": "Atlanta Rd : I-285 Interchange"
     }, {
         "id": "cctv_15597",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-461.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-461.stream/playlist.m3u8",
         "name": "I-75 : RAMPS TO I-285 E/W"
     }, {
         "id": "cctv_5039",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-271.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-271.stream/playlist.m3u8",
         "name": "I-285 : BOULDERCREST RD"
     }, {
         "id": "cctv_5367",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-931.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-931.stream/playlist.m3u8",
         "name": "I-285 : S OF WASHINGTON RD"
     }, {
         "id": "cctv_4921",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-103.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-103.stream/playlist.m3u8",
         "name": "I-85 : S OF INDIAN TRAIL"
     }, {
         "id": "cctv_15492",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-560.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-560.stream/playlist.m3u8",
         "name": "I-575 : 3/4 MI N OF TOWNE LAKE PKY"
     }, {
         "id": "cctv_12956",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-806.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-806.stream/playlist.m3u8",
         "name": "GA 400 : JUST NORTH OF I-85"
     }, {
         "id": "cctv_13746",
@@ -4599,7 +4599,7 @@ const CAMERAS = {
         "name": "SR 140 : Peachtree Corners Cir"
     }, {
         "id": "cctv_5227",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-576.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-576.stream/playlist.m3u8",
         "name": "75/85 : LINDEN/SPRING RAMP METER"
     }, {
         "id": "cctv_10513",
@@ -4607,7 +4607,7 @@ const CAMERAS = {
         "name": "Anvilblock Rd : Grant Rd"
     }, {
         "id": "cctv_4981",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-216.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-216.stream/playlist.m3u8",
         "name": "I-285 : GA 400 SB"
     }, {
         "id": "cctv_12927",
@@ -4615,7 +4615,7 @@ const CAMERAS = {
         "name": "Dallas Hwy : Avenue West Cobb"
     }, {
         "id": "cctv_5954",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-610.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-610.stream/playlist.m3u8",
         "name": "I-675 : ELLENWOOD RD"
     }, {
         "id": "cctv_15191",
@@ -4627,7 +4627,7 @@ const CAMERAS = {
         "name": "SR 20 : Old Peachtree Rd"
     }, {
         "id": "cctv_12965",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-824.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-824.stream/playlist.m3u8",
         "name": "GA 400 : JOHNSON FERRY RD"
     }, {
         "id": "cctv_32615",
@@ -4639,19 +4639,19 @@ const CAMERAS = {
         "name": "SR 347/ Lanier Is Pkwy : I-985 SB"
     }, {
         "id": "cctv_13321",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-774.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-774.stream/playlist.m3u8",
         "name": "I-75 : AT I-675"
     }, {
         "id": "cctv_4918",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-100.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-100.stream/playlist.m3u8",
         "name": "I-85 : N OF JIMMY CARTER"
     }, {
         "id": "cctv_5208",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-516.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-516.stream/playlist.m3u8",
         "name": "I-575 : N OF HWY 92"
     }, {
         "id": "cctv_6303",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-001.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-001.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Wieuca Rd"
     }, {
         "id": "cctv_13318",
@@ -4659,11 +4659,11 @@ const CAMERAS = {
         "name": "SR 8 (Veterans Memorial Hwy) : Queen Mill Rd"
     }, {
         "id": "cctv_5209",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-052.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-052.stream/playlist.m3u8",
         "name": "SR 166 : E OF DODSON DR"
     }, {
         "id": "cctv_5399",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-961.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-961.stream/playlist.m3u8",
         "name": "I-285 : SOUTH COBB DR"
     }, {
         "id": "cctv_16300",
@@ -4675,7 +4675,7 @@ const CAMERAS = {
         "name": "I-85 : North of Metropolitan Pkwy"
     }, {
         "id": "cctv_5946",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-602.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-602.stream/playlist.m3u8",
         "name": "I-675 : SR 138"
     }, {
         "id": "cctv_32608",
@@ -4683,11 +4683,11 @@ const CAMERAS = {
         "name": "Paces Ferry : Spring Hill Pkwy"
     }, {
         "id": "cctv_7225",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-020.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-020.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Sidney Marcus Blvd"
     }, {
         "id": "cctv_5172",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-443.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-443.stream/playlist.m3u8",
         "name": "I-75 : S OF HICKORY GROVE RD"
     }, {
         "id": "cctv_9030",
@@ -4695,15 +4695,15 @@ const CAMERAS = {
         "name": "SR 9 : Magnolia/Canton St"
     }, {
         "id": "cctv_6300",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-016.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-016.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Pharr Rd"
     }, {
         "id": "cctv_15283",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-539.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-539.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : Carter St"
     }, {
         "id": "cctv_5246",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-063.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-063.stream/playlist.m3u8",
         "name": "I-75 : N OF TARA BLVD"
     }, {
         "id": "cctv_13753",
@@ -4747,11 +4747,11 @@ const CAMERAS = {
         "name": "I-20 : LITHONIA IND BLVD"
     }, {
         "id": "cctv_5281",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-071.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-071.stream/playlist.m3u8",
         "name": "I-85 : CLEVELAND AVE"
     }, {
         "id": "cctv_13293",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-743.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-743.stream/playlist.m3u8",
         "name": "I-75 : 1/2 MI S OF HUDSON BR"
     }, {
         "id": "cctv_32557",
@@ -4759,27 +4759,27 @@ const CAMERAS = {
         "name": "I-285 : INSIDE 5TH RNWY TUNNEL"
     }, {
         "id": "cctv_5708",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-587.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-587.stream/playlist.m3u8",
         "name": "SR 141 (Peachtree Parkway) : E Jones Br Rd"
     }, {
         "id": "cctv_9138",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-107.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-107.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Ind Blvd : Chamblee-Dunwoody Rd"
     }, {
         "id": "cctv_5020",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-253.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-253.stream/playlist.m3u8",
         "name": "I-285 : DURHAM PARK RD"
     }, {
         "id": "cctv_15392",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-548.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-548.stream/playlist.m3u8",
         "name": "I-575 : S OF HWY 92"
     }, {
         "id": "cctv_5340",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-836.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-836.stream/playlist.m3u8",
         "name": "GA 400 : HOLCOMB BR RD"
     }, {
         "id": "cctv_15536",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-472.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-472.stream/playlist.m3u8",
         "name": "I-75 : S OF DELK RD"
     }, {
         "id": "cctv_15286",
@@ -4787,19 +4787,19 @@ const CAMERAS = {
         "name": "SR 8 / North Ave : Courtland St / Juniper St"
     }, {
         "id": "cctv_13092",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-040.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-040.stream/playlist.m3u8",
         "name": "SR 5 (Bill Arp Rd) : Tonya Ln/Sutton Dr"
     }, {
         "id": "cctv_5385",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-948.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-948.stream/playlist.m3u8",
         "name": "I-285 : S OF I-20 (FULTON)"
     }, {
         "id": "cctv_15429",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-308.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-308.stream/playlist.m3u8",
         "name": "I-20 : West of Lee Rd"
     }, {
         "id": "cctv_5359",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-087.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-087.stream/playlist.m3u8",
         "name": "I-85 : JIMMY CARTER BLVD"
     }, {
         "id": "cctv_16224",
@@ -4811,11 +4811,11 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Paces Mill Rd"
     }, {
         "id": "cctv_15232",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-901.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-901.stream/playlist.m3u8",
         "name": "SR 9 (Spring St) : 14th St"
     }, {
         "id": "cctv_13231",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-766.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-766.stream/playlist.m3u8",
         "name": "I-75 : BEFORE SR 155"
     }, {
         "id": "cctv_7316",
@@ -4827,15 +4827,15 @@ const CAMERAS = {
         "name": "SR 155 (Flat Shoals Rd) : Panthersville Rd / Fairlake Dr"
     }, {
         "id": "cctv_5091",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-352.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-352.stream/playlist.m3u8",
         "name": "I-20 : HILL ST"
     }, {
         "id": "cctv_5352",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-849.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-849.stream/playlist.m3u8",
         "name": "GA 400 : S OF MCGINNIS FERRY RD"
     }, {
         "id": "cctv_5730",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-299.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-299.stream/playlist.m3u8",
         "name": "I-285 : POWERS FERRY RD"
     }, {
         "id": "cctv_15235",
@@ -4843,7 +4843,7 @@ const CAMERAS = {
         "name": "SR 8 (North Ave) : Williams St"
     }, {
         "id": "cctv_13211",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fult-cam-006.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fult-cam-006.stream/playlist.m3u8",
         "name": "SR 6 : Herschel Rd"
     }, {
         "id": "cctv_6255",
@@ -4851,7 +4851,7 @@ const CAMERAS = {
         "name": "SR 140/92 : SR 9/Alpharetta St"
     }, {
         "id": "cctv_5271",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-069.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-069.stream/playlist.m3u8",
         "name": "I-75 : N OF FOREST PKWY"
     }, {
         "id": "cctv_6250",
@@ -4859,7 +4859,7 @@ const CAMERAS = {
         "name": "SR 92 : Hardscrabble Rd"
     }, {
         "id": "cctv_15961",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-162.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-162.stream/playlist.m3u8",
         "name": "I-85 : I-985"
     }, {
         "id": "cctv_13124",
@@ -4871,7 +4871,7 @@ const CAMERAS = {
         "name": "Chapel Hill Rd : S. Elizabeth Dr"
     }, {
         "id": "cctv_13200",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-088.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-088.stream/playlist.m3u8",
         "name": "SR 6 : N Blairs Bridge Rd"
     }, {
         "id": "cctv_46442",
@@ -4879,7 +4879,7 @@ const CAMERAS = {
         "name": "GA 279/ Old National Hwy : Walmart Entrance/ McGee Landing"
     }, {
         "id": "cctv_5004",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-237.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-237.stream/playlist.m3u8",
         "name": "I-285 : HENDERSON RD"
     }, {
         "id": "cctv_15179",
@@ -4903,11 +4903,11 @@ const CAMERAS = {
         "name": "SR 139 : I-285 WB Ramp"
     }, {
         "id": "cctv_9161",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-004.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-004.stream/playlist.m3u8",
         "name": "SR 8 (Scott Blvd) : W Ponce De Leon Ave"
     }, {
         "id": "cctv_9061",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-049.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-049.stream/playlist.m3u8",
         "name": "SR 3 / US 41 / Northside Pkwy : Northgate"
     }, {
         "id": "cctv_10248",
@@ -4927,11 +4927,11 @@ const CAMERAS = {
         "name": "SR 138 / Lake Spivey Rd : I-75 SB Ramp"
     }, {
         "id": "cctv_5347",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-844.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-844.stream/playlist.m3u8",
         "name": "GA 400 : OLD MILTON PKWY"
     }, {
         "id": "cctv_13057",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fult-cam-004.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fult-cam-004.stream/playlist.m3u8",
         "name": "SR 6 : I-285 NB Ramps"
     }, {
         "id": "cctv_7335",
@@ -4951,11 +4951,11 @@ const CAMERAS = {
         "name": "SR 10 : High Point Rd"
     }, {
         "id": "cctv_7199",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-040.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-040.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : SR 42 (Briarcliff Road / Moreland Avenue)"
     }, {
         "id": "cctv_15582",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-632.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-632.stream/playlist.m3u8",
         "name": "I-285 : W OF N-SIDE DR/POWERS FRY"
     }, {
         "id": "cctv_16132",
@@ -4963,7 +4963,7 @@ const CAMERAS = {
         "name": "I-20 : Fairington Dr"
     }, {
         "id": "cctv_16257",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-530.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-530.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : 10th St"
     }, {
         "id": "cctv_13085",
@@ -4971,7 +4971,7 @@ const CAMERAS = {
         "name": "Frey Rd : Hopkins Rd/Skip Spann Bridge"
     }, {
         "id": "cctv_5370",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-934.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-934.stream/playlist.m3u8",
         "name": "I-285 : CAMP CREEK PKWY"
     }, {
         "id": "cctv_15386",
@@ -4991,19 +4991,19 @@ const CAMERAS = {
         "name": "SR 124 : ASHWORTH LAKE RD"
     }, {
         "id": "cctv_5070",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-333.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-333.stream/playlist.m3u8",
         "name": "I-20 : E OF HOLMES DR"
     }, {
         "id": "cctv_5069",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-332.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-332.stream/playlist.m3u8",
         "name": "I-20 : E OF HOLMES DR"
     }, {
         "id": "cctv_5082",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-344.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-344.stream/playlist.m3u8",
         "name": "I-20 : LEE ST"
     }, {
         "id": "cctv_15299",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-928.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-928.stream/playlist.m3u8",
         "name": "Ivan Allen Jr Blvd : Luckie St"
     }, {
         "id": "cctv_32601",
@@ -5015,7 +5015,7 @@ const CAMERAS = {
         "name": "SR 5/Austell Rd : Pair Rd"
     }, {
         "id": "cctv_5119",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-378.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-378.stream/playlist.m3u8",
         "name": "I-20 : WESLEY CHAPEL RD"
     }, {
         "id": "cctv_32630",
@@ -5023,15 +5023,15 @@ const CAMERAS = {
         "name": "SR 13 : SR 53"
     }, {
         "id": "cctv_16360",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-538.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-538.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : Magnolia St"
     }, {
         "id": "cctv_15500",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-530.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-530.stream/playlist.m3u8",
         "name": "I-75 : N OF HICKORY GROVE"
     }, {
         "id": "cctv_13547",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-306.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-306.stream/playlist.m3u8",
         "name": "SR 155 (Candler Rd) : McAfee Rd"
     }, {
         "id": "cctv_12920",
@@ -5043,7 +5043,7 @@ const CAMERAS = {
         "name": "N Druid Hills Rd : SR 236 / LaVista Rd"
     }, {
         "id": "cctv_6309",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-200.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-200.stream/playlist.m3u8",
         "name": "I-285 : AT CHAM-DNWDY"
     }, {
         "id": "cctv_10198",
@@ -5055,19 +5055,19 @@ const CAMERAS = {
         "name": "Wade Green Rd : I-75 NB"
     }, {
         "id": "cctv_6298",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-043.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-043.stream/playlist.m3u8",
         "name": "Lenox Rd : E Paces Ferry"
     }, {
         "id": "cctv_5380",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-943.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-943.stream/playlist.m3u8",
         "name": "I-285 : S OF CASCADE RD"
     }, {
         "id": "cctv_5322",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-795.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-795.stream/playlist.m3u8",
         "name": "US 78 : 1 mi E of Hugh Howell Rd"
     }, {
         "id": "cctv_9068",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-005.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-005.stream/playlist.m3u8",
         "name": "SR 120 (Old Milton Pkwy) : Westside Pkwy"
     }, {
         "id": "cctv_10282",
@@ -5075,7 +5075,7 @@ const CAMERAS = {
         "name": "SATELLITE BLVD : GWINNETT PLANTATION WAY"
     }, {
         "id": "cctv_5266",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-667.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-667.stream/playlist.m3u8",
         "name": "I-285 : 5TH RUNWAY TUNNEL ENTRANCE"
     }, {
         "id": "cctv_10235",
@@ -5083,11 +5083,11 @@ const CAMERAS = {
         "name": "LAWRENCEVILLE-SUWANEE RD : SR 120"
     }, {
         "id": "cctv_5276",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-705.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-705.stream/playlist.m3u8",
         "name": "I-75 : S OF JONESBORO RD"
     }, {
         "id": "cctv_13583",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-232.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-232.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Pinetree Plaza"
     }, {
         "id": "cctv_10251",
@@ -5095,7 +5095,7 @@ const CAMERAS = {
         "name": "SR 378 : INDIAN TRAIL - LILBURN RD"
     }, {
         "id": "cctv_13199",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-090.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-090.stream/playlist.m3u8",
         "name": "SR 6 : Maxham Rd"
     }, {
         "id": "cctv_46456",
@@ -5103,15 +5103,15 @@ const CAMERAS = {
         "name": "SR 14 Alt/ South Fulton Pkwy : Cedar Grove Rd"
     }, {
         "id": "cctv_15517",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-495.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-495.stream/playlist.m3u8",
         "name": "I-575 : JUST N OF I-75"
     }, {
         "id": "cctv_5014",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-246.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-246.stream/playlist.m3u8",
         "name": "I-285 : STONE MT FRWY- US 78"
     }, {
         "id": "cctv_4955",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-192.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-192.stream/playlist.m3u8",
         "name": "I-85 : I-285 FULTON CO"
     }, {
         "id": "cctv_16062",
@@ -5119,7 +5119,7 @@ const CAMERAS = {
         "name": "Terrell Mill Rd : Greenwood Trl"
     }, {
         "id": "cctv_5425",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-128.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-128.stream/playlist.m3u8",
         "name": "SR 316 : HERRINGTON RD"
     }, {
         "id": "cctv_13610",
@@ -5135,7 +5135,7 @@ const CAMERAS = {
         "name": "SR 20 : SR 324 (Gravel Springs Rd) / Financial Center"
     }, {
         "id": "cctv_5027",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-260.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-260.stream/playlist.m3u8",
         "name": "I-285 : N OF SNAPFINGER RD"
     }, {
         "id": "cctv_7339",
@@ -5143,11 +5143,11 @@ const CAMERAS = {
         "name": "Dallas Hwy : Bob Cox Rd"
     }, {
         "id": "cctv_15334",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-543.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-543.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : Fair St"
     }, {
         "id": "cctv_5379",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-942.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-942.stream/playlist.m3u8",
         "name": "I-285 : 1 MI N OF LANGFORD PKWY"
     }, {
         "id": "cctv_15339",
@@ -5159,15 +5159,15 @@ const CAMERAS = {
         "name": "SR 331 / Forest Pkwy : North Pkwy"
     }, {
         "id": "cctv_4960",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-197.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-197.stream/playlist.m3u8",
         "name": "I-85 : SULLIVAN RD"
     }, {
         "id": "cctv_5364",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-092.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-092.stream/playlist.m3u8",
         "name": "I-85 : PEACHTREE ST OVERPASS"
     }, {
         "id": "cctv_5154",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-427.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-427.stream/playlist.m3u8",
         "name": "I-75 : BARRETT PKWY"
     }, {
         "id": "cctv_13735",
@@ -5175,11 +5175,11 @@ const CAMERAS = {
         "name": "Windy Ridge Pkwy : Cir 75 Pkwy"
     }, {
         "id": "cctv_5300",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-775.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-775.stream/playlist.m3u8",
         "name": "US 78 : ORION DR"
     }, {
         "id": "cctv_15986",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-152.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-152.stream/playlist.m3u8",
         "name": "I-85 : EXIT TO SR 120"
     }, {
         "id": "cctv_10493",
@@ -5191,7 +5191,7 @@ const CAMERAS = {
         "name": "PLEASANT HILL RD : TREE SUMMIT PKWY"
     }, {
         "id": "cctv_5176",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-447.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-447.stream/playlist.m3u8",
         "name": "I-75 : S OF WOODSTOCK RD"
     }, {
         "id": "cctv_6317",
@@ -5199,11 +5199,11 @@ const CAMERAS = {
         "name": "SR 141 (Medlock Bridge Rd) : Old Alabama Rd"
     }, {
         "id": "cctv_7210",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-030.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-030.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree St NE : Peachtree Valley Rd"
     }, {
         "id": "cctv_8957",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-016.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-016.stream/playlist.m3u8",
         "name": "SR 8 (Lawrenceville Hwy) : Montreal Rd (East)"
     }, {
         "id": "cctv_13154",
@@ -5211,19 +5211,19 @@ const CAMERAS = {
         "name": "Crabapple Rd : Houze Way"
     }, {
         "id": "cctv_4961",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-198.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-198.stream/playlist.m3u8",
         "name": "I-85 : N OF RIVERDALE RD"
     }, {
         "id": "cctv_5050",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-281.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-281.stream/playlist.m3u8",
         "name": "I-285 : W OF US 19"
     }, {
         "id": "cctv_4971",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-207.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-207.stream/playlist.m3u8",
         "name": "I-285 : NEW NORTHSIDE"
     }, {
         "id": "cctv_6299",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-014.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-014.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : SR 9 / Roswell Rd"
     }, {
         "id": "cctv_9075",
@@ -5231,7 +5231,7 @@ const CAMERAS = {
         "name": "Windward Pkwy : SR 400 SB"
     }, {
         "id": "cctv_5184",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-454.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-454.stream/playlist.m3u8",
         "name": "I-75 : 1/2 MI N OF SR 92"
     }, {
         "id": "cctv_10533",
@@ -5239,11 +5239,11 @@ const CAMERAS = {
         "name": "Terrell Mill Rd : Delk Rd"
     }, {
         "id": "cctv_13596",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-685.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-685.stream/playlist.m3u8",
         "name": "I-75 : N OF FLIPPEN RD"
     }, {
         "id": "cctv_13332",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-765.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-765.stream/playlist.m3u8",
         "name": "I-75 : BEFORE SR 155"
     }, {
         "id": "cctv_10463",
@@ -5251,11 +5251,11 @@ const CAMERAS = {
         "name": "SR 85 : Pointe South Pkwy"
     }, {
         "id": "cctv_15389",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-547.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-547.stream/playlist.m3u8",
         "name": "I-575 : AT SHALLOWFORD"
     }, {
         "id": "cctv_13218",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-770.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-770.stream/playlist.m3u8",
         "name": "I-675 : N OF SR 138"
     }, {
         "id": "cctv_15308",
@@ -5271,19 +5271,19 @@ const CAMERAS = {
         "name": "SR 120 / Roswell Rd : N Greenbriar Pkwy"
     }, {
         "id": "cctv_15977",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-165.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-165.stream/playlist.m3u8",
         "name": "I-85 : S OF SR 20"
     }, {
         "id": "cctv_5297",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-075.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-075.stream/playlist.m3u8",
         "name": "I-85 : AT VIRGINIA AVE EXIT"
     }, {
         "id": "cctv_15435",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-559.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-559.stream/playlist.m3u8",
         "name": "I-575 : N OF TOWNE LAKE"
     }, {
         "id": "cctv_8828",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-035.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-035.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Highland Dr"
     }, {
         "id": "cctv_13145",
@@ -5291,7 +5291,7 @@ const CAMERAS = {
         "name": "SR 140 : Old Holcomb Bridge Rd/Riverwood Ln"
     }, {
         "id": "cctv_5586",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-649.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-649.stream/playlist.m3u8",
         "name": "I-285 : E OF RIVERDALE RD"
     }, {
         "id": "cctv_6268",
@@ -5307,7 +5307,7 @@ const CAMERAS = {
         "name": "SR 120A/N Marietta Pkwy : Wallace Rd"
     }, {
         "id": "cctv_5079",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-341.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-341.stream/playlist.m3u8",
         "name": "I-20 : LAWTON ST"
     }, {
         "id": "cctv_7327",
@@ -5323,11 +5323,11 @@ const CAMERAS = {
         "name": "I-985 : Plainview Road"
     }, {
         "id": "cctv_5046",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-278.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-278.stream/playlist.m3u8",
         "name": "I-285 : E OF CONLEY RD"
     }, {
         "id": "cctv_5025",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-259.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-259.stream/playlist.m3u8",
         "name": "I-285 : GLENWOOD RD"
     }, {
         "id": "cctv_6320",
@@ -5335,11 +5335,11 @@ const CAMERAS = {
         "name": "State Bridge Rd : Kimball Bridge"
     }, {
         "id": "cctv_5329",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-826.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-826.stream/playlist.m3u8",
         "name": "GA 400 : S OF ABERNATHY RD"
     }, {
         "id": "cctv_6826",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-004.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-004.stream/playlist.m3u8",
         "name": "SR 92 / Woodstock Rd : Wigley Rd"
     }, {
         "id": "cctv_13361",
@@ -5355,7 +5355,7 @@ const CAMERAS = {
         "name": "Chastain Rd : Big Shanty Rd"
     }, {
         "id": "cctv_5063",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-327.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-327.stream/playlist.m3u8",
         "name": "I-20 : 285 NB EXIT"
     }, {
         "id": "cctv_13654",
@@ -5367,15 +5367,15 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Canton Rd Conn"
     }, {
         "id": "cctv_13054",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-077.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-077.stream/playlist.m3u8",
         "name": "SR 3 (Metropolitan Pkwy) : Lakewood Ave"
     }, {
         "id": "cctv_6860",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-140.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-140.stream/playlist.m3u8",
         "name": "SR 141 (Medlock Bridge Rd) : Abbotts Bridge Rd"
     }, {
         "id": "cctv_13340",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-756.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-756.stream/playlist.m3u8",
         "name": "I-75 : ON SR 20/81 ENTR RAMP"
     }, {
         "id": "cctv_15176",
@@ -5383,11 +5383,11 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Gresham Rd"
     }, {
         "id": "cctv_5123",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-004.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-004.stream/playlist.m3u8",
         "name": "75/85 : N OF LANGFORD PKWY"
     }, {
         "id": "cctv_4990",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-224.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-224.stream/playlist.m3u8",
         "name": "I-285 : N SHALLOWFORD"
     }, {
         "id": "cctv_46391",
@@ -5395,7 +5395,7 @@ const CAMERAS = {
         "name": "Dekalb Ave : Oakdale Rd/Whitefoord Ave"
     }, {
         "id": "cctv_5157",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-043.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-043.stream/playlist.m3u8",
         "name": "I-85 : S OF SHALLOWFORD RD"
     }, {
         "id": "cctv_6247",
@@ -5403,11 +5403,11 @@ const CAMERAS = {
         "name": "SR 92 : Wildwood Springs Dr/Steeple Run"
     }, {
         "id": "cctv_4942",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-180.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-180.stream/playlist.m3u8",
         "name": "I-85 : N OF FAYETTEVILLE RD"
     }, {
         "id": "cctv_5414",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-140.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-140.stream/playlist.m3u8",
         "name": "Clairmont Rd : I-85 SB EXIT RAMP"
     }, {
         "id": "cctv_32619",
@@ -5419,7 +5419,7 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Mars Hill Rd"
     }, {
         "id": "cctv_5036",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-269.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-269.stream/playlist.m3u8",
         "name": "I-285 : CLIFTON SPRINGS RD"
     }, {
         "id": "cctv_9072",
@@ -5427,7 +5427,7 @@ const CAMERAS = {
         "name": "Windward Pkwy : North Point Pkwy"
     }, {
         "id": "cctv_5290",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-718.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-718.stream/playlist.m3u8",
         "name": "I-75 : N OF HUDSON BRIDGE RD"
     }, {
         "id": "cctv_32621",
@@ -5451,11 +5451,11 @@ const CAMERAS = {
         "name": "SR 280/South Cobb Dr : Appleton Dr"
     }, {
         "id": "cctv_4936",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-016.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-016.stream/playlist.m3u8",
         "name": "75/85 : SPRING ST"
     }, {
         "id": "cctv_4985",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-022.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-022.stream/playlist.m3u8",
         "name": "I-85 : 10th/14th/17th St Exit"
     }, {
         "id": "cctv_15304",
@@ -5471,7 +5471,7 @@ const CAMERAS = {
         "name": "SR 54 : I-75 NB Ramp"
     }, {
         "id": "cctv_5160",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-432.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-432.stream/playlist.m3u8",
         "name": "I-75 : S OF BIG SHANTY"
     }, {
         "id": "cctv_15456",
@@ -5483,7 +5483,7 @@ const CAMERAS = {
         "name": "Johnson Ferry Rd : Woodlawn Dr"
     }, {
         "id": "cctv_13220",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-768.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-768.stream/playlist.m3u8",
         "name": "I-675 : AT US 23/SR 42"
     }, {
         "id": "cctv_13311",
@@ -5495,7 +5495,7 @@ const CAMERAS = {
         "name": "Cumberland Blvd : Walton Riverwood"
     }, {
         "id": "cctv_5179",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-045.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-045.stream/playlist.m3u8",
         "name": "I-85 : CHAMBLEE-TUCKER"
     }, {
         "id": "cctv_9079",
@@ -5507,7 +5507,7 @@ const CAMERAS = {
         "name": "OLD NORCROSS RD : SUGARLOAF PKWY"
     }, {
         "id": "cctv_46409",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-091.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-091.stream/playlist.m3u8",
         "name": "SR 3 / Northside Dr : Chapel St/Spelman Ln"
     }, {
         "id": "cctv_7298",
@@ -5515,11 +5515,11 @@ const CAMERAS = {
         "name": "Barrett Pkwy : Cobb Place Blvd (East)"
     }, {
         "id": "cctv_15418",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-311.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-311.stream/playlist.m3u8",
         "name": "I-20 : East of Mt Vernon Rd"
     }, {
         "id": "cctv_8829",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-036.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-036.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Stratford Rd"
     }, {
         "id": "cctv_32595",
@@ -5527,7 +5527,7 @@ const CAMERAS = {
         "name": "East-West Conn. : Highland Ridge"
     }, {
         "id": "cctv_4984",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-219.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-219.stream/playlist.m3u8",
         "name": "I-285 : ASHFORD-DNWDY"
     }, {
         "id": "cctv_10310",
@@ -5539,19 +5539,19 @@ const CAMERAS = {
         "name": "SR 139 / Riverdale Rd : SR 314 / W Fayetteville Rd"
     }, {
         "id": "cctv_5231",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-581.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-581.stream/playlist.m3u8",
         "name": "I-285 : BUFORD HWY RAMP METER"
     }, {
         "id": "cctv_5047",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-279.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-279.stream/playlist.m3u8",
         "name": "I-285 : W OF CONLEY RD"
     }, {
         "id": "cctv_15420",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-314.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-314.stream/playlist.m3u8",
         "name": "I-20 : Thornton Rd"
     }, {
         "id": "cctv_15725",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-540.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-540.stream/playlist.m3u8",
         "name": "I-575 : N OF BARRETT PKY"
     }, {
         "id": "cctv_10488",
@@ -5563,11 +5563,11 @@ const CAMERAS = {
         "name": "SR 138 : N MAIN ST"
     }, {
         "id": "cctv_9141",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-102.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-102.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Ind Blvd : Johnson Ferry Rd"
     }, {
         "id": "cctv_5222",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-571.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-571.stream/playlist.m3u8",
         "name": "75/85 : RDA BLVD RAMP METER"
     }, {
         "id": "cctv_16240",
@@ -5579,7 +5579,7 @@ const CAMERAS = {
         "name": "North Ave : Boulevard"
     }, {
         "id": "cctv_15503",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-699.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-699.stream/playlist.m3u8",
         "name": "HICKORY GROVE RD : EAST OF I-75"
     }, {
         "id": "cctv_32933",
@@ -5599,19 +5599,19 @@ const CAMERAS = {
         "name": "SR 81 : N/S BETHANY RD"
     }, {
         "id": "cctv_5280",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-709.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-709.stream/playlist.m3u8",
         "name": "I-75 : 1 MI S OF MT ZION BLVD"
     }, {
         "id": "cctv_15276",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-914.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-914.stream/playlist.m3u8",
         "name": "Marietta St : Ivan Allen Jr Blvd"
     }, {
         "id": "cctv_13247",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-741.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-741.stream/playlist.m3u8",
         "name": "I-75 : AT HUDSON BR RD"
     }, {
         "id": "cctv_46415",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-268.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-268.stream/playlist.m3u8",
         "name": "US 278 / Donald Lee Hollowell Pkwy : SR 280 / Holmes Dr / Jackson Pkwy"
     }, {
         "id": "cctv_46447",
@@ -5619,11 +5619,11 @@ const CAMERAS = {
         "name": "GA 14/ US 29/ Roosevelt Hwy : GA 138/ Jonesboro Rd"
     }, {
         "id": "cctv_15463",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-569.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-569.stream/playlist.m3u8",
         "name": "I-575 : N OF RABBIT HILL RD"
     }, {
         "id": "cctv_5131",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-405.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-405.stream/playlist.m3u8",
         "name": "I-75 : 1/2 MI S OF S 120 LOOP"
     }, {
         "id": "cctv_10404",
@@ -5631,31 +5631,31 @@ const CAMERAS = {
         "name": "SR 140 : Tracy Valley Dr / Gale Dr"
     }, {
         "id": "cctv_8966",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-105.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-105.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Town Blvd"
     }, {
         "id": "cctv_5095",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-356.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-356.stream/playlist.m3u8",
         "name": "I-20 : W OF MORELAND AVE"
     }, {
         "id": "cctv_5376",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-094.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-094.stream/playlist.m3u8",
         "name": "I-85 : 1 MI S OF SHALLOWFORD"
     }, {
         "id": "cctv_4950",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-188.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-188.stream/playlist.m3u8",
         "name": "I-85 : N OF BUFFINGTON RD"
     }, {
         "id": "cctv_5344",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-084.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-084.stream/playlist.m3u8",
         "name": "I-85 : S OF PLEASANTDALE RD"
     }, {
         "id": "cctv_5393",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-956.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-956.stream/playlist.m3u8",
         "name": "I-285 : N OF BOLTON RD"
     }, {
         "id": "cctv_7213",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-012.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-012.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd : Colonial Homes Dr"
     }, {
         "id": "cctv_6818",
@@ -5679,7 +5679,7 @@ const CAMERAS = {
         "name": "EW Connector : Fontaine Rd"
     }, {
         "id": "cctv_4996",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-023.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-023.stream/playlist.m3u8",
         "name": "I-75 : N OF BROOKWOOD INTRCHGE"
     }, {
         "id": "cctv_12899",
@@ -5695,7 +5695,7 @@ const CAMERAS = {
         "name": "SUWANEE DAM RD : LEVEL CREEK RD - MOORE RD"
     }, {
         "id": "cctv_13236",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-771.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-771.stream/playlist.m3u8",
         "name": "I-675 : N OF SR 138"
     }, {
         "id": "cctv_46305",
@@ -5703,7 +5703,7 @@ const CAMERAS = {
         "name": "SR 316 : SR 8/WINDER HWY"
     }, {
         "id": "cctv_16068",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-968.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-968.stream/playlist.m3u8",
         "name": "Boulevard : United Ave"
     }, {
         "id": "cctv_10528",
@@ -5715,11 +5715,11 @@ const CAMERAS = {
         "name": "SR 20 : Sudderth Rd"
     }, {
         "id": "cctv_5331",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-828.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-828.stream/playlist.m3u8",
         "name": "GA 400 : AT MARTA N SPRINGS EXIT"
     }, {
         "id": "cctv_15248",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-536.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-536.stream/playlist.m3u8",
         "name": "I-75 : JUST S OF SR 92"
     }, {
         "id": "cctv_46455",
@@ -5739,7 +5739,7 @@ const CAMERAS = {
         "name": "George Busbee Pkwy : Town Center Dr"
     }, {
         "id": "cctv_5355",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-851.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-851.stream/playlist.m3u8",
         "name": "GA 400 : N OF UNION HILL RD"
     }, {
         "id": "cctv_32610",
@@ -5747,11 +5747,11 @@ const CAMERAS = {
         "name": "Shallowford Rd : Gordy Pkwy (West)"
     }, {
         "id": "cctv_10535",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-029.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-029.stream/playlist.m3u8",
         "name": "SR 141 : Motors Industrial Way"
     }, {
         "id": "cctv_13273",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-745.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-745.stream/playlist.m3u8",
         "name": "I-75 : 1 MI S OF HUDSON BR"
     }, {
         "id": "cctv_46481",
@@ -5759,23 +5759,23 @@ const CAMERAS = {
         "name": "SR 140 : Hickory Rd"
     }, {
         "id": "cctv_15475",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-487.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-487.stream/playlist.m3u8",
         "name": "I-75 : N MARIETTA PKY/SR 120 EXIT"
     }, {
         "id": "cctv_15229",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-209.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-209.stream/playlist.m3u8",
         "name": "SR 155 / Clairmont Rd : Dresden Dr"
     }, {
         "id": "cctv_13263",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-734.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-734.stream/playlist.m3u8",
         "name": "I-75 : S OF I-675"
     }, {
         "id": "cctv_13714",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-307.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-307.stream/playlist.m3u8",
         "name": "SR 155 (Candler Rd) : I-20 EB Ramp"
     }, {
         "id": "cctv_5057",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-301.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-301.stream/playlist.m3u8",
         "name": "I-20 : FLAT SHOALS RD RAMP METER"
     }, {
         "id": "cctv_15993",
@@ -5787,15 +5787,15 @@ const CAMERAS = {
         "name": "MLK Jr Dr : Peachtree St"
     }, {
         "id": "cctv_15409",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-318.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-318.stream/playlist.m3u8",
         "name": "I-20 : Riverside Pkwy"
     }, {
         "id": "cctv_5234",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-591.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-591.stream/playlist.m3u8",
         "name": "SR 141 (Peachtree Parkway) : N of Jay Bird Alley NW"
     }, {
         "id": "cctv_5110",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-037.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-037.stream/playlist.m3u8",
         "name": "I-85 : GA 400 RAMPS"
     }, {
         "id": "cctv_10299",
@@ -5819,7 +5819,7 @@ const CAMERAS = {
         "name": "SR 8 (Veterans Memorial Hwy) : Dodgen Rd"
     }, {
         "id": "cctv_13672",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-012.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-012.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Shallowford Rd"
     }, {
         "id": "cctv_10269",
@@ -5847,11 +5847,11 @@ const CAMERAS = {
         "name": "Ashford Dunwoody : Perimeter Summit"
     }, {
         "id": "cctv_5383",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-946.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-946.stream/playlist.m3u8",
         "name": "I-285 : N OF BENJAMIN E MAYS DR"
     }, {
         "id": "cctv_5090",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-351.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-351.stream/playlist.m3u8",
         "name": "I-20 : E OF CAPITOL AVE"
     }, {
         "id": "cctv_16319",
@@ -5863,7 +5863,7 @@ const CAMERAS = {
         "name": "SUGARLOAF PKWY : LONGMONT DR"
     }, {
         "id": "cctv_4976",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-211.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-211.stream/playlist.m3u8",
         "name": "I-285 : LONG ISLAND DR"
     }, {
         "id": "cctv_10386",
@@ -5875,11 +5875,11 @@ const CAMERAS = {
         "name": "Sandy Plains Rd : Trickum Rd"
     }, {
         "id": "cctv_13605",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-023.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-023.stream/playlist.m3u8",
         "name": "SR 120 (Old Milton Pkwy) : SR 400 NB Ramp"
     }, {
         "id": "cctv_15968",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-171.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-171.stream/playlist.m3u8",
         "name": "I-85 : 1 MILE N OF SR 20"
     }, {
         "id": "cctv_16229",
@@ -5887,11 +5887,11 @@ const CAMERAS = {
         "name": "Old Alabama Rd : Newtown Park/Fire Station 63"
     }, {
         "id": "cctv_8832",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-039.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-039.stream/playlist.m3u8",
         "name": "SR 9 / Roswell Rd : E Andrews Dr"
     }, {
         "id": "cctv_5285",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-713.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-713.stream/playlist.m3u8",
         "name": "I-75 : I-675"
     }, {
         "id": "cctv_9304",
@@ -5907,7 +5907,7 @@ const CAMERAS = {
         "name": "LAWRENCEVILLE-SUWANEE RD : E of McGINNIS FERRY RD"
     }, {
         "id": "cctv_5421",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-124.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-124.stream/playlist.m3u8",
         "name": "I-85 : SR 316"
     }, {
         "id": "cctv_16206",
@@ -5931,7 +5931,7 @@ const CAMERAS = {
         "name": "SATELLITE BLVD : PLEASANT HILL RD"
     }, {
         "id": "cctv_5003",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-236.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-236.stream/playlist.m3u8",
         "name": "I-285 : S OF CHAMBLEE-TCKR"
     }, {
         "id": "cctv_6249",
@@ -5943,15 +5943,15 @@ const CAMERAS = {
         "name": "Abbotts Bridge Rd : Addison Way"
     }, {
         "id": "cctv_4947",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-185.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-185.stream/playlist.m3u8",
         "name": "I-85 : S OF FLAT SHOALS RD"
     }, {
         "id": "cctv_5001",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-234.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-234.stream/playlist.m3u8",
         "name": "I-285 : W OF CHAMBLEE-TCKR"
     }, {
         "id": "cctv_5243",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-006.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-006.stream/playlist.m3u8",
         "name": "75/85 : PRYOR ST"
     }, {
         "id": "cctv_13354",
@@ -5963,35 +5963,35 @@ const CAMERAS = {
         "name": "George Busbee Pkwy : Big Shanty Rd"
     }, {
         "id": "cctv_13229",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-733.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-733.stream/playlist.m3u8",
         "name": "I-75 : S OF I-675"
     }, {
         "id": "cctv_9065",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-002.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-002.stream/playlist.m3u8",
         "name": "SR 9 / North Main St : Academy St / Milton Ave"
     }, {
         "id": "cctv_5102",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-362.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-362.stream/playlist.m3u8",
         "name": "I-20 : W OF FLAT SHOALS"
     }, {
         "id": "cctv_13058",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-051.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-051.stream/playlist.m3u8",
         "name": "SR 10 (Memorial Drive) : I-285 SB Ramp"
     }, {
         "id": "cctv_13080",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-084.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-084.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : Ivan Allen Jr Blvd"
     }, {
         "id": "cctv_5312",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-786.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-786.stream/playlist.m3u8",
         "name": "US 78 : W OF JULIETTE RD"
     }, {
         "id": "cctv_7207",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-033.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-033.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree St NE : Deering Rd"
     }, {
         "id": "cctv_5016",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-248.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-248.stream/playlist.m3u8",
         "name": "I-285 : E PONCE DE LEON AVE"
     }, {
         "id": "cctv_10219",
@@ -5999,15 +5999,15 @@ const CAMERAS = {
         "name": "US 29 : GWINNETT DR"
     }, {
         "id": "cctv_46412",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-098.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-098.stream/playlist.m3u8",
         "name": "SR 3 / Northside Dr : Arden Rd/Castlewood Dr"
     }, {
         "id": "cctv_5008",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-240.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-240.stream/playlist.m3u8",
         "name": "I-285 : NORTHLAKE PKWY"
     }, {
         "id": "cctv_13765",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-602.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-602.stream/playlist.m3u8",
         "name": "SR 13 : Lenox Rd / Cheshire Bridge Rd"
     }, {
         "id": "cctv_10188",
@@ -6035,7 +6035,7 @@ const CAMERAS = {
         "name": "SR 8/ US 78/ Veterans Memorial HWY : GA 5/ Bill Arp Rd"
     }, {
         "id": "cctv_16314",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-496.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-496.stream/playlist.m3u8",
         "name": "I-75 : BARRETT PKY ENT RAMP"
     }, {
         "id": "cctv_12946",
@@ -6047,15 +6047,15 @@ const CAMERAS = {
         "name": "I-20 : W of Wesley Chapel Rd"
     }, {
         "id": "cctv_15546",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-556.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-556.stream/playlist.m3u8",
         "name": "I-575 : N OF SR 92"
     }, {
         "id": "cctv_5368",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-932.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-932.stream/playlist.m3u8",
         "name": "I-285 : WASHINGTON RD"
     }, {
         "id": "cctv_16216",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-245.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-245.stream/playlist.m3u8",
         "name": "SR 141 : Hospital Pkwy"
     }, {
         "id": "cctv_9031",
@@ -6067,15 +6067,15 @@ const CAMERAS = {
         "name": "SR 42 (Moreland Ave) : United Ave"
     }, {
         "id": "cctv_5021",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-254.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-254.stream/playlist.m3u8",
         "name": "I-285 : NEAR INDIAN CREEK MARTA"
     }, {
         "id": "cctv_13255",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-759.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-759.stream/playlist.m3u8",
         "name": "I-75 : S OF SR 20/81"
     }, {
         "id": "cctv_13563",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-736.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-736.stream/playlist.m3u8",
         "name": "I-75 : S OF WALT STEPHENS"
     }, {
         "id": "cctv_13600",
@@ -6083,11 +6083,11 @@ const CAMERAS = {
         "name": "SR 6 : Humphries Hill Rd"
     }, {
         "id": "cctv_7197",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-210.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-210.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : SR 10/Freedom Pkwy"
     }, {
         "id": "cctv_6825",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-009.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-009.stream/playlist.m3u8",
         "name": "SR 92 / Woodstock Rd : Mountain Brook"
     }, {
         "id": "cctv_10321",
@@ -6103,11 +6103,11 @@ const CAMERAS = {
         "name": "SR 140 : Fouts Rd"
     }, {
         "id": "cctv_9159",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-011.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-011.stream/playlist.m3u8",
         "name": "SR 8 (Lawrenceville Hwy) : Orion Dr"
     }, {
         "id": "cctv_15574",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-474.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-474.stream/playlist.m3u8",
         "name": "I-75 : DELK RD ENT RAMP"
     }, {
         "id": "cctv_15240",
@@ -6119,7 +6119,7 @@ const CAMERAS = {
         "name": "SR 140 : Pacific Drive"
     }, {
         "id": "cctv_5055",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-030.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-030.stream/playlist.m3u8",
         "name": "I-75 : MT PARAN RD"
     }, {
         "id": "cctv_46507",
@@ -6127,11 +6127,11 @@ const CAMERAS = {
         "name": "SR 138 : Eastview Rd/ Eastview Parkway"
     }, {
         "id": "cctv_46431",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-266.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-266.stream/playlist.m3u8",
         "name": "US 278 / Donald Lee Hollowell Pkwy : James P Brawley Rd"
     }, {
         "id": "cctv_15393",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-557.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-557.stream/playlist.m3u8",
         "name": "I-575 : TOWN LAKE PKY EXIT"
     }, {
         "id": "cctv_12895",
@@ -6139,7 +6139,7 @@ const CAMERAS = {
         "name": "Bells Ferry Rd : Hawkins Store Rd"
     }, {
         "id": "cctv_15396",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-067.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-067.stream/playlist.m3u8",
         "name": "SR 141 Conn / Lenox Rd : Tower Place Dr"
     }, {
         "id": "cctv_46286",
@@ -6147,27 +6147,27 @@ const CAMERAS = {
         "name": "US 78 : SUMMIT CHASE DR"
     }, {
         "id": "cctv_12968",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-820.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-820.stream/playlist.m3u8",
         "name": "GA 400 : S OF WINDSOR PKWY"
     }, {
         "id": "cctv_5277",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-706.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-706.stream/playlist.m3u8",
         "name": "I-75 : AT MT ZION BLVD"
     }, {
         "id": "cctv_13665",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-305.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-305.stream/playlist.m3u8",
         "name": "SR 155 (Candler Rd) : Glenwood Ave"
     }, {
         "id": "cctv_5260",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-661.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-661.stream/playlist.m3u8",
         "name": "I-285 : MAIN LANES NO. 3"
     }, {
         "id": "cctv_5390",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-953.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-953.stream/playlist.m3u8",
         "name": "I-285 : HOLLOWELL PKWY"
     }, {
         "id": "cctv_9114",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-050.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-050.stream/playlist.m3u8",
         "name": "SR 9 / Roswell Rd : Chastain Dr"
     }, {
         "id": "cctv_12916",
@@ -6179,7 +6179,7 @@ const CAMERAS = {
         "name": "I-575 : AT RIDGEWALK PKWY"
     }, {
         "id": "cctv_7229",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-022.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-022.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Lindbergh Dr / Way"
     }, {
         "id": "cctv_16353",
@@ -6187,15 +6187,15 @@ const CAMERAS = {
         "name": "SR 20/ East Maple St : Castleberry Rd"
     }, {
         "id": "cctv_6857",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-101.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-101.stream/playlist.m3u8",
         "name": "SR 85 : SR 279 / Carnegie Pl"
     }, {
         "id": "cctv_15432",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-296.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-296.stream/playlist.m3u8",
         "name": "I-20 : Chapel Hill Rd"
     }, {
         "id": "cctv_6799",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-170.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-170.stream/playlist.m3u8",
         "name": "SR 141 (Medlock Bridge Rd) : McGinnis Ferry Rd"
     }, {
         "id": "cctv_10307",
@@ -6203,7 +6203,7 @@ const CAMERAS = {
         "name": "SUGARLOAF PKWY : IEC MIDBLOCK"
     }, {
         "id": "cctv_5042",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-274.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-274.stream/playlist.m3u8",
         "name": "I-285 : MORELAND AVE"
     }, {
         "id": "cctv_13310",
@@ -6211,11 +6211,11 @@ const CAMERAS = {
         "name": "SR 12 (Covington Hwy) : Panola Rd"
     }, {
         "id": "cctv_5325",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-080.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-080.stream/playlist.m3u8",
         "name": "I-75 : N OF CENTRAL AVE"
     }, {
         "id": "cctv_5202",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-510.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-510.stream/playlist.m3u8",
         "name": "I-575 : N OF BELLS FERRY RD"
     }, {
         "id": "cctv_15201",
@@ -6243,7 +6243,7 @@ const CAMERAS = {
         "name": "SR 138 : I-675 NB Ramp"
     }, {
         "id": "cctv_15551",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-482.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-482.stream/playlist.m3u8",
         "name": "I-75 : S 120 LOOP/MARIETTA PKY"
     }, {
         "id": "cctv_16201",
@@ -6251,19 +6251,19 @@ const CAMERAS = {
         "name": "Baker St : Courtland St"
     }, {
         "id": "cctv_5395",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-958.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-958.stream/playlist.m3u8",
         "name": "I-285 : N OF CHATTAHOOCHEE RIVER"
     }, {
         "id": "cctv_5087",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-349.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-349.stream/playlist.m3u8",
         "name": "I-20 : CAPITOL AVE"
     }, {
         "id": "cctv_15618",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-519.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-519.stream/playlist.m3u8",
         "name": "I-75 : AT BARRETT PKWY ENTR"
     }, {
         "id": "cctv_13587",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-003.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-003.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Dresden Dr"
     }, {
         "id": "cctv_9291",
@@ -6275,19 +6275,19 @@ const CAMERAS = {
         "name": "STEVE REYNOLDS BLVD : CLUB DR"
     }, {
         "id": "cctv_4959",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-196.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-196.stream/playlist.m3u8",
         "name": "I-85 : N OF I-285 WEST"
     }, {
         "id": "cctv_5582",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-645.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-645.stream/playlist.m3u8",
         "name": "I-285 : NEAR I-85 / SOUTHSIDE"
     }, {
         "id": "cctv_4931",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-013.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-013.stream/playlist.m3u8",
         "name": "75/85 : COURTLAND ST"
     }, {
         "id": "cctv_5180",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-450.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-450.stream/playlist.m3u8",
         "name": "I-75 : 1/2 MI N OF WOODSTOCK RD"
     }, {
         "id": "cctv_10343",
@@ -6311,19 +6311,19 @@ const CAMERAS = {
         "name": "SR 5/Austell Rd : Clay Rd"
     }, {
         "id": "cctv_5169",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-440.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-440.stream/playlist.m3u8",
         "name": "I-75 : WADE GREEN RD"
     }, {
         "id": "cctv_5957",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-613.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-613.stream/playlist.m3u8",
         "name": "I-675 : S OF GRANT RD"
     }, {
         "id": "cctv_13225",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fors-cam-001.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fors-cam-001.stream/playlist.m3u8",
         "name": "SR 20 (Buford Hwy) : SR 9 (Atlanta Highway)"
     }, {
         "id": "cctv_13375",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-270.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-270.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : Maynard Rd"
     }, {
         "id": "cctv_7340",
@@ -6335,7 +6335,7 @@ const CAMERAS = {
         "name": "SR 85 : Airport South Pkwy"
     }, {
         "id": "cctv_15558",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-459.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-459.stream/playlist.m3u8",
         "name": "I-75 : I-285 ON/OFF EXPRESS RAMP"
     }, {
         "id": "cctv_15222",
@@ -6343,7 +6343,7 @@ const CAMERAS = {
         "name": "Windy Ridge Pkwy : Heritage Ct"
     }, {
         "id": "cctv_15974",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-174.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-174.stream/playlist.m3u8",
         "name": "I-85 : N OF GRAVEL SPRINGS RD"
     }, {
         "id": "cctv_6244",
@@ -6351,7 +6351,7 @@ const CAMERAS = {
         "name": "SR 20 : I-75 SB"
     }, {
         "id": "cctv_13675",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-064.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-064.stream/playlist.m3u8",
         "name": "SR 42 (Moreland Ave) : I-20 WB Ramp"
     }, {
         "id": "cctv_10311",
@@ -6403,23 +6403,23 @@ const CAMERAS = {
         "name": "SUWANEE DAM RD : SETTLES BRIDGE RD"
     }, {
         "id": "cctv_6830",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-556.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-556.stream/playlist.m3u8",
         "name": "SR 42 (Moreland Ave) : Hardee St NE"
     }, {
         "id": "cctv_5272",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-007.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-007.stream/playlist.m3u8",
         "name": "75/85 : FULTON ST"
     }, {
         "id": "cctv_5142",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-416.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-416.stream/playlist.m3u8",
         "name": "I-75 : ALLGOOD RD"
     }, {
         "id": "cctv_15279",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-917.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-917.stream/playlist.m3u8",
         "name": "Centennial Olympic Park Dr : Martin Luther King Jr Dr"
     }, {
         "id": "cctv_8814",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-023.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-023.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Lakeshore Dr"
     }, {
         "id": "cctv_16220",
@@ -6427,7 +6427,7 @@ const CAMERAS = {
         "name": "State Bridge Rd : Saddle Brook Shop Center"
     }, {
         "id": "cctv_15251",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-906.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-906.stream/playlist.m3u8",
         "name": "Peachtree St : 14th St"
     }, {
         "id": "cctv_6324",
@@ -6455,11 +6455,11 @@ const CAMERAS = {
         "name": "SR 8 (Veterans Memorial Hwy) : Jefferson St"
     }, {
         "id": "cctv_5951",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-607.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-607.stream/playlist.m3u8",
         "name": "I-675 : N OF REX RD"
     }, {
         "id": "cctv_5316",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-079.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-079.stream/playlist.m3u8",
         "name": "I-75 : CLEVELAND AVE"
     }, {
         "id": "cctv_12907",
@@ -6467,19 +6467,19 @@ const CAMERAS = {
         "name": "Chastain Rd : McCollum Pkwy/Duncan Rd"
     }, {
         "id": "cctv_15439",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-562.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-562.stream/playlist.m3u8",
         "name": "I-575 : RIDGEWALK PKY"
     }, {
         "id": "cctv_7206",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-031.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-031.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd : Collier Rd"
     }, {
         "id": "cctv_4958",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-195.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-195.stream/playlist.m3u8",
         "name": "I-85 : N OF OLD NATIONAL HWY"
     }, {
         "id": "cctv_5138",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-412.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-412.stream/playlist.m3u8",
         "name": "I-75 : N 120 LOOP"
     }, {
         "id": "cctv_16094",
@@ -6487,7 +6487,7 @@ const CAMERAS = {
         "name": "Joseph E Lowery Blvd : Park St / I-20 WB Ramp"
     }, {
         "id": "cctv_5319",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-792.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-792.stream/playlist.m3u8",
         "name": "US 78 : E OF HUGH HOWELL RD"
     }, {
         "id": "cctv_13120",
@@ -6495,7 +6495,7 @@ const CAMERAS = {
         "name": "I-20 : WEST AVE"
     }, {
         "id": "cctv_15511",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-527.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-527.stream/playlist.m3u8",
         "name": "I-75 : N OF SHILOH RD"
     }, {
         "id": "cctv_9028",
@@ -6503,7 +6503,7 @@ const CAMERAS = {
         "name": "SR 9 : SR 120/Mill St"
     }, {
         "id": "cctv_13365",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-758.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-758.stream/playlist.m3u8",
         "name": "I-75 : AT SR 20/81 EXIT"
     }, {
         "id": "cctv_13194",
@@ -6515,7 +6515,7 @@ const CAMERAS = {
         "name": "Mansell Rd : SR 140/Houze Rd"
     }, {
         "id": "cctv_13239",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-681.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-681.stream/playlist.m3u8",
         "name": "JONESBORO RD : CMS 713/714"
     }, {
         "id": "cctv_15363",
@@ -6531,23 +6531,23 @@ const CAMERAS = {
         "name": "SR 347/Lanier Is Pkwy : Bristrol Ind Rd"
     }, {
         "id": "cctv_8805",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-380.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-380.stream/playlist.m3u8",
         "name": "I-20 : E OF WESLEY CHAPEL"
     }, {
         "id": "cctv_5153",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-426.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-426.stream/playlist.m3u8",
         "name": "I-75 : BARRETT PKWY"
     }, {
         "id": "cctv_13048",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-087.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-087.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : 14th St"
     }, {
         "id": "cctv_4917",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-010.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-010.stream/playlist.m3u8",
         "name": "75/85 : GRADY CURVE"
     }, {
         "id": "cctv_5284",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-712.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-712.stream/playlist.m3u8",
         "name": "I-75 : S OF SR 138"
     }, {
         "id": "cctv_9089",
@@ -6559,11 +6559,11 @@ const CAMERAS = {
         "name": "Cumberland Pkwy : Cumberland Blvd"
     }, {
         "id": "cctv_5099",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-036.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-036.stream/playlist.m3u8",
         "name": "I-85 : MONROE DR"
     }, {
         "id": "cctv_15550",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-481.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-481.stream/playlist.m3u8",
         "name": "I-75 : S OF S 120 LOOP/MARIETTA PKY"
     }, {
         "id": "cctv_13749",
@@ -6575,7 +6575,7 @@ const CAMERAS = {
         "name": "Williams St : West Peachtree Pl"
     }, {
         "id": "cctv_5707",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-588.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-588.stream/playlist.m3u8",
         "name": "SR 141 (Peachtree Parkway) : Peachtree Corners Cir"
     }, {
         "id": "cctv_15335",
@@ -6583,27 +6583,27 @@ const CAMERAS = {
         "name": "Piedmont Ave : Ellis St"
     }, {
         "id": "cctv_5366",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-930.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-930.stream/playlist.m3u8",
         "name": "I-285 : I-85 SOUTH (FULTON)"
     }, {
         "id": "cctv_12959",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-812.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-812.stream/playlist.m3u8",
         "name": "GA 400 : ENTRANCE TO TUNNEL"
     }, {
         "id": "cctv_5293",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-720.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-720.stream/playlist.m3u8",
         "name": "I-75 : HUDSON BRIDGE"
     }, {
         "id": "cctv_5386",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-095.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-095.stream/playlist.m3u8",
         "name": "I-75 : W PACES ENT RAMP"
     }, {
         "id": "cctv_5094",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-355.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-355.stream/playlist.m3u8",
         "name": "I-20 : GLENWOOD CON/BILL KENNEDY WAY"
     }, {
         "id": "cctv_4937",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-017.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-017.stream/playlist.m3u8",
         "name": "75/85 : NORTH AVE"
     }, {
         "id": "cctv_10182",
@@ -6611,7 +6611,7 @@ const CAMERAS = {
         "name": "SR 9 (US 29 Lawrenceville Hwy) : Arcado Rd / Beaver Ruin Rd"
     }, {
         "id": "cctv_13561",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-750.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-750.stream/playlist.m3u8",
         "name": "I-75 : S OF MT CARMEL"
     }, {
         "id": "cctv_10486",
@@ -6631,15 +6631,15 @@ const CAMERAS = {
         "name": "Canton Rd : Jamerson Rd"
     }, {
         "id": "cctv_5955",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-611.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-611.stream/playlist.m3u8",
         "name": "I-675 : NORF STHRN RAILROAD"
     }, {
         "id": "cctv_5228",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-579.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-579.stream/playlist.m3u8",
         "name": "I-285 : RIVERSIDE DR RAMP METER"
     }, {
         "id": "cctv_6827",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-559.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-559.stream/playlist.m3u8",
         "name": "SR 42 (Moreland Ave) : Freedom Pkwy Conn."
     }, {
         "id": "cctv_10520",
@@ -6647,11 +6647,11 @@ const CAMERAS = {
         "name": "SR 3 / Tara Blvd : Central Ave"
     }, {
         "id": "cctv_8954",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-003.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-003.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : Artwood Rd"
     }, {
         "id": "cctv_5415",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-141.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-141.stream/playlist.m3u8",
         "name": "Clairmont Rd : BRIARCLIFF RD"
     }, {
         "id": "cctv_32609",
@@ -6663,15 +6663,15 @@ const CAMERAS = {
         "name": "SR 120/S Marietta Pkwy : Powder Springs St"
     }, {
         "id": "cctv_4982",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-217.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-217.stream/playlist.m3u8",
         "name": "I-285 : GA 400 NB"
     }, {
         "id": "cctv_5253",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-655.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-655.stream/playlist.m3u8",
         "name": "I-285 : CD LANES (NO TRAFFIC)"
     }, {
         "id": "cctv_5269",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-067.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-067.stream/playlist.m3u8",
         "name": "I-75 : NEAR KENNEDY DR"
     }, {
         "id": "cctv_9082",
@@ -6679,15 +6679,15 @@ const CAMERAS = {
         "name": "North Point Pkwy : Kimball Bridge Rd"
     }, {
         "id": "cctv_5214",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-551.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-551.stream/playlist.m3u8",
         "name": "I-85 : N DRUID HILLS RAMP METER"
     }, {
         "id": "cctv_5947",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-603.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-603.stream/playlist.m3u8",
         "name": "I-675 : 3/4 MI N OF SR 138"
     }, {
         "id": "cctv_5112",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-371.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-371.stream/playlist.m3u8",
         "name": "I-20 : W OF COLUMBIA DR"
     }, {
         "id": "cctv_13613",
@@ -6699,15 +6699,15 @@ const CAMERAS = {
         "name": "Villa Rica Rd : West Sandtown Rd"
     }, {
         "id": "cctv_15535",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-529.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-529.stream/playlist.m3u8",
         "name": "I-75 : S OF HICKORY GROVE RD"
     }, {
         "id": "cctv_13234",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-751.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-751.stream/playlist.m3u8",
         "name": "I-75 : AT TOLL POINT 2"
     }, {
         "id": "cctv_15600",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-631.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-631.stream/playlist.m3u8",
         "name": "I-285 : NEW NORTHSIDE DR"
     }, {
         "id": "cctv_10347",
@@ -6731,7 +6731,7 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : McCollum Pkwy"
     }, {
         "id": "cctv_12964",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-821.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-821.stream/playlist.m3u8",
         "name": "GA 400 : WINDSOR PKWY"
     }, {
         "id": "cctv_13350",
@@ -6739,11 +6739,11 @@ const CAMERAS = {
         "name": "SR 155 / Clairmont Rd : Mason Mill Rd"
     }, {
         "id": "cctv_6302",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-041.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-041.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Sidney Marcus Blvd"
     }, {
         "id": "cctv_15428",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-316.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-316.stream/playlist.m3u8",
         "name": "I-20 : East of Thornton Rd/SR 6"
     }, {
         "id": "cctv_13736",
@@ -6759,11 +6759,11 @@ const CAMERAS = {
         "name": "SR 140 : Martins Landing Dr/Terramont Way"
     }, {
         "id": "cctv_5357",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-853.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-853.stream/playlist.m3u8",
         "name": "GA 400 : MCFARLAND RD"
     }, {
         "id": "cctv_9139",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-104.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-104.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Ind Blvd : Chamblee-Tucker Rd"
     }, {
         "id": "cctv_12914",
@@ -6775,7 +6775,7 @@ const CAMERAS = {
         "name": "McGinnis Ferry Rd : Johns Creek Pkwy W"
     }, {
         "id": "cctv_5350",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-847.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-847.stream/playlist.m3u8",
         "name": "GA 400 : WINDWARD PKWY"
     }, {
         "id": "cctv_10249",
@@ -6783,11 +6783,11 @@ const CAMERAS = {
         "name": "SR 378 : SHACKLEFORD RD / E of I-85"
     }, {
         "id": "cctv_5053",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-029.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-029.stream/playlist.m3u8",
         "name": "I-75 : N OF W PACES FERRY RD"
     }, {
         "id": "cctv_13294",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-031.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-031.stream/playlist.m3u8",
         "name": "SR 12 (Covington Hwy) : Redwing Cir"
     }, {
         "id": "cctv_9180",
@@ -6803,11 +6803,11 @@ const CAMERAS = {
         "name": "SR 6 Spur/Westside Rd : Austell-Powder Springs Rd"
     }, {
         "id": "cctv_9067",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-004.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-004.stream/playlist.m3u8",
         "name": "SR 120 (Old Milton Pkwy) : North Point Pkwy"
     }, {
         "id": "cctv_12966",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-823.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-823.stream/playlist.m3u8",
         "name": "GA 400 : S OF GLENRIDGE CONN"
     }, {
         "id": "cctv_10466",
@@ -6819,15 +6819,15 @@ const CAMERAS = {
         "name": "Windy Hill Rd : Village Pkwy"
     }, {
         "id": "cctv_46416",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-269.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-269.stream/playlist.m3u8",
         "name": "US 278 / Donald Lee Hollowell Pkwy : I-285 SB Ramp"
     }, {
         "id": "cctv_15311",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-940.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-940.stream/playlist.m3u8",
         "name": "SR 9 (Peachtree St) : Peachtree Cir"
     }, {
         "id": "cctv_9060",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-048.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-048.stream/playlist.m3u8",
         "name": "SR 3 / US 41 / Northside Pkwy : River Green Dr"
     }, {
         "id": "cctv_10383",
@@ -6835,7 +6835,7 @@ const CAMERAS = {
         "name": "DACULA RD : SR 8 / WINDER HWY"
     }, {
         "id": "cctv_5166",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-438.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-438.stream/playlist.m3u8",
         "name": "I-75 : 1/2 MI N OF CHASTAIN RD"
     }, {
         "id": "cctv_10420",
@@ -6843,7 +6843,7 @@ const CAMERAS = {
         "name": "SR20-Grayson Hwy : Webb Gin House"
     }, {
         "id": "cctv_5318",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-791.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-791.stream/playlist.m3u8",
         "name": "US 78 : HUGH HOWELL E ENT RAMP"
     }, {
         "id": "cctv_32598",
@@ -6859,11 +6859,11 @@ const CAMERAS = {
         "name": "SR 13 / US 23 : S BERKELEY LAKE RD"
     }, {
         "id": "cctv_5072",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-335.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-335.stream/playlist.m3u8",
         "name": "I-20 : MLK JR DR"
     }, {
         "id": "cctv_6297",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-013.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-013.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd : E/W Paces Ferry Rd"
     }, {
         "id": "cctv_32579",
@@ -6871,11 +6871,11 @@ const CAMERAS = {
         "name": "Ashford Dunwoody Rd : Meadow Lane"
     }, {
         "id": "cctv_5031",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-264.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-264.stream/playlist.m3u8",
         "name": "I-285 : COLUMBIA DR"
     }, {
         "id": "cctv_5147",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-420.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-420.stream/playlist.m3u8",
         "name": "I-75 : CANTON RD-SR5 WB EXIT"
     }, {
         "id": "cctv_10286",
@@ -6883,7 +6883,7 @@ const CAMERAS = {
         "name": "SATELLITE BLVD : SR 120"
     }, {
         "id": "cctv_46401",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-090.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-090.stream/playlist.m3u8",
         "name": "SR 3 / Northside Dr : Whitehall St"
     }, {
         "id": "cctv_10431",
@@ -6891,7 +6891,7 @@ const CAMERAS = {
         "name": "SR 139 : Flat Shoals Rd"
     }, {
         "id": "cctv_9143",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-011.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-011.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Ind Blvd : N Shallowford Rd"
     }, {
         "id": "cctv_10369",
@@ -6899,11 +6899,11 @@ const CAMERAS = {
         "name": "SR 324 (Gravel Springs Rd) : Mall of Georgia Blvd"
     }, {
         "id": "cctv_15405",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-310.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-310.stream/playlist.m3u8",
         "name": "I-20 : East of Lee Road Exit"
     }, {
         "id": "cctv_5197",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-506.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-506.stream/playlist.m3u8",
         "name": "I-575 : CHASTAIN RD"
     }, {
         "id": "cctv_10438",
@@ -6911,7 +6911,7 @@ const CAMERAS = {
         "name": "SR 3 / Old Dixie Rd : Morrow Rd"
     }, {
         "id": "cctv_5132",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-407.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-407.stream/playlist.m3u8",
         "name": "I-75 : SOUTH 120 LOOP"
     }, {
         "id": "cctv_10360",
@@ -6931,7 +6931,7 @@ const CAMERAS = {
         "name": "SR 140 : Old Alabama Rd"
     }, {
         "id": "cctv_15599",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-626.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-626.stream/playlist.m3u8",
         "name": "I-285 : I-75 EXP RAMPS ON/OFF"
     }, {
         "id": "cctv_13298",
@@ -6939,11 +6939,11 @@ const CAMERAS = {
         "name": "SR 8 (US 29 Lawrenceville Hwy) : Patterson Rd"
     }, {
         "id": "cctv_10166",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-142.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-142.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : ARMOUR DR / MI 1.8"
     }, {
         "id": "cctv_8827",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-034.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-034.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Rd : Mathieson Dr"
     }, {
         "id": "cctv_10338",
@@ -6963,15 +6963,15 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : White Circle/Progressive Way"
     }, {
         "id": "cctv_5033",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-266.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-266.stream/playlist.m3u8",
         "name": "I-285 : E OF PANTHERSVILLE RD"
     }, {
         "id": "cctv_5061",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-325.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-325.stream/playlist.m3u8",
         "name": "I-20 : 285 SB EXIT"
     }, {
         "id": "cctv_5007",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-024.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-024.stream/playlist.m3u8",
         "name": "I-75 : NORTHSIDE DR"
     }, {
         "id": "cctv_9173",
@@ -6987,23 +6987,23 @@ const CAMERAS = {
         "name": "Terrell Mill Rd : I-75 Express Lanes"
     }, {
         "id": "cctv_13602",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-276.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-276.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : W Lake Ave"
     }, {
         "id": "cctv_5200",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-509.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-509.stream/playlist.m3u8",
         "name": "I-575 : BELLS FERRY RD"
     }, {
         "id": "cctv_4925",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-107.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-107.stream/playlist.m3u8",
         "name": "I-85 : N OF BEAVER RUIN"
     }, {
         "id": "cctv_5585",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-648.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-648.stream/playlist.m3u8",
         "name": "I-285 : AT RAMP FROM RIVERDALE RD"
     }, {
         "id": "cctv_15298",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-927.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-927.stream/playlist.m3u8",
         "name": "Ivan Allen Jr Blvd : Centennial Olympic Park Dr"
     }, {
         "id": "cctv_16325",
@@ -7015,7 +7015,7 @@ const CAMERAS = {
         "name": "STAGECOACH RD : REX RD"
     }, {
         "id": "cctv_9155",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-006.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-006.stream/playlist.m3u8",
         "name": "SR 8 (Scott Blvd) : Clairmont Ave"
     }, {
         "id": "cctv_13267",
@@ -7023,11 +7023,11 @@ const CAMERAS = {
         "name": "SR 8 (US 29 Lawrenceville Hwy) : Shannon Way / Huff Dr"
     }, {
         "id": "cctv_15417",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-312.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-312.stream/playlist.m3u8",
         "name": "I-20 : West of CMS-55"
     }, {
         "id": "cctv_13262",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-732.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-732.stream/playlist.m3u8",
         "name": "I-75 : I-675 INTERNAL RAMPS"
     }, {
         "id": "cctv_10455",
@@ -7039,11 +7039,11 @@ const CAMERAS = {
         "name": "SR 400 NB : Bald Ridge Marina"
     }, {
         "id": "cctv_13242",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-731.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-731.stream/playlist.m3u8",
         "name": "I-75 : AT I-675 SPLIT"
     }, {
         "id": "cctv_6308",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-010.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-010.stream/playlist.m3u8",
         "name": "SR 92 / Woodstock Rd : Trickum Rd"
     }, {
         "id": "cctv_13133",
@@ -7051,7 +7051,7 @@ const CAMERAS = {
         "name": "SR 140 : Steeple Chase Dr East"
     }, {
         "id": "cctv_12971",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-810.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-810.stream/playlist.m3u8",
         "name": "GA 400 : LENOX MALL PED BRIDGE"
     }, {
         "id": "cctv_10491",
@@ -7059,11 +7059,11 @@ const CAMERAS = {
         "name": "SR 138 : FIELDER RD"
     }, {
         "id": "cctv_15482",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-564.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-564.stream/playlist.m3u8",
         "name": "I-575 : 1 MI S OF SIXES RD"
     }, {
         "id": "cctv_5170",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-441.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-441.stream/playlist.m3u8",
         "name": "I-75 : WADE GREEN RD ENT"
     }, {
         "id": "cctv_15346",
@@ -7071,7 +7071,7 @@ const CAMERAS = {
         "name": "SR 92 : Woodstock Rd"
     }, {
         "id": "cctv_15596",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-455.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-455.stream/playlist.m3u8",
         "name": "I-75 : S OF CHAT RIVER"
     }, {
         "id": "cctv_6258",
@@ -7091,7 +7091,7 @@ const CAMERAS = {
         "name": "SR 3 / Tara Blvd : Near Cardinal Rd"
     }, {
         "id": "cctv_15490",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-520.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-520.stream/playlist.m3u8",
         "name": "I-75 : S OF BIG SHANTY"
     }, {
         "id": "cctv_10359",
@@ -7107,7 +7107,7 @@ const CAMERAS = {
         "name": "SUWANEE DAM RD : JOHNSON RD"
     }, {
         "id": "cctv_5710",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-251.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-251.stream/playlist.m3u8",
         "name": "I-285 : N OF MEMORIAL DR"
     }, {
         "id": "cctv_15994",
@@ -7123,11 +7123,11 @@ const CAMERAS = {
         "name": "I-85 : S OF I-985"
     }, {
         "id": "cctv_5264",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-665.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-665.stream/playlist.m3u8",
         "name": "I-285 : MAIN LANES - NO. 6"
     }, {
         "id": "cctv_5040",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-272.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-272.stream/playlist.m3u8",
         "name": "I-285 : E OF I-675"
     }, {
         "id": "cctv_9165",
@@ -7135,19 +7135,19 @@ const CAMERAS = {
         "name": "SR 5/Austell Rd : Anderson Mill Rd"
     }, {
         "id": "cctv_5426",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-129.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-129.stream/playlist.m3u8",
         "name": "I-85 : SR 120"
     }, {
         "id": "cctv_5230",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-580.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-580.stream/playlist.m3u8",
         "name": "I-285 : PTREE INDUS RAMP METER"
     }, {
         "id": "cctv_6804",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-703.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-703.stream/playlist.m3u8",
         "name": "I-75 : N OF SR 54"
     }, {
         "id": "cctv_9190",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-070.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-070.stream/playlist.m3u8",
         "name": "SR 10 (Freedom Pkwy) : Ralph McGill"
     }, {
         "id": "cctv_13106",
@@ -7155,11 +7155,11 @@ const CAMERAS = {
         "name": "SR 20 : Hurricane Shoals Road"
     }, {
         "id": "cctv_5307",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-781.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-781.stream/playlist.m3u8",
         "name": "US 78 : BROCKETT RD"
     }, {
         "id": "cctv_5371",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-935.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-935.stream/playlist.m3u8",
         "name": "I-285 : CAMP CREEK PKWY EXIT"
     }, {
         "id": "cctv_10245",
@@ -7167,7 +7167,7 @@ const CAMERAS = {
         "name": "SR 20 : SR 120 / PIKE ST"
     }, {
         "id": "cctv_7201",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-218.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-218.stream/playlist.m3u8",
         "name": "SR 8 / Ponce De Leon Ave : Clifton Rd"
     }, {
         "id": "cctv_6864",
@@ -7179,7 +7179,7 @@ const CAMERAS = {
         "name": "SUWANEE DAM RD : WHITEHEAD RD"
     }, {
         "id": "cctv_46326",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-145.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-145.stream/playlist.m3u8",
         "name": "I-85 : CLAIRMONT RD"
     }, {
         "id": "cctv_10403",
@@ -7187,7 +7187,7 @@ const CAMERAS = {
         "name": "SR 120 : I-85 NB / NEWPOINT PKWY"
     }, {
         "id": "cctv_13271",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-275.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-275.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : Hollywood Rd"
     }, {
         "id": "cctv_10423",
@@ -7199,7 +7199,7 @@ const CAMERAS = {
         "name": "I-20 : LIBERTY RD"
     }, {
         "id": "cctv_5363",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-091.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-091.stream/playlist.m3u8",
         "name": "I-75 : MOORES MILL RD"
     }, {
         "id": "cctv_7313",
@@ -7207,15 +7207,15 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Spring Rd"
     }, {
         "id": "cctv_13222",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-150.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-150.stream/playlist.m3u8",
         "name": "SR 154 (Memorial Drive) : Carter Rd"
     }, {
         "id": "cctv_5111",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-370.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-370.stream/playlist.m3u8",
         "name": "I-20 : CANDLER RD"
     }, {
         "id": "cctv_12969",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-818.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-818.stream/playlist.m3u8",
         "name": "GA 400 : N OF WIEUCA RD"
     }, {
         "id": "cctv_13127",
@@ -7227,7 +7227,7 @@ const CAMERAS = {
         "name": "SR 378 : ARC WAY"
     }, {
         "id": "cctv_5296",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-074.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-074.stream/playlist.m3u8",
         "name": "I-85 : N OF VIRGINIA AVE"
     }, {
         "id": "cctv_15985",
@@ -7235,7 +7235,7 @@ const CAMERAS = {
         "name": "I-20 : SIGMAN RD"
     }, {
         "id": "cctv_5303",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-778.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-778.stream/playlist.m3u8",
         "name": "US 78 : E OF N DRUID HILLS RD"
     }, {
         "id": "cctv_7306",
@@ -7255,11 +7255,11 @@ const CAMERAS = {
         "name": "Centennial Olympic Park Dr : CNN Parking Deck"
     }, {
         "id": "cctv_7193",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-204.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-204.stream/playlist.m3u8",
         "name": "SR 8 (Ponce De Leon Ave) : Durant Pl"
     }, {
         "id": "cctv_15523",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-693.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-693.stream/playlist.m3u8",
         "name": "BIG SHANTY RD : W OF I-75 EXP LANE RAMPS"
     }, {
         "id": "cctv_10303",
@@ -7267,7 +7267,7 @@ const CAMERAS = {
         "name": "SUGARLOAF PKWY : PEACHTREE INDUSTRIAL BLVD"
     }, {
         "id": "cctv_4922",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-104.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-104.stream/playlist.m3u8",
         "name": "I-85 : INDIAN TRAIL"
     }, {
         "id": "cctv_10485",
@@ -7279,15 +7279,15 @@ const CAMERAS = {
         "name": "Luckie St : Baker St"
     }, {
         "id": "cctv_13674",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-217.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-217.stream/playlist.m3u8",
         "name": "SR 8 / Ponce De Leon Ave : Lullwater Rd"
     }, {
         "id": "cctv_5189",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-005.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-005.stream/playlist.m3u8",
         "name": "75/85 : UNIVERSITY AVE"
     }, {
         "id": "cctv_13333",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-764.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-764.stream/playlist.m3u8",
         "name": "I-75 : BEFORE SR 155"
     }, {
         "id": "cctv_13153",
@@ -7295,11 +7295,11 @@ const CAMERAS = {
         "name": "Old Roswell : Commerce Pkwy"
     }, {
         "id": "cctv_5187",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-048.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-048.stream/playlist.m3u8",
         "name": "SR 166 : I-285"
     }, {
         "id": "cctv_5391",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-954.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-954.stream/playlist.m3u8",
         "name": "I-285 : S OF BOLTON RD"
     }, {
         "id": "cctv_46295",
@@ -7307,7 +7307,7 @@ const CAMERAS = {
         "name": "US 78 : BRAND RD - OLD LOGANVILLE RD"
     }, {
         "id": "cctv_7224",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-018.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-018.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Tower Place"
     }, {
         "id": "cctv_10532",
@@ -7323,11 +7323,11 @@ const CAMERAS = {
         "name": "SR 20 : Tech Center Pkwy"
     }, {
         "id": "cctv_5024",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-258.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-258.stream/playlist.m3u8",
         "name": "I-285 : N OF GLENWOOD RD"
     }, {
         "id": "cctv_15307",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-936.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-936.stream/playlist.m3u8",
         "name": "Centennial Olympic Park Dr : Andrew Young Intl Blvd (North)"
     }, {
         "id": "cctv_13119",
@@ -7335,7 +7335,7 @@ const CAMERAS = {
         "name": "SR 120 / Roswell Rd : Heritage Glen"
     }, {
         "id": "cctv_5403",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-965.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-965.stream/playlist.m3u8",
         "name": "I-285 : EXIT TO ATLANTA RD"
     }, {
         "id": "cctv_46316",
@@ -7363,7 +7363,7 @@ const CAMERAS = {
         "name": "Cumberland Blvd : Interstate North Pkwy"
     }, {
         "id": "cctv_5062",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-326.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-326.stream/playlist.m3u8",
         "name": "I-20 : 285 NB EXIT"
     }, {
         "id": "cctv_6853",
@@ -7379,15 +7379,15 @@ const CAMERAS = {
         "name": "SR 166/ E Woodberry Ave : Stanton Rd"
     }, {
         "id": "cctv_13566",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-308.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-308.stream/playlist.m3u8",
         "name": "SR 155 (Candler Rd) : HF Shepherd Dr / Rainbow Way"
     }, {
         "id": "cctv_5126",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-401.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-401.stream/playlist.m3u8",
         "name": "I-75 : I-285 WB EXIT"
     }, {
         "id": "cctv_13364",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-737.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-737.stream/playlist.m3u8",
         "name": "I-75 : 1 MI N OF HUDSON BR RD"
     }, {
         "id": "cctv_10316",
@@ -7395,7 +7395,7 @@ const CAMERAS = {
         "name": "SUGARLOAF PKWY : GWINNETT FAIRGROUNDS"
     }, {
         "id": "cctv_5151",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-424.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-424.stream/playlist.m3u8",
         "name": "I-75 : I-575"
     }, {
         "id": "cctv_10277",
@@ -7403,15 +7403,15 @@ const CAMERAS = {
         "name": "SR 10 : Ross Rd"
     }, {
         "id": "cctv_5244",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-060.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-060.stream/playlist.m3u8",
         "name": "SR 166 : US 19"
     }, {
         "id": "cctv_32530",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-971.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-971.stream/playlist.m3u8",
         "name": "I-285 : South of Paces Ferry Exit"
     }, {
         "id": "cctv_6314",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-230.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-230.stream/playlist.m3u8",
         "name": "SR 141 (Medlock Bridge Rd) : Parsons Rd"
     }, {
         "id": "cctv_15270",
@@ -7423,7 +7423,7 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : SR 120/S Marietta Pkwy"
     }, {
         "id": "cctv_4986",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-220.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-220.stream/playlist.m3u8",
         "name": "I-285 : E OF ASHFD-DNWDY"
     }, {
         "id": "cctv_10492",
@@ -7439,11 +7439,11 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Canton Conn looking NW"
     }, {
         "id": "cctv_15436",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-563.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-563.stream/playlist.m3u8",
         "name": "I-575 : RIDGEWALK PKY EXIT"
     }, {
         "id": "cctv_5026",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-026.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-026.stream/playlist.m3u8",
         "name": "I-75 : NEAR PEACHTREE BATTLE"
     }, {
         "id": "cctv_10264",
@@ -7455,11 +7455,11 @@ const CAMERAS = {
         "name": "PLEASANT HILL RD : SUMMIT RIDGE PKWY"
     }, {
         "id": "cctv_5071",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-334.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-334.stream/playlist.m3u8",
         "name": "I-20 : W OF MLK JR DR"
     }, {
         "id": "cctv_13213",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-225.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-225.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Hawk#10"
     }, {
         "id": "cctv_46429",
@@ -7467,7 +7467,7 @@ const CAMERAS = {
         "name": "SR 14/ US 29/ N. Main : Harold Sheets Conn"
     }, {
         "id": "cctv_5273",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-070.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-070.stream/playlist.m3u8",
         "name": "I-75 : S OF 285 (SOUTH SIDE)"
     }, {
         "id": "cctv_13198",
@@ -7483,11 +7483,11 @@ const CAMERAS = {
         "name": "GA 14 ALT/ South Fulton Pkwy : Derrick Rd"
     }, {
         "id": "cctv_15960",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-160.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-160.stream/playlist.m3u8",
         "name": "I-85 : I-985 ENTRANCE"
     }, {
         "id": "cctv_5336",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-832.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-832.stream/playlist.m3u8",
         "name": "GA 400 : NORTHRIDGE RD"
     }, {
         "id": "cctv_7326",
@@ -7499,7 +7499,7 @@ const CAMERAS = {
         "name": "GA 279/ Old National Hwy : Woodward Rd"
     }, {
         "id": "cctv_4941",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-018.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-018.stream/playlist.m3u8",
         "name": "75/85 : S OF 10TH ST"
     }, {
         "id": "cctv_10196",
@@ -7507,7 +7507,7 @@ const CAMERAS = {
         "name": "SR 10 : Joe Hewatt Rd"
     }, {
         "id": "cctv_12970",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-815.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-815.stream/playlist.m3u8",
         "name": "GA 400 : S OF LENOX RD/SR 141 CONN"
     }, {
         "id": "cctv_10324",
@@ -7515,11 +7515,11 @@ const CAMERAS = {
         "name": "PLEASANT HILL RD : CORLEY PL"
     }, {
         "id": "cctv_5068",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-331.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-331.stream/playlist.m3u8",
         "name": "I-20 : HOLMES DRIVE"
     }, {
         "id": "cctv_13307",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-037.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-037.stream/playlist.m3u8",
         "name": "SR 12 (Covington Hwy) : Young Rd / Hidden Creek Dr"
     }, {
         "id": "cctv_13357",
@@ -7531,15 +7531,15 @@ const CAMERAS = {
         "name": "SR 6 : Brownsville Rd"
     }, {
         "id": "cctv_16095",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-422.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-422.stream/playlist.m3u8",
         "name": "SR 154 / Memorial Dr : Hill St"
     }, {
         "id": "cctv_4954",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-191.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-191.stream/playlist.m3u8",
         "name": "I-85 : I-285 EXIT"
     }, {
         "id": "cctv_15473",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-498.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-498.stream/playlist.m3u8",
         "name": "SR 3/ROSWELL RD : E OF I-75 EXP ON/OFF"
     }, {
         "id": "cctv_7336",
@@ -7551,7 +7551,7 @@ const CAMERAS = {
         "name": "SR 3 / Tara Blvd : Battle Creek Rd"
     }, {
         "id": "cctv_5348",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-845.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-845.stream/playlist.m3u8",
         "name": "GA 400 : N OF WEBB BR RD"
     }, {
         "id": "cctv_13650",
@@ -7559,7 +7559,7 @@ const CAMERAS = {
         "name": "Windy Hill Rd : I-75 SB Ramp"
     }, {
         "id": "cctv_5429",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-132.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-132.stream/playlist.m3u8",
         "name": "I-85 : N OF SUGARLOAF PKWY"
     }, {
         "id": "cctv_46460",
@@ -7567,11 +7567,11 @@ const CAMERAS = {
         "name": "75/85 : N OF 5th ST"
     }, {
         "id": "cctv_15275",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-913.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-913.stream/playlist.m3u8",
         "name": "Ivan Allen Jr Blvd : Williams St"
     }, {
         "id": "cctv_5207",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-515.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-515.stream/playlist.m3u8",
         "name": "I-575 : HWY 92"
     }, {
         "id": "cctv_9170",
@@ -7579,7 +7579,7 @@ const CAMERAS = {
         "name": "EW Connector : Cooper Lake Rd"
     }, {
         "id": "cctv_5323",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-796.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-796.stream/playlist.m3u8",
         "name": "US 78 : W PARK PL BLVD"
     }, {
         "id": "cctv_10250",
@@ -7587,7 +7587,7 @@ const CAMERAS = {
         "name": "SR 378 : SATELLITE BLVD"
     }, {
         "id": "cctv_10175",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-104.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-104.stream/playlist.m3u8",
         "name": "SR 85 : Fun Spot America Park"
     }, {
         "id": "cctv_9038",
@@ -7595,19 +7595,19 @@ const CAMERAS = {
         "name": "SR 9 : Hembree Rd"
     }, {
         "id": "cctv_9057",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-044.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-044.stream/playlist.m3u8",
         "name": "W Paces Ferry Rd : I-75 SB Ramp"
     }, {
         "id": "cctv_5015",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-247.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-247.stream/playlist.m3u8",
         "name": "I-285 : S OF STN MT FWY / US 78"
     }, {
         "id": "cctv_16083",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-092.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-092.stream/playlist.m3u8",
         "name": "SR 6 : Westfork Dr"
     }, {
         "id": "cctv_15529",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-491.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-491.stream/playlist.m3u8",
         "name": "I-75 : SR 5/CANTON RD EXIT"
     }, {
         "id": "cctv_16204",
@@ -7631,27 +7631,27 @@ const CAMERAS = {
         "name": "Atlanta Rd : West Atlanta St"
     }, {
         "id": "cctv_5106",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-366.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-366.stream/playlist.m3u8",
         "name": "I-20 : FLAT SHOALS"
     }, {
         "id": "cctv_46506",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-092.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-092.stream/playlist.m3u8",
         "name": "SR 3/Northside Dr : I-75 NB Ramp"
     }, {
         "id": "cctv_4974",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-021.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-021.stream/playlist.m3u8",
         "name": "I-75 : BROOKWOOD INTRCHGE"
     }, {
         "id": "cctv_7203",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-099.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-099.stream/playlist.m3u8",
         "name": "SR 141 (Medlock Bridge Rd) : Johns Creek Pkwy S"
     }, {
         "id": "cctv_5943",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-725.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-725.stream/playlist.m3u8",
         "name": "I-75 : HUDSON BR RAMP METER"
     }, {
         "id": "cctv_13582",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-227.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-227.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Jesse Norman Way"
     }, {
         "id": "cctv_16317",
@@ -7659,7 +7659,7 @@ const CAMERAS = {
         "name": "Barrett Lakes Blvd : Big Shanty Rd"
     }, {
         "id": "cctv_13252",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-036.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-036.stream/playlist.m3u8",
         "name": "SR 12 (Covington Hwy) : S Hairston Rd"
     }, {
         "id": "cctv_12941",
@@ -7671,7 +7671,7 @@ const CAMERAS = {
         "name": "Johnson Ferry Rd : Paper Mill Rd"
     }, {
         "id": "cctv_4994",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-228.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-228.stream/playlist.m3u8",
         "name": "I-285 : PEACHTREE INDUS"
     }, {
         "id": "cctv_15295",
@@ -7679,7 +7679,7 @@ const CAMERAS = {
         "name": "Marietta St : Andrew Young Intl Blvd"
     }, {
         "id": "cctv_5265",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-666.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-666.stream/playlist.m3u8",
         "name": "I-285 : CD LANES - NO TRAFFIC"
     }, {
         "id": "cctv_13087",
@@ -7687,15 +7687,15 @@ const CAMERAS = {
         "name": "Cumberland Blvd : Akers Mill Rd South"
     }, {
         "id": "cctv_5311",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-785.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-785.stream/playlist.m3u8",
         "name": "US 78 : E OF MTN INDUST BLVD"
     }, {
         "id": "cctv_4962",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-199.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-199.stream/playlist.m3u8",
         "name": "I-85 : 1/2 MI S OF CAMP CRK"
     }, {
         "id": "cctv_5083",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-345.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-345.stream/playlist.m3u8",
         "name": "I-20 : MCDANIEL ST"
     }, {
         "id": "cctv_16061",
@@ -7707,11 +7707,11 @@ const CAMERAS = {
         "name": "Monroe Dr : Armour Dr"
     }, {
         "id": "cctv_5056",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-300.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-300.stream/playlist.m3u8",
         "name": "I-20 : WINDSOR ST RAMP METER"
     }, {
         "id": "cctv_5356",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-852.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-852.stream/playlist.m3u8",
         "name": "GA 400 : S OF MCFARLAND RD"
     }, {
         "id": "cctv_13750",
@@ -7723,7 +7723,7 @@ const CAMERAS = {
         "name": "SR 331 Forest Parkway : West St (camera)"
     }, {
         "id": "cctv_5088",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-035.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-035.stream/playlist.m3u8",
         "name": "I-85 : MARTA OVERPASS"
     }, {
         "id": "cctv_12940",
@@ -7739,7 +7739,7 @@ const CAMERAS = {
         "name": "SATELLITE BLVD : S of WILDWOOD RD"
     }, {
         "id": "cctv_5143",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-417.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-417.stream/playlist.m3u8",
         "name": "I-75 : N OF ALLGOOD RD"
     }, {
         "id": "cctv_46282",
@@ -7751,11 +7751,11 @@ const CAMERAS = {
         "name": "SR 120/Whitlock Ave : Lindley Ave/Kirkpatrick Dr"
     }, {
         "id": "cctv_5219",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-056.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-056.stream/playlist.m3u8",
         "name": "SR 166 : W OF US 29/MAIN ST"
     }, {
         "id": "cctv_5233",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-590.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-590.stream/playlist.m3u8",
         "name": "SR 141 (Peachtree Parkway) : S of Scientific Dr"
     }, {
         "id": "cctv_10259",
@@ -7767,7 +7767,7 @@ const CAMERAS = {
         "name": "Peachtree Center Ave : Andrew Young International Blvd"
     }, {
         "id": "cctv_5002",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-235.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-235.stream/playlist.m3u8",
         "name": "I-285 : CHAMBLEE-TCKR"
     }, {
         "id": "cctv_9186",
@@ -7779,7 +7779,7 @@ const CAMERAS = {
         "name": "SR 331 / Forest Pkwy : Lake Dr"
     }, {
         "id": "cctv_13235",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-763.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-763.stream/playlist.m3u8",
         "name": "I-75 : 1 MI S OF SR 155"
     }, {
         "id": "cctv_46304",
@@ -7795,7 +7795,7 @@ const CAMERAS = {
         "name": "SR 316 : E OF SR 20"
     }, {
         "id": "cctv_13671",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-231.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-231.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : McElroy Rd"
     }, {
         "id": "cctv_15331",
@@ -7803,7 +7803,7 @@ const CAMERAS = {
         "name": "Martin Luther King Jr Dr : Piedmont Ave / Capitol Ave"
     }, {
         "id": "cctv_5257",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-659.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-659.stream/playlist.m3u8",
         "name": "I-285 : MAIN LANES NO. 4"
     }, {
         "id": "cctv_13732",
@@ -7823,7 +7823,7 @@ const CAMERAS = {
         "name": "SR 8 (Veterans Memorial Hwy) : Austell-Powder Springs Rd"
     }, {
         "id": "cctv_13230",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-089.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-089.stream/playlist.m3u8",
         "name": "SR 3 / Northside Dr : Bellemeade Ave"
     }, {
         "id": "cctv_46454",
@@ -7831,7 +7831,7 @@ const CAMERAS = {
         "name": "GA 14 ALT/ South Fulton Pkwy : GA 92/ Campbellton/ Fairburn Rd"
     }, {
         "id": "cctv_5384",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-947.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-947.stream/playlist.m3u8",
         "name": "I-285 : MLK JR DR"
     }, {
         "id": "cctv_16233",
@@ -7847,7 +7847,7 @@ const CAMERAS = {
         "name": "SR 138 : SPIVEY RD"
     }, {
         "id": "cctv_5054",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-003.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-003.stream/playlist.m3u8",
         "name": "75/85 : LANGFORD PKWY"
     }, {
         "id": "cctv_10313",
@@ -7855,15 +7855,15 @@ const CAMERAS = {
         "name": "SUGARLOAF PKWY : LAWRENCEVILLE-SUWANEE RD"
     }, {
         "id": "cctv_15990",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-176.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-176.stream/playlist.m3u8",
         "name": "I-85 : AT HAMILTON MILL"
     }, {
         "id": "cctv_5353",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-085.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-085.stream/playlist.m3u8",
         "name": "I-85 : N OF PLEASANTDALE RD"
     }, {
         "id": "cctv_15266",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-309.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-309.stream/playlist.m3u8",
         "name": "SR 155 (Candler Rd) : S Rainbow Dr"
     }, {
         "id": "cctv_16243",
@@ -7891,7 +7891,7 @@ const CAMERAS = {
         "name": "Sandy Plains Rd : Wesley Chapel Rd"
     }, {
         "id": "cctv_6307",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-016.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-016.stream/playlist.m3u8",
         "name": "SR 92 / Woodstock Rd : Canton Rd / SR 5 Conn"
     }, {
         "id": "cctv_9120",
@@ -7899,7 +7899,7 @@ const CAMERAS = {
         "name": "SR 5/Austell Rd : Milford Ch Rd"
     }, {
         "id": "cctv_5389",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-952.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-952.stream/playlist.m3u8",
         "name": "I-285 : S OF HOLLOWELL PKWY"
     }, {
         "id": "cctv_6831",
@@ -7911,7 +7911,7 @@ const CAMERAS = {
         "name": "SR 20 : Buford Mill Dr / Mill Creek Crossing"
     }, {
         "id": "cctv_5718",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-121.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-121.stream/playlist.m3u8",
         "name": "I-85 : 1/2 MI N OF PLSNTDLE"
     }, {
         "id": "cctv_9169",
@@ -7919,11 +7919,11 @@ const CAMERAS = {
         "name": "EW Connector : Asquith Ave"
     }, {
         "id": "cctv_5239",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-596.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-596.stream/playlist.m3u8",
         "name": "SR 141 : S OF JONES MILL RD"
     }, {
         "id": "cctv_5422",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-125.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-125.stream/playlist.m3u8",
         "name": "I-85 : SR 316 EXIT"
     }, {
         "id": "cctv_32580",
@@ -7939,7 +7939,7 @@ const CAMERAS = {
         "name": "SR 54 : Harper Dr / Huie Rd"
     }, {
         "id": "cctv_5315",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-789.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-789.stream/playlist.m3u8",
         "name": "US 78 : E OF STN MTN BYPASS"
     }, {
         "id": "cctv_16258",
@@ -7947,7 +7947,7 @@ const CAMERAS = {
         "name": "Edgewood Ave : Courtland St"
     }, {
         "id": "cctv_5089",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-350.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-350.stream/playlist.m3u8",
         "name": "I-20 : CAPITOL AVE"
     }, {
         "id": "cctv_7348",
@@ -7955,11 +7955,11 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Jiles/Pine Mountain Rd"
     }, {
         "id": "cctv_10169",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-030.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-030.stream/playlist.m3u8",
         "name": "SR 92 / Alabama Rd : Robin Rd"
     }, {
         "id": "cctv_5000",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-233.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-233.stream/playlist.m3u8",
         "name": "I-285 : MORELAND INTRCHGE"
     }, {
         "id": "cctv_16251",
@@ -7967,7 +7967,7 @@ const CAMERAS = {
         "name": "Jones Bridge Rd : Promenade Shopping Center"
     }, {
         "id": "cctv_7208",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-004.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-004.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd : Pharr Rd"
     }, {
         "id": "cctv_10367",
@@ -7975,15 +7975,15 @@ const CAMERAS = {
         "name": "SR 10 : SR 84 (Grayson Parkway)"
     }, {
         "id": "cctv_5332",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-829.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-829.stream/playlist.m3u8",
         "name": "GA 400 : SPALDING DR"
     }, {
         "id": "cctv_4929",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-110.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-110.stream/playlist.m3u8",
         "name": "I-85 : PLEASANT HILL"
     }, {
         "id": "cctv_5194",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-503.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-503.stream/playlist.m3u8",
         "name": "I-575 : BARRETT PKWY ENT RAMP"
     }, {
         "id": "cctv_15329",
@@ -7995,11 +7995,11 @@ const CAMERAS = {
         "name": "SR 124 : NORRIS LAKE RD / SMOKE CREEK PKWY"
     }, {
         "id": "cctv_15557",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-250.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-250.stream/playlist.m3u8",
         "name": "Shallowford Rd : Chamblee-Tucker Rd"
     }, {
         "id": "cctv_5375",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-939.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-939.stream/playlist.m3u8",
         "name": "I-285 : LANGFORD PKWY"
     }, {
         "id": "cctv_15383",
@@ -8007,15 +8007,15 @@ const CAMERAS = {
         "name": "Piedmont Ave : Baker St"
     }, {
         "id": "cctv_5037",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-027.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-027.stream/playlist.m3u8",
         "name": "I-75 : N OF MOORES MILL RD"
     }, {
         "id": "cctv_5156",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-429.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-429.stream/playlist.m3u8",
         "name": "I-75 : BARRETT PKWY ENT"
     }, {
         "id": "cctv_5409",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-970.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-970.stream/playlist.m3u8",
         "name": "I-285 : N OF WILKINSON PKWY"
     }, {
         "id": "cctv_9073",
@@ -8023,19 +8023,19 @@ const CAMERAS = {
         "name": "Windward Pkwy : Windward Concourse"
     }, {
         "id": "cctv_13314",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-158.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-158.stream/playlist.m3u8",
         "name": "SR 10 (Memorial Drive) : N Hairston Rd"
     }, {
         "id": "cctv_5139",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-413.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-413.stream/playlist.m3u8",
         "name": "I-75 : N 120 LOOP"
     }, {
         "id": "cctv_5341",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-837.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-837.stream/playlist.m3u8",
         "name": "GA 400 : HOLCOMB BR RD"
     }, {
         "id": "cctv_5396",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-959.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-959.stream/playlist.m3u8",
         "name": "I-285 : 1/2 MI S OF S COBB DR"
     }, {
         "id": "cctv_32594",
@@ -8043,19 +8043,19 @@ const CAMERAS = {
         "name": "Austell Rd : Callaway Rd"
     }, {
         "id": "cctv_13306",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-035.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-035.stream/playlist.m3u8",
         "name": "SR 12 (Covington Hwy) : Bethune Middle School"
     }, {
         "id": "cctv_6859",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-020.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-020.stream/playlist.m3u8",
         "name": "SR 92 / Woodstock Rd : Parkway 575"
     }, {
         "id": "cctv_7221",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-008.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-008.stream/playlist.m3u8",
         "name": "SR 9 / Peachtree Rd NE : Lindbergh Dr NE"
     }, {
         "id": "cctv_5374",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-938.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-938.stream/playlist.m3u8",
         "name": "I-285 : GREENBRIAR PKWY"
     }, {
         "id": "cctv_32946",
@@ -8067,11 +8067,11 @@ const CAMERAS = {
         "name": "SR 85 : Atlanta South Pkwy"
     }, {
         "id": "cctv_13348",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/brok-cam-154.stream/playlist.m3u8",
+        "stream": "/georgiavss1/brok-cam-154.stream/playlist.m3u8",
         "name": "SR 155 / Clairmont Rd : Century Blvd / Clairmont Way"
     }, {
         "id": "cctv_5163",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-435.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-435.stream/playlist.m3u8",
         "name": "I-75 : EXIT TO CHASTAIN RD"
     }, {
         "id": "cctv_10473",
@@ -8079,23 +8079,23 @@ const CAMERAS = {
         "name": "SR 138 : SR 314"
     }, {
         "id": "cctv_13280",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-757.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-757.stream/playlist.m3u8",
         "name": "I-75 : AT SR 20/81 ENTR"
     }, {
         "id": "cctv_13276",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-742.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-742.stream/playlist.m3u8",
         "name": "I-75 : S OF HUDSON BR"
     }, {
         "id": "cctv_8800",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-383.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-383.stream/playlist.m3u8",
         "name": "I-20 : NEAR PANOLA RD"
     }, {
         "id": "cctv_5411",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-098.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-098.stream/playlist.m3u8",
         "name": "75/85 : AT FAIR DR"
     }, {
         "id": "cctv_5178",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-449.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-449.stream/playlist.m3u8",
         "name": "I-75 : N OF WOODSTOCK RD"
     }, {
         "id": "cctv_7297",
@@ -8103,7 +8103,7 @@ const CAMERAS = {
         "name": "Barrett Pkwy : Barrett Lakes Blvd"
     }, {
         "id": "cctv_15578",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-628.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-628.stream/playlist.m3u8",
         "name": "I-285 : E OF I-75/EXP RAMPS"
     }, {
         "id": "cctv_32576",
@@ -8119,11 +8119,11 @@ const CAMERAS = {
         "name": "Mt. Vernon : Vermack/Manhasset"
     }, {
         "id": "cctv_5101",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-361.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-361.stream/playlist.m3u8",
         "name": "I-20 : E OF GLENWOOD AVE"
     }, {
         "id": "cctv_5711",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-252.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-252.stream/playlist.m3u8",
         "name": "I-285 : MEMORIAL DR"
     }, {
         "id": "cctv_16265",
@@ -8139,11 +8139,11 @@ const CAMERAS = {
         "name": "I-75 : EXPRESS LN ENTR/EXIT"
     }, {
         "id": "cctv_15504",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-493.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-493.stream/playlist.m3u8",
         "name": "I-75 : I-575 ENT RAMP"
     }, {
         "id": "cctv_5098",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-359.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-359.stream/playlist.m3u8",
         "name": "I-20 : MAYNARD TERRACE"
     }, {
         "id": "cctv_16307",
@@ -8167,15 +8167,15 @@ const CAMERAS = {
         "name": "SR 6 : Richard D. Sailors Pkwy"
     }, {
         "id": "cctv_6823",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cher-cam-011.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cher-cam-011.stream/playlist.m3u8",
         "name": "SR 92 / Woodstock Rd : Neese Rd"
     }, {
         "id": "cctv_5065",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-329.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-329.stream/playlist.m3u8",
         "name": "I-20 : LINKWOOD RD"
     }, {
         "id": "cctv_15595",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-623.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-623.stream/playlist.m3u8",
         "name": "I-285 : E OF STADIUM PED BRDG"
     }, {
         "id": "cctv_10434",
@@ -8187,11 +8187,11 @@ const CAMERAS = {
         "name": "Powers Ferry Rd : Delk Rd"
     }, {
         "id": "cctv_5962",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-618.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-618.stream/playlist.m3u8",
         "name": "I-675 : S OF I-285"
     }, {
         "id": "cctv_5168",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-044.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-044.stream/playlist.m3u8",
         "name": "I-85 : N OF SHALLOWFORD RD"
     }, {
         "id": "cctv_10253",
@@ -8203,7 +8203,7 @@ const CAMERAS = {
         "name": "SR 85 : Webb Rd / Warren Dr"
     }, {
         "id": "cctv_15592",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-625.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-625.stream/playlist.m3u8",
         "name": "I-285 : ON/OFF EXP RAMPS FOR I-75"
     }, {
         "id": "cctv_10378",
@@ -8211,7 +8211,7 @@ const CAMERAS = {
         "name": "DACULA RD : HURRICANE SHOALS RD"
     }, {
         "id": "cctv_5210",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-053.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-053.stream/playlist.m3u8",
         "name": "SR 166 : DELOWE DR"
     }, {
         "id": "cctv_10276",
@@ -8227,19 +8227,19 @@ const CAMERAS = {
         "name": "North Ave : West Peachtree St"
     }, {
         "id": "cctv_13246",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-746.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-746.stream/playlist.m3u8",
         "name": "I-75 : AT JODECO RD"
     }, {
         "id": "cctv_5394",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-957.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-957.stream/playlist.m3u8",
         "name": "I-285 : S OF CHATTAHOOCHEE RIVER"
     }, {
         "id": "cctv_15340",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-093.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-093.stream/playlist.m3u8",
         "name": "SR 6 : SR 8 / Bankhead Hwy"
     }, {
         "id": "cctv_9142",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-010.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-010.stream/playlist.m3u8",
         "name": "SR 141 / Peachtree Ind Blvd : N Peachtree Rd"
     }, {
         "id": "cctv_15185",
@@ -8259,7 +8259,7 @@ const CAMERAS = {
         "name": "SR 14/ US 29/ W. Broad St : GA 92/ Cambellton St"
     }, {
         "id": "cctv_5268",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-669.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-669.stream/playlist.m3u8",
         "name": "I-285 : E OF AIRPORT LOOP RD"
     }, {
         "id": "cctv_15357",
@@ -8275,7 +8275,7 @@ const CAMERAS = {
         "name": "SR 20 : Willow Lane / Old Ind Blvd"
     }, {
         "id": "cctv_13376",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-273.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-273.stream/playlist.m3u8",
         "name": "SR 8 (Hollowell Pkwy) : Kings Grant Dr / Yates Dr"
     }, {
         "id": "cctv_10489",
@@ -8287,7 +8287,7 @@ const CAMERAS = {
         "name": "Terrell Mill Rd : Old Paper Mill Rd"
     }, {
         "id": "cctv_5956",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-612.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-612.stream/playlist.m3u8",
         "name": "I-675 : ANVIL BLOCK RD"
     }, {
         "id": "cctv_13739",
@@ -8295,7 +8295,7 @@ const CAMERAS = {
         "name": "Dallas Hwy : John Ward Rd"
     }, {
         "id": "cctv_15433",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-305.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-305.stream/playlist.m3u8",
         "name": "I-20 : 0.75 MI EAST OF MIDWAY RD OVERPASS"
     }, {
         "id": "cctv_7358",
@@ -8307,11 +8307,11 @@ const CAMERAS = {
         "name": "SR 140 : Holcomb Woods Pkwy"
     }, {
         "id": "cctv_13300",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-726.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-726.stream/playlist.m3u8",
         "name": "I-75 : N OF FIELDER RD"
     }, {
         "id": "cctv_5250",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-652.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-652.stream/playlist.m3u8",
         "name": "I-285 : 5TH RUNWAY TUNNEL ENTRANCE"
     }, {
         "id": "cctv_10490",
@@ -8323,7 +8323,7 @@ const CAMERAS = {
         "name": "SR 3/Cobb Pkwy : Bells Ferry Rd"
     }, {
         "id": "cctv_13226",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fors-cam-002.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fors-cam-002.stream/playlist.m3u8",
         "name": "SR 20 (Buford Hwy) : SR 400 SB Ramps"
     }, {
         "id": "cctv_16221",
@@ -8351,11 +8351,11 @@ const CAMERAS = {
         "name": "PEACHTREE INDUSTRIAL BLVD : S OLD PEACHTREE RD"
     }, {
         "id": "cctv_8813",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-021.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-021.stream/playlist.m3u8",
         "name": "Sidney Marcus : Adina Dr"
     }, {
         "id": "cctv_15406",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-319.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-319.stream/playlist.m3u8",
         "name": "I-20 : Six Flags Pkwy"
     }, {
         "id": "cctv_7302",
@@ -8391,7 +8391,7 @@ const CAMERAS = {
         "name": "SR 42 (Moreland Ave) : Custer Ave"
     }, {
         "id": "cctv_15973",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-173.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-173.stream/playlist.m3u8",
         "name": "I-85 : N OF GRAVEL SPRINGS RD"
     }, {
         "id": "cctv_15364",
@@ -8407,7 +8407,7 @@ const CAMERAS = {
         "name": "Westside Pkwy : Avalon Way"
     }, {
         "id": "cctv_5076",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-339.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-339.stream/playlist.m3u8",
         "name": "I-20 : LANGHORN ST"
     }, {
         "id": "cctv_12908",
@@ -8419,31 +8419,31 @@ const CAMERAS = {
         "name": "Memorial Dr / Whitehall St : Peachtree St / Forsyth St"
     }, {
         "id": "cctv_13241",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-747.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-747.stream/playlist.m3u8",
         "name": "I-75 : S OF JODECO RD"
     }, {
         "id": "cctv_5010",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-242.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-242.stream/playlist.m3u8",
         "name": "I-285 : N OF LAWRENCEVILLE HWY"
     }, {
         "id": "cctv_13606",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-024.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-024.stream/playlist.m3u8",
         "name": "SR 120 (Old Milton Pkwy) : Siemens Driveway"
     }, {
         "id": "cctv_4975",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-210.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-210.stream/playlist.m3u8",
         "name": "I-285 : MT VERNON HWY"
     }, {
         "id": "cctv_8815",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-017.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-017.stream/playlist.m3u8",
         "name": "SR 237 / Piedmont Rd : Manor Apartments"
     }, {
         "id": "cctv_13341",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-752.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-752.stream/playlist.m3u8",
         "name": "I-75 : N OF SR 20/81"
     }, {
         "id": "cctv_15250",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-905.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-905.stream/playlist.m3u8",
         "name": "SR 9 (Peachtree St) : Buford Conn / I-85 NB Ramp"
     }, {
         "id": "cctv_9029",
@@ -8455,11 +8455,11 @@ const CAMERAS = {
         "name": "SR 400 NB : McFarland Pkwy"
     }, {
         "id": "cctv_15481",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-539.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-539.stream/playlist.m3u8",
         "name": "I-575 : EXIT TO BARRETT PKY"
     }, {
         "id": "cctv_4999",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-232.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-232.stream/playlist.m3u8",
         "name": "I-285 : W OF I-85 (DEKALB)"
     }, {
         "id": "cctv_15303",
@@ -8467,7 +8467,7 @@ const CAMERAS = {
         "name": "SR 14 (Peters St) : Walker St"
     }, {
         "id": "cctv_13093",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/doug-cam-038.stream/playlist.m3u8",
+        "stream": "/georgiavss1/doug-cam-038.stream/playlist.m3u8",
         "name": "SR 5 (Bill Arp Rd) : Stewart Pkwy"
     }, {
         "id": "cctv_32620",
@@ -8479,7 +8479,7 @@ const CAMERAS = {
         "name": "LAWRENCEVILLE-SUWANEE RD : OLD PEACHTREE RD"
     }, {
         "id": "cctv_13277",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-748.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-748.stream/playlist.m3u8",
         "name": "I-75 : AT JONESBORO RD EXIT"
     }, {
         "id": "cctv_46400",
@@ -8487,11 +8487,11 @@ const CAMERAS = {
         "name": "Perimeter Center Pkwy : Springwood Connector/Marriott"
     }, {
         "id": "cctv_4957",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-194.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-194.stream/playlist.m3u8",
         "name": "I-85 : OLD NATIONAL HWY"
     }, {
         "id": "cctv_9193",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-073.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-073.stream/playlist.m3u8",
         "name": "North Ave : N Highland Ave"
     }, {
         "id": "cctv_10214",
@@ -8499,7 +8499,7 @@ const CAMERAS = {
         "name": "SR 20 : Laurel Dr / BrandsMart USA"
     }, {
         "id": "cctv_5306",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-780.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-780.stream/playlist.m3u8",
         "name": "US 78 : E OF I-285"
     }, {
         "id": "cctv_7305",
@@ -8511,11 +8511,11 @@ const CAMERAS = {
         "name": "Old Alabama Rd : Autrey Mill MS"
     }, {
         "id": "cctv_15585",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-621.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-621.stream/playlist.m3u8",
         "name": "I-285 : MT WILKINSON PKY"
     }, {
         "id": "cctv_13688",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/dek-cam-151.stream/playlist.m3u8",
+        "stream": "/georgiavss1/dek-cam-151.stream/playlist.m3u8",
         "name": "SR 154 (Memorial Drive) : Columbia Dr"
     }, {
         "id": "cctv_7317",
@@ -8527,7 +8527,7 @@ const CAMERAS = {
         "name": "Douglas Blvd : Brightstar Rd"
     }, {
         "id": "cctv_5116",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-375.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-375.stream/playlist.m3u8",
         "name": "I-20 : I-285 (DEKALB)"
     }, {
         "id": "cctv_13149",
@@ -8539,7 +8539,7 @@ const CAMERAS = {
         "name": "SR 3 / Tara Blvd : South of Winding Way Ln"
     }, {
         "id": "cctv_5326",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-081.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-081.stream/playlist.m3u8",
         "name": "I-75 : CENTRAL / PORSCHE AVE"
     }, {
         "id": "cctv_46422",
@@ -8547,7 +8547,7 @@ const CAMERAS = {
         "name": "SR 92/ FAIRBURN RD : I-20 Eastbound"
     }, {
         "id": "cctv_5402",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-964.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-964.stream/playlist.m3u8",
         "name": "I-285 : S ATLANTA RD"
     }, {
         "id": "cctv_10406",
@@ -8571,11 +8571,11 @@ const CAMERAS = {
         "name": "Peachtree St : Ellis St"
     }, {
         "id": "cctv_15587",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-630.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-630.stream/playlist.m3u8",
         "name": "I-285 : W OF CHATT RIV"
     }, {
         "id": "cctv_13586",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-009.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-009.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Chamblee Tucker Rd"
     }, {
         "id": "cctv_13759",
@@ -8595,11 +8595,11 @@ const CAMERAS = {
         "name": "Old Alabama Rd : Nesbit Ferry Rd"
     }, {
         "id": "cctv_15509",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-478.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-478.stream/playlist.m3u8",
         "name": "TERRELL MILL RD : WEST OF I-75"
     }, {
         "id": "cctv_16217",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-250.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-250.stream/playlist.m3u8",
         "name": "SR 141 : Skyway Dr"
     }, {
         "id": "cctv_13770",
@@ -8607,7 +8607,7 @@ const CAMERAS = {
         "name": "SR 155 / Clairmont Rd : N Druid Hills Rd"
     }, {
         "id": "cctv_12974",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-813.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-813.stream/playlist.m3u8",
         "name": "GA 400 : SOUTH END OF TUNNEL"
     }, {
         "id": "cctv_9032",
@@ -8615,11 +8615,11 @@ const CAMERAS = {
         "name": "SR 9 : Woodstock St"
     }, {
         "id": "cctv_15956",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-164.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-164.stream/playlist.m3u8",
         "name": "I-85 : 1 MI S OF SR 20"
     }, {
         "id": "cctv_5017",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-249.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-249.stream/playlist.m3u8",
         "name": "I-285 : S OF CHURCH ST"
     }, {
         "id": "cctv_13762",
@@ -8643,7 +8643,7 @@ const CAMERAS = {
         "name": "SR 138 : SR 42 / N Henry Blvd"
     }, {
         "id": "cctv_6819",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cojc-cam-135.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cojc-cam-135.stream/playlist.m3u8",
         "name": "SR 141 (Medlock Bridge Rd) : Wilson Rd"
     }, {
         "id": "cctv_15211",
@@ -8651,7 +8651,7 @@ const CAMERAS = {
         "name": "Delk Rd : Bentley Rd/Woodsmill Dr"
     }, {
         "id": "cctv_15461",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/alph-cam-033.stream/playlist.m3u8",
+        "stream": "/georgiavss1/alph-cam-033.stream/playlist.m3u8",
         "name": "Westside Pkwy : Hawk"
     }, {
         "id": "cctv_12917",
@@ -8659,7 +8659,7 @@ const CAMERAS = {
         "name": "Dallas Hwy : West Sandtown Rd"
     }, {
         "id": "cctv_5175",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-446.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-446.stream/playlist.m3u8",
         "name": "I-75 : S OF WOODSTOCK RD"
     }, {
         "id": "cctv_15193",
@@ -8675,7 +8675,7 @@ const CAMERAS = {
         "name": "SR 13 / Buford Spring Conn : Armour Dr"
     }, {
         "id": "cctv_15284",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-919.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-919.stream/playlist.m3u8",
         "name": "Mitchell St : Mangum St"
     }, {
         "id": "cctv_10189",
@@ -8683,19 +8683,19 @@ const CAMERAS = {
         "name": "SR 140 : N Norcross-Tucker Rd / Brook Hollow Pkwy"
     }, {
         "id": "cctv_5278",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-707.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-707.stream/playlist.m3u8",
         "name": "I-75 : S OF MT ZION BLVD"
     }, {
         "id": "cctv_13209",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/atl-cam-083.stream/playlist.m3u8",
+        "stream": "/georgiavss1/atl-cam-083.stream/playlist.m3u8",
         "name": "SR 3 (Northside Drive) : Mitchell St"
     }, {
         "id": "cctv_13320",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-738.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-738.stream/playlist.m3u8",
         "name": "I-75 : S OF FLIPPEN RD"
     }, {
         "id": "cctv_13256",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fors-cam-003.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fors-cam-003.stream/playlist.m3u8",
         "name": "SR 20 (Buford Hwy) : Northside Forsyth Dr / Marketplace Blvd"
     }, {
         "id": "cctv_10373",
@@ -8703,7 +8703,7 @@ const CAMERAS = {
         "name": "SR 324 : W of SR 124"
     }, {
         "id": "cctv_5043",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-275.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-275.stream/playlist.m3u8",
         "name": "I-285 : NEAR FOREST PARK RD"
     }, {
         "id": "cctv_7296",
@@ -8711,11 +8711,11 @@ const CAMERAS = {
         "name": "Barrett Pkwy : CMS (Old 41 Hwy)"
     }, {
         "id": "cctv_15477",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-488.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-488.stream/playlist.m3u8",
         "name": "I-75 : S OF ALLGOOD RD"
     }, {
         "id": "cctv_15989",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-167.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-167.stream/playlist.m3u8",
         "name": "I-85 : BEFORE SR 20"
     }, {
         "id": "cctv_7332",
@@ -8735,23 +8735,23 @@ const CAMERAS = {
         "name": "SR 140 : SR 141 (PIB) NB Ramp"
     }, {
         "id": "cctv_15575",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-476.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-476.stream/playlist.m3u8",
         "name": "TERRELL MILL RD : E OF I-75 EXP LANE RAMP"
     }, {
         "id": "cctv_5201",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-051.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-051.stream/playlist.m3u8",
         "name": "SR 166 : DODSON DR"
     }, {
         "id": "cctv_13338",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-729.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-729.stream/playlist.m3u8",
         "name": "I-75 : AT I-675"
     }, {
         "id": "cctv_13592",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/cham-cam-001.stream/playlist.m3u8",
+        "stream": "/georgiavss1/cham-cam-001.stream/playlist.m3u8",
         "name": "SR 13 / Buford Hwy : Plaza Fiesta"
     }, {
         "id": "cctv_12960",
-        "stream": "http://vss4live.dot.ga.gov:80/lo/gdot-cam-816.stream/playlist.m3u8",
+        "stream": "/georgiavss4/gdot-cam-816.stream/playlist.m3u8",
         "name": "GA 400 : LENOX RD/SR 141 CONN"
     }, {
         "id": "cctv_10202",
@@ -8759,7 +8759,7 @@ const CAMERAS = {
         "name": "STEVE REYNOLDS BLVD : SATELLITE BLVD"
     }, {
         "id": "cctv_5122",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/gdot-cam-039.stream/playlist.m3u8",
+        "stream": "/georgiavss2/gdot-cam-039.stream/playlist.m3u8",
         "name": "I-85 : S OF N DRUID HILLS RD"
     }, {
         "id": "cctv_7322",
@@ -8771,7 +8771,7 @@ const CAMERAS = {
         "name": "Mableton Pkwy : Old Alabama Rd"
     }, {
         "id": "cctv_15249",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-534.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-534.stream/playlist.m3u8",
         "name": "I-75 : S OF WOODSTOCK RD"
     }, {
         "id": "cctv_10481",
@@ -8812,7 +8812,7 @@ const CAMERAS = {
         "name": "SR 71 : WESTBROOK RD"
     }, {
         "id": "cctv_6003",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-012.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-012.stream/playlist.m3u8",
         "name": "I-475 : MILE POST 1.5"
     }, {
         "id": "cctv_32854",
@@ -8836,7 +8836,7 @@ const CAMERAS = {
         "name": "I-20 : EXT 24"
     }, {
         "id": "cctv_10176",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-109.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-109.stream/playlist.m3u8",
         "name": "SR 85 : SR 92 / Ramah Rd"
     }, {
         "id": "cctv_32553",
@@ -8900,7 +8900,7 @@ const CAMERAS = {
         "name": "I-75 : SR 151 / ALABAMA HWY"
     }, {
         "id": "cctv_6855",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-115.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-115.stream/playlist.m3u8",
         "name": "SR 85 : SR 54 WB / Lanier Ave"
     }, {
         "id": "cctv_15898",
@@ -8956,7 +8956,7 @@ const CAMERAS = {
         "name": "Wrightsboro Rd. : North Leg/Jackson Rd."
     }, {
         "id": "cctv_6010",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-019.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-019.stream/playlist.m3u8",
         "name": "I-475 : US 80 ENT RAMP"
     }, {
         "id": "cctv_15741",
@@ -9076,7 +9076,7 @@ const CAMERAS = {
         "name": "EISENHOWER PKWY : BLOOMFIELD DR"
     }, {
         "id": "cctv_10178",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-205.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-205.stream/playlist.m3u8",
         "name": "SR 314 : Beckette Ln / Pavilion Pkwy"
     }, {
         "id": "cctv_16096",
@@ -9084,7 +9084,7 @@ const CAMERAS = {
         "name": "SR 53 : SR 3"
     }, {
         "id": "cctv_6017",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-026.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-026.stream/playlist.m3u8",
         "name": "I-475 : MILE POST 7"
     }, {
         "id": "cctv_32641",
@@ -9180,7 +9180,7 @@ const CAMERAS = {
         "name": "I-95 : WELCOME CENTER - FL / GA LINE"
     }, {
         "id": "cctv_6242",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/ams-cam-111.stream/playlist.m3u8",
+        "stream": "/georgiavss1/ams-cam-111.stream/playlist.m3u8",
         "name": "SR 3 / Bear Creek Blvd : Oak St / AMS Main Gate"
     }, {
         "id": "cctv_16350",
@@ -9212,7 +9212,7 @@ const CAMERAS = {
         "name": "SR 38BU : HANSELL ST"
     }, {
         "id": "cctv_15242",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-537.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-537.stream/playlist.m3u8",
         "name": "I-75 : SR 92"
     }, {
         "id": "cctv_46470",
@@ -9428,7 +9428,7 @@ const CAMERAS = {
         "name": "I-75 : EXT 317"
     }, {
         "id": "cctv_6013",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-022.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-022.stream/playlist.m3u8",
         "name": "I-475 : MILE POST 4.5"
     }, {
         "id": "cctv_32548",
@@ -9488,7 +9488,7 @@ const CAMERAS = {
         "name": "SR 38 (East Oglethorpe Highway) : SR 196 (Leroy Coffer Highway)"
     }, {
         "id": "cctv_6040",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/ams-cam-113.stream/playlist.m3u8",
+        "stream": "/georgiavss1/ams-cam-113.stream/playlist.m3u8",
         "name": "SR 3 / Bear Creek Blvd : Speedway Blvd"
     }, {
         "id": "cctv_13275",
@@ -9556,7 +9556,7 @@ const CAMERAS = {
         "name": "SR 31 : SR 135"
     }, {
         "id": "cctv_6854",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-107.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-107.stream/playlist.m3u8",
         "name": "SR 85 : Pavilion Pkwy / Pine Trail Rd"
     }, {
         "id": "cctv_16194",
@@ -9600,7 +9600,7 @@ const CAMERAS = {
         "name": "Walton Way : 5th St."
     }, {
         "id": "cctv_6033",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-037.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-037.stream/playlist.m3u8",
         "name": "I-475 : 1 MI S OF ESTES RD"
     }, {
         "id": "cctv_46381",
@@ -9764,7 +9764,7 @@ const CAMERAS = {
         "name": "SR 81 : SR 138"
     }, {
         "id": "cctv_6009",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-018.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-018.stream/playlist.m3u8",
         "name": "I-475 : 1/2 MI S OF US 80"
     }, {
         "id": "cctv_15426",
@@ -9772,7 +9772,7 @@ const CAMERAS = {
         "name": "SR 16 : SR 92/HAMMOND DR"
     }, {
         "id": "cctv_6027",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-032.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-032.stream/playlist.m3u8",
         "name": "I-475 : EXIT TO ZEBULON RD"
     }, {
         "id": "cctv_46236",
@@ -9788,7 +9788,7 @@ const CAMERAS = {
         "name": "Washington Rd. : Bertram Rd."
     }, {
         "id": "cctv_6004",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-013.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-013.stream/playlist.m3u8",
         "name": "I-475 : MILE POST 1.5"
     }, {
         "id": "cctv_46388",
@@ -9916,7 +9916,7 @@ const CAMERAS = {
         "name": "I-20 : SR 22"
     }, {
         "id": "cctv_6848",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-108.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-108.stream/playlist.m3u8",
         "name": "I-75 : AT HARTLEY BR RD"
     }, {
         "id": "cctv_46540",
@@ -10056,7 +10056,7 @@ const CAMERAS = {
         "name": "Poplar Rd : I-85 SB ENT"
     }, {
         "id": "cctv_6016",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-025.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-025.stream/playlist.m3u8",
         "name": "I-475 : MILE POST 6"
     }, {
         "id": "cctv_32589",
@@ -10124,7 +10124,7 @@ const CAMERAS = {
         "name": "SR 113 : I-20 WB (EXIT 19)"
     }, {
         "id": "cctv_6000",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-009.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-009.stream/playlist.m3u8",
         "name": "I-475 : N OF HARTLEY BR RD"
     }, {
         "id": "cctv_5964",
@@ -10240,7 +10240,7 @@ const CAMERAS = {
         "name": "SR 100 : 1-20 WB (EXIT 5)"
     }, {
         "id": "cctv_10173",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-011.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-011.stream/playlist.m3u8",
         "name": "SR 54/Lanier Ave : Jeff Davis Dr"
     }, {
         "id": "cctv_16190",
@@ -10256,7 +10256,7 @@ const CAMERAS = {
         "name": "US 41/SR 49 : Industrial Hwy Conn."
     }, {
         "id": "cctv_5181",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-451.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-451.stream/playlist.m3u8",
         "name": "I-75 : S OF PRIEST RD"
     }, {
         "id": "cctv_6841",
@@ -10440,7 +10440,7 @@ const CAMERAS = {
         "name": "SR 61 : Tellus Dr"
     }, {
         "id": "cctv_6041",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/ams-cam-112.stream/playlist.m3u8",
+        "stream": "/georgiavss1/ams-cam-112.stream/playlist.m3u8",
         "name": "SR 3 / Bear Creek Blvd : SR 81 / Upper Woolsey Rd"
     }, {
         "id": "cctv_9131",
@@ -10512,7 +10512,7 @@ const CAMERAS = {
         "name": "Highland Ave. : Henry St."
     }, {
         "id": "cctv_6012",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-021.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-021.stream/playlist.m3u8",
         "name": "I-475 : COLUMBUS RD"
     }, {
         "id": "cctv_46333",
@@ -10536,7 +10536,7 @@ const CAMERAS = {
         "name": "RIVERSIDE DR : WIMBISH RD"
     }, {
         "id": "cctv_6031",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-035.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-035.stream/playlist.m3u8",
         "name": "I-475 : N OF COLARPARCHEE RD"
     }, {
         "id": "cctv_46542",
@@ -10628,7 +10628,7 @@ const CAMERAS = {
         "name": "SR 81 : OLD JACKSON RD"
     }, {
         "id": "cctv_6032",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-036.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-036.stream/playlist.m3u8",
         "name": "I-475 : 2 MI S OF ESTES RD"
     }, {
         "id": "cctv_16342",
@@ -10660,7 +10660,7 @@ const CAMERAS = {
         "name": "SR 61 : I-20 EB"
     }, {
         "id": "cctv_10174",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-010.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-010.stream/playlist.m3u8",
         "name": "SR 54/Stonewall Ave : Jeff Davis Dr"
     }, {
         "id": "cctv_5972",
@@ -10712,7 +10712,7 @@ const CAMERAS = {
         "name": "SR 247C / Watson Blvd : Houston Rd"
     }, {
         "id": "cctv_6026",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-031.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-031.stream/playlist.m3u8",
         "name": "I-475 : ZEBULON RD"
     }, {
         "id": "cctv_32655",
@@ -10764,15 +10764,15 @@ const CAMERAS = {
         "name": "Hwy 1 : Lumpkin Rd."
     }, {
         "id": "cctv_6835",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-110.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-110.stream/playlist.m3u8",
         "name": "SR 85 : Banks Rd"
     }, {
         "id": "cctv_6019",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-028.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-028.stream/playlist.m3u8",
         "name": "I-475 : REST AREA EXIT"
     }, {
         "id": "cctv_6850",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-112.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-112.stream/playlist.m3u8",
         "name": "I-475 : AT I-75 S Split"
     }, {
         "id": "cctv_16168",
@@ -10780,7 +10780,7 @@ const CAMERAS = {
         "name": "SR 140 : SR 5 CONN."
     }, {
         "id": "cctv_6005",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-014.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-014.stream/playlist.m3u8",
         "name": "I-475 : MILE POST 2"
     }, {
         "id": "cctv_16169",
@@ -10896,7 +10896,7 @@ const CAMERAS = {
         "name": "SR 196 : SR 119/ Airport Rd"
     }, {
         "id": "cctv_6015",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-024.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-024.stream/playlist.m3u8",
         "name": "I-475 : SR 74"
     }, {
         "id": "cctv_9306",
@@ -10912,7 +10912,7 @@ const CAMERAS = {
         "name": "Marks Church/Robert C Daniel : Wheeler Rd."
     }, {
         "id": "cctv_6035",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-039.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-039.stream/playlist.m3u8",
         "name": "I-475 : 1 MI S OF US 41/DIXIE HWY"
     }, {
         "id": "cctv_15236",
@@ -11000,7 +11000,7 @@ const CAMERAS = {
         "name": "I-75 : SR 113 (EXIT 288)"
     }, {
         "id": "cctv_6757",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-117.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-117.stream/playlist.m3u8",
         "name": "SR 85 : Grady Ave / Bradley Dr"
     }, {
         "id": "cctv_12952",
@@ -11008,7 +11008,7 @@ const CAMERAS = {
         "name": "I-85 : TROUP CO WEIGH STATION"
     }, {
         "id": "cctv_6036",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-040.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-040.stream/playlist.m3u8",
         "name": "I-475 : US 41"
     }, {
         "id": "cctv_32878",
@@ -11144,7 +11144,7 @@ const CAMERAS = {
         "name": "SR 34 Bypass : SR 16 / Temple Rd"
     }, {
         "id": "cctv_6001",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-010.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-010.stream/playlist.m3u8",
         "name": "I-475 : N OF HARTLEY BR RD"
     }, {
         "id": "cctv_46261",
@@ -11228,7 +11228,7 @@ const CAMERAS = {
         "name": "SR 1/VETERANS PKY : SR 85/MANCHESTER EXP"
     }, {
         "id": "cctv_6002",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-011.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-011.stream/playlist.m3u8",
         "name": "I-475 : MILE POST 1"
     }, {
         "id": "cctv_6843",
@@ -11276,7 +11276,7 @@ const CAMERAS = {
         "name": "SR 26/US 80 : MILLS B. LANE BLVD"
     }, {
         "id": "cctv_6030",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-034.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-034.stream/playlist.m3u8",
         "name": "I-475 : S OF COLAPARCCHEE RD"
     }, {
         "id": "cctv_16332",
@@ -11316,7 +11316,7 @@ const CAMERAS = {
         "name": "SR 316 : Kilcrease Rd"
     }, {
         "id": "cctv_6844",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-111.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-111.stream/playlist.m3u8",
         "name": "I-75 : AT I-475"
     }, {
         "id": "cctv_16108",
@@ -11328,7 +11328,7 @@ const CAMERAS = {
         "name": "SR520 : MONROE ST"
     }, {
         "id": "cctv_10177",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-202.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-202.stream/playlist.m3u8",
         "name": "SR 314 : Banks Rd / White Rd"
     }, {
         "id": "cctv_16337",
@@ -11356,7 +11356,7 @@ const CAMERAS = {
         "name": "Hwy 25 : Windsor Spring Rd."
     }, {
         "id": "cctv_5987",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-525.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-525.stream/playlist.m3u8",
         "name": "HARDEMAN AVE : AT I-75 SB RAMP"
     }, {
         "id": "cctv_46533",
@@ -11388,7 +11388,7 @@ const CAMERAS = {
         "name": "SR 61 : SR113/293"
     }, {
         "id": "cctv_6011",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-020.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-020.stream/playlist.m3u8",
         "name": "I-475 : US 80/EISENHOWER PKWY"
     }, {
         "id": "cctv_32831",
@@ -11412,7 +11412,7 @@ const CAMERAS = {
         "name": "SR 1 : WASHINGTON ST"
     }, {
         "id": "cctv_6029",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-033.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-033.stream/playlist.m3u8",
         "name": "I-475 : 1 MI N OF ZEBULON RD"
     }, {
         "id": "cctv_32644",
@@ -11504,7 +11504,7 @@ const CAMERAS = {
         "name": "SR 27 : Crispen Blvd"
     }, {
         "id": "cctv_6018",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-027.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-027.stream/playlist.m3u8",
         "name": "I-475 : TUCKER RD"
     }, {
         "id": "cctv_32863",
@@ -11632,7 +11632,7 @@ const CAMERAS = {
         "name": "SR 3 / Tara Blvd : Lovejoy Rd"
     }, {
         "id": "cctv_6034",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-038.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-038.stream/playlist.m3u8",
         "name": "I-475 : ESTES RD"
     }, {
         "id": "cctv_16299",
@@ -11696,7 +11696,7 @@ const CAMERAS = {
         "name": "SR 1 : Riverside Pkwy"
     }, {
         "id": "cctv_6007",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-016.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-016.stream/playlist.m3u8",
         "name": "I-475 : 1 MI S OF US 80"
     }, {
         "id": "cctv_16164",
@@ -11768,7 +11768,7 @@ const CAMERAS = {
         "name": "SR 3/ SBR : SR 38 Bu. SMITH ST"
     }, {
         "id": "cctv_6039",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/ams-cam-114.stream/playlist.m3u8",
+        "stream": "/georgiavss1/ams-cam-114.stream/playlist.m3u8",
         "name": "SR 3 / Bear Creek Blvd : Woolsey Rd"
     }, {
         "id": "cctv_32939",
@@ -11780,7 +11780,7 @@ const CAMERAS = {
         "name": "I-16 : SR 119"
     }, {
         "id": "cctv_15724",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-535.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-535.stream/playlist.m3u8",
         "name": "I-75 : S OF PRIEST RD"
     }, {
         "id": "cctv_13102",
@@ -11792,7 +11792,7 @@ const CAMERAS = {
         "name": "Walton Way : Fleming Ave."
     }, {
         "id": "cctv_6047",
-        "stream": "http://vss2live.dot.ga.gov:80/lo/ams-cam-901.stream/playlist.m3u8",
+        "stream": "/georgiavss2/ams-cam-901.stream/playlist.m3u8",
         "name": "SR 20 : SR 3 OVERPASS"
     }, {
         "id": "cctv_15742",
@@ -11824,7 +11824,7 @@ const CAMERAS = {
         "name": "SR 4 : SR 15"
     }, {
         "id": "cctv_6025",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-030.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-030.stream/playlist.m3u8",
         "name": "I-475 : PEAKE RD"
     }, {
         "id": "cctv_15615",
@@ -11864,7 +11864,7 @@ const CAMERAS = {
         "name": "I-985 : S OF HOWARD RD"
     }, {
         "id": "cctv_5183",
-        "stream": "http://vss3live.dot.ga.gov:80/lo/gdot-cam-453.stream/playlist.m3u8",
+        "stream": "/georgiavss3/gdot-cam-453.stream/playlist.m3u8",
         "name": "I-75 : N OF SR 92"
     }, {
         "id": "cctv_9013",
@@ -11888,7 +11888,7 @@ const CAMERAS = {
         "name": "SR 8 : SR 113"
     }, {
         "id": "cctv_6014",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-023.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-023.stream/playlist.m3u8",
         "name": "I-475 : MILE POST 5"
     }, {
         "id": "cctv_32646",
@@ -11992,7 +11992,7 @@ const CAMERAS = {
         "name": "SR 54 : VETERANS PKY/LESTER RD"
     }, {
         "id": "cctv_6856",
-        "stream": "http://vss1live.dot.ga.gov:80/lo/fay-cam-114.stream/playlist.m3u8",
+        "stream": "/georgiavss1/fay-cam-114.stream/playlist.m3u8",
         "name": "SR 85 : SR 92 / Forrest Ave"
     }, {
         "id": "cctv_15540",
@@ -12016,7 +12016,7 @@ const CAMERAS = {
         "name": "Washington Rd. : Woodbine Rd./East Vineland"
     }, {
         "id": "cctv_15326",
-        "stream": "http://vss5live.dot.ga.gov:80/lo/bibb-cam-043.stream/playlist.m3u8",
+        "stream": "/georgiavss5/bibb-cam-043.stream/playlist.m3u8",
         "name": "I-475 : I-75N"
     }, {
         "id": "cctv_32857",

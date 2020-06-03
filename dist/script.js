@@ -110,7 +110,11 @@ function makeCameraStream(camera) {
     video.controls = true;
     if (Hls.isSupported()) {
       const hls = new Hls({manifestLoadingTimeOut: 60000});
-      hls.loadSource(camera.stream);
+      if (location.hostname === 'localhost' && camera.stream.startsWith('/')) {
+        hls.loadSource('https://pig.observer' + camera.stream);
+      } else {
+        hls.loadSource(camera.stream);
+      }
       hls.attachMedia(video);
       hls.on(Hls.Events.MANIFEST_PARSED, function () {
         video.play();
@@ -164,6 +168,9 @@ function makeCameraStream(camera) {
     // listened-for when the URL is not on the white-list is 'loadedmetadata'.
     else if (video.canPlayType("application/vnd.apple.mpegurl")) {
       video.src = camera.stream;
+      if (location.hostname === 'localhost' && camera.stream.startsWith('/')) {
+        video.src = 'https://pig.observer' + camera.stream;
+      }
       video.addEventListener("loadedmetadata", function () {
         video.play();
       });
