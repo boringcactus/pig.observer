@@ -1,4 +1,4 @@
-/* global Hls, dragula, CAMERAS */
+/* global Hls, dragula, CAMERAS, DEFAULTS */
 
 const STATE = loadState();
 
@@ -7,7 +7,6 @@ let HLSInstances = {};
 function loadState() {
   let hash = document.location.hash;
   if (hash.length === 0) {
-    const DEFAULTS = ["CMR-0039", "CMR-0176", "CMR-0223", "CMR-0088", "CMR-0089", "CMR-0309", "CMR-0257"];
     history.replaceState(null, "", "#" + DEFAULTS.join(","));
     return DEFAULTS;
   }
@@ -19,13 +18,14 @@ function loadState() {
 }
 
 function handleCheckbox(evt) {
+  const id = evt.target.dataset.id;
   if (evt.target.checked) {
-    if (!STATE.includes(evt.target.dataset.id)) {
-      appendCamera(evt.target.dataset.id);
+    if (!STATE.includes(id)) {
+      appendCamera(id);
     }
   } else {
-    if (STATE.includes(evt.target.dataset.id)) {
-      removeCamera(evt.target.dataset.id);
+    if (STATE.includes(id)) {
+      removeCamera(id);
     }
   }
 }
@@ -49,7 +49,7 @@ function loadData() {
 
     const boxes = document.createElement("ul");
     section.append(boxes);
-    for (let { id, stream, name } of CAMERAS[neighborhood]) {
+    for (let { id, name } of CAMERAS[neighborhood]) {
       const label = document.createElement("label");
       const checkbox = document.createElement("input");
       checkbox.type = "checkbox";
@@ -69,17 +69,17 @@ function loadData() {
   }
 
   for (let id of STATE) {
-    let { stream, name } = findCamera(id);
-    document.querySelector("main").append(makeCameraStream(id, stream, name));
+    let camera = findCamera(id);
+    document.querySelector("main").append(makeCameraStream(camera));
   }
 }
 
-function makeCameraStream(id, stream, title) {
-  var section = document.createElement("section");
-  section.dataset.id = id;
-  var header = document.createElement("h2");
-  header.innerText = title;
-  var close = document.createElement("button");
+function makeCameraStream(camera) {
+  const section = document.createElement("section");
+  section.dataset.id = camera.id;
+  const header = document.createElement("h2");
+  header.innerText = camera.name;
+  const close = document.createElement("button");
   close.className = 'close';
   close.type = "button";
   close.innerText = "X";
@@ -88,77 +88,85 @@ function makeCameraStream(id, stream, title) {
     removeCamera(evt.target.parentNode.parentNode.dataset.id);
   });
   section.append(header);
-  var video = document.createElement("video");
-  video.controls = true;
-  section.append(video);
-  if (Hls.isSupported()) {
-    var hls = new Hls({manifestLoadingTimeOut: 60000});
-    hls.loadSource(stream);
-    hls.attachMedia(video);
-    hls.on(Hls.Events.MANIFEST_PARSED, function() {
-      video.play();
-    });
-    hls.on(Hls.Events.ERROR, function(event, data) {
-      if (data.fatal) {
-        switch (data.type) {
-          case Hls.ErrorTypes.NETWORK_ERROR:
-            // try to recover network error
-            if (data.response.code === 404) {
+  let video;
+  if (camera.stream !== undefined) {
+    video = document.createElement("video");
+    video.controls = true;
+    if (Hls.isSupported()) {
+      const hls = new Hls({manifestLoadingTimeOut: 60000});
+      hls.loadSource(camera.stream);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, function () {
+        video.play();
+      });
+      hls.on(Hls.Events.ERROR, function (event, data) {
+        if (data.fatal) {
+          switch (data.type) {
+            case Hls.ErrorTypes.NETWORK_ERROR:
+              // try to recover network error
+              if (data.response.code === 404) {
+                hls.destroy();
+                let errorMessage = document.createTextNode("Stream not found (probably doesn't exist after all)");
+                video.parentNode.append(errorMessage);
+                video.remove();
+                break;
+              }
+              console.log("fatal network error encountered, try to recover");
+              console.log(data);
+              hls.startLoad();
+              break;
+            case Hls.ErrorTypes.MEDIA_ERROR:
+              console.log("fatal media error encountered, try to recover");
+              hls.recoverMediaError();
+              break;
+            default:
+              // cannot recover
               hls.destroy();
-              let errorMessage = document.createTextNode("Stream not found (probably doesn't exist after all)");
+              let errorMessage = document.createTextNode(
+                  "Error: " + JSON.stringify([event, data])
+              );
               video.parentNode.append(errorMessage);
               video.remove();
               break;
-            }
-            console.log("fatal network error encountered, try to recover");
-            console.log(data);
-            hls.startLoad();
-            break;
-          case Hls.ErrorTypes.MEDIA_ERROR:
-            console.log("fatal media error encountered, try to recover");
-            hls.recoverMediaError();
-            break;
-          default:
-            // cannot recover
-            hls.destroy();
-            let errorMessage = document.createTextNode(
-              "Error: " + JSON.stringify([event, data])
-            );
-            video.parentNode.append(errorMessage);
-            video.remove();
-            break;
+          }
         }
-      }
-    });
-    HLSInstances[id] = hls;
+      });
+      HLSInstances[camera.id] = hls;
+    }
+        // hls.js is not supported on platforms that do not have Media Source
+        // Extensions (MSE) enabled.
+        //
+        // When the browser has built-in HLS support (check using `canPlayType`),
+        // we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video
+        // element through the `src` property. This is using the built-in support
+        // of the plain video element, without using hls.js.
+        //
+        // Note: it would be more normal to wait on the 'canplay' event below however
+        // on Safari (where you are most likely to find built-in HLS support) the
+        // video.src URL must be on the user-driven white-list before a 'canplay'
+        // event will be emitted; the last video event that can be reliably
+    // listened-for when the URL is not on the white-list is 'loadedmetadata'.
+    else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+      video.src = camera.stream;
+      video.addEventListener("loadedmetadata", function () {
+        video.play();
+      });
+    }
+  } else {
+    video = document.createElement("img");
+    video.className = 'reload';
+    video.src = camera.url;
+    setTimeout(pokeImages, 1);
   }
-  // hls.js is not supported on platforms that do not have Media Source
-  // Extensions (MSE) enabled.
-  //
-  // When the browser has built-in HLS support (check using `canPlayType`),
-  // we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video
-  // element through the `src` property. This is using the built-in support
-  // of the plain video element, without using hls.js.
-  //
-  // Note: it would be more normal to wait on the 'canplay' event below however
-  // on Safari (where you are most likely to find built-in HLS support) the
-  // video.src URL must be on the user-driven white-list before a 'canplay'
-  // event will be emitted; the last video event that can be reliably
-  // listened-for when the URL is not on the white-list is 'loadedmetadata'.
-  else if (video.canPlayType("application/vnd.apple.mpegurl")) {
-    video.src = stream;
-    video.addEventListener("loadedmetadata", function() {
-      video.play();
-    });
-  }
+  section.append(video);
   return section;
 }
 
 function appendCamera(id) {
   STATE.push(id);
   history.replaceState(null, "", "#" + STATE.join(","));
-  let { stream, name } = findCamera(id);
-  document.querySelector("main").append(makeCameraStream(id, stream, name));
+  let camera = findCamera(id);
+  document.querySelector("main").append(makeCameraStream(camera));
 }
 function removeCamera(id) {
   const oldIndex = STATE.indexOf(id);
@@ -182,12 +190,15 @@ function removeCamera(id) {
   }
 }
 
-document.getElementById("playall").addEventListener("click", e => {
-  for (let k of document.querySelectorAll("video")) {
-    k.play();
-    k.currentTime += 10000;
-  }
-});
+const playall = document.getElementById("playall");
+if (playall) {
+  playall.addEventListener("click", e => {
+    for (let k of document.querySelectorAll("video")) {
+      k.play();
+      k.currentTime += 10000;
+    }
+  });
+}
 document.getElementById("vidwidth").addEventListener("input", e => {
   document.body.style.setProperty("--video-width", e.target.value + "vw");
 });
@@ -227,3 +238,16 @@ dragHandler.on("drop", (el, target, source, sibling) => {
   }
   history.replaceState(null, "", "#" + STATE.join(","));
 });
+
+let pokeTimeout = undefined;
+function pokeImages() {
+  for (let img of document.querySelectorAll('img.reload')) {
+    img.src = img.src.replace(/(\?0\.\d+)?$/, '?' + Math.random());
+    img.addEventListener('load', e => {
+      if (pokeTimeout !== undefined) {
+        clearTimeout(pokeTimeout);
+      }
+      pokeTimeout = setTimeout(pokeImages, 1000);
+    });
+  }
+}
