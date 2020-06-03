@@ -14,8 +14,10 @@ for camera in cameras:
     result['id'] = camera['properties']['cctv_id']
     if 'HLS' in camera['properties']:
         result['stream'] = camera['properties']['HLS']
+    elif camera['properties']['url'] is not None:
+        result['url'] = camera['properties']['url'].replace('http://navigator-c2c.dot.ga.gov/snapshots', '/georgiasnapshots')
     else:
-        result['url'] = camera['properties']['url']
+        continue
     result['name'] = camera['properties']['location_description']
     sources[subdiv].append(result)
 with open('sources.js', 'w') as f:
