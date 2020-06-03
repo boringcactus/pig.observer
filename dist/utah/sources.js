@@ -1,4 +1,4 @@
-const DEFAULTS = ["139"];
+const DEFAULTS = ["11633","10630","11066","137","9436","10717","9422","10716","9423","185",'9560',"9777"];
 const MANUAL_CACHE_BUST = false;
 const CAMERAS = {
   Richfield: [
