@@ -36,6 +36,10 @@ ul {
     padding: 0;
 }
 
+aside#map {
+    height: 500px;
+}
+
 /* from Dragula */
 .gu-mirror {
     position: fixed !important;

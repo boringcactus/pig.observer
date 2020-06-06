@@ -9,6 +9,8 @@
     <title>Utah traffic cameras</title>
 
     <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/lib/leaflet.css">
+    <script src="/lib/leaflet.js"></script>
 </head>
 <body>
 <h1>Utah traffic cams <small>(donate to <a
@@ -27,11 +29,8 @@
 <main>
 </main>
 
-<aside>
-    <label>Search cameras: <input type="search" id="filter"></label>
-    <nav>
+<aside id="map">
 
-    </nav>
 </aside>
 
 <footer>
@@ -45,7 +44,7 @@
 
 <script src="sources.js"></script>
 <script src="/script.js" defer></script>
-<script src="/dragula.min.js"
+<script src="/lib/dragula.min.js"
         integrity="sha256-ug4bHfqHFAj2B5MESRxbLd3R3wdVMQzug2KHZqFEmFI="
         crossorigin="anonymous"></script>
 </body>

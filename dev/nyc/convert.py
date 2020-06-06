@@ -22,4 +22,4 @@ for camera in data:
     cam['url'] = url
     sources.append({'coord': coord, 'cams': [cam]})
 with open('sources.json', 'w') as f:
-    json.dump({'NYC': sources}, f)
+    json.dump(sources, f)

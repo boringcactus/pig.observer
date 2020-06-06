@@ -31,8 +31,8 @@ function handleCheckbox(evt) {
 }
 
 function findCamera(id) {
-    for (let cameras of Object.values(CAMERAS)) {
-        let found = cameras.find(x => x.id === id);
+    for (let { cams } of CAMERAS) {
+        let found = cams.find(x => x.id === id);
         if (found !== undefined) {
             return found;
         }
@@ -54,18 +54,19 @@ function compareStrings(a, b) {
 }
 
 function loadData() {
-    const nav = document.querySelector("nav");
-    let neighborhoods = Object.keys(CAMERAS).sort(compareStrings);
-    for (let neighborhood of neighborhoods) {
-        const section = document.createElement("section");
-        const h2 = document.createElement("h2");
-        h2.innerText = neighborhood;
-        section.append(h2);
+    const map = L.map('map');
+    const bounds = L.latLngBounds([CAMERAS[0].coord, CAMERAS[1].coord]);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    for (let { coord, cams } of CAMERAS) {
+        let marker = L.marker(coord).addTo(map);
+        bounds.extend(coord);
 
         const boxes = document.createElement("ul");
-        section.append(boxes);
-        let cameras = CAMERAS[neighborhood].sort((a, b) => compareStrings(a.name, b.name));
-        for (let {id, name} of cameras) {
+        for (let {id, name} of cams) {
             const label = document.createElement("label");
             const checkbox = document.createElement("input");
             checkbox.type = "checkbox";
@@ -80,10 +81,10 @@ function loadData() {
             li.append(label);
             boxes.append(li);
         }
-
-        nav.append(section);
+        marker.bindPopup(boxes);
     }
 
+    map.fitBounds(bounds);
     for (let id of STATE) {
         let camera = findCamera(id);
         document.querySelector("main").append(makeCameraStream(camera));
@@ -228,19 +229,6 @@ if (playall) {
 }
 document.getElementById("vidwidth").addEventListener("input", e => {
     document.body.style.setProperty("--video-width", e.target.value + "vw");
-});
-document.getElementById("filter").addEventListener("input", e => {
-    let filter = e.target.value;
-    for (let neighborhood of document.querySelectorAll("nav section")) {
-        neighborhood.hidden = true;
-        for (let box of neighborhood.querySelectorAll("li")) {
-            const matches = box.innerText
-                .toLowerCase()
-                .includes(filter.toLowerCase());
-            box.hidden = !matches;
-            neighborhood.hidden = neighborhood.hidden && !matches;
-        }
-    }
 });
 
 loadData();

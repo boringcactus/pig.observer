@@ -8,7 +8,7 @@ cameras = raw_data['features']
 
 sources = []
 for camera in cameras:
-    coord = [float(x) for x in camera['geometry']['coordinates']]
+    coord = [float(x) for x in reversed(camera['geometry']['coordinates'])]
     cam = dict()
     cam['id'] = camera['properties']['cctv_id']
     if 'HLS' in camera['properties']:
