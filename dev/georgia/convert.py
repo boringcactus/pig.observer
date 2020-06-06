@@ -1,17 +1,16 @@
 import json
 from pprint import pprint
-from collections import defaultdict
 
 with open('cctv.json', 'r') as f:
     raw_data = json.load(f)
 
 cameras = raw_data['features']
 
-sources = defaultdict(list)
+sources = []
 for camera in cameras:
-    subdiv = camera['properties']['subdivision']
-    result = dict()
-    result['id'] = camera['properties']['cctv_id']
+    coord = [float(x) for x in camera['geometry']['coordinates']]
+    cam = dict()
+    cam['id'] = camera['properties']['cctv_id']
     if 'HLS' in camera['properties']:
         url = camera['properties']['HLS']
         url = url.replace('http://vss1live.dot.ga.gov:80/lo', '/georgiavss1')
@@ -19,14 +18,14 @@ for camera in cameras:
         url = url.replace('http://vss3live.dot.ga.gov:80/lo', '/georgiavss3')
         url = url.replace('http://vss4live.dot.ga.gov:80/lo', '/georgiavss4')
         url = url.replace('http://vss5live.dot.ga.gov:80/lo', '/georgiavss5')
-        result['stream'] = url
+        cam['stream'] = url
     elif camera['properties']['url'] is not None:
         url = camera['properties']['url']
         url = url.replace('http://navigator-c2c.dot.ga.gov/snapshots', '/georgiasnapshots')
-        result['url'] = url
+        cam['url'] = url
     else:
         continue
-    result['name'] = camera['properties']['location_description']
-    sources[subdiv].append(result)
+    cam['name'] = camera['properties']['location_description']
+    sources.append({'coord': coord, 'cams': [cam]})
 with open('sources.json', 'w') as f:
-    json.dump(dict(sources), f)
+    json.dump(sources, f)
