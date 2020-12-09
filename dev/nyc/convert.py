@@ -14,7 +14,7 @@ for camera in data:
     cam['id'] = camera['id']
     cam['name'] = camera['content']
     fetched = requests.get('https://nyctmc.org/google_popup.php', params={'cid': camera['id']})
-    match = re.search('http://207.251.86.238/cctv\\d+.jpg', fetched.text)
+    match = re.search(r'https://jpg.nyctmc.org(:443)?/cctv\d+.jpg', fetched.text)
     if match is None:
         pprint(camera)
         continue
