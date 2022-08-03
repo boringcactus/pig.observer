@@ -1,0 +1,17 @@
+name: Fly Deploy Prod
+on:
+  release:
+    - released
+jobs:
+  deploy:
+      name: Deploy app
+      environment:
+        name: prod
+        url: https://pig.observer
+      runs-on: ubuntu-latest
+      env:
+        FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+      steps:
+        - uses: actions/checkout@v2
+        - uses: superfly/flyctl-actions/setup-flyctl@master
+        - run: flyctl deploy --remote-only --app pig-observer
