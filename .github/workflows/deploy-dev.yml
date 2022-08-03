@@ -1,0 +1,19 @@
+name: Fly Deploy Dev
+on:
+  push:
+    branches:
+      - master
+      - main
+jobs:
+  deploy:
+      name: Deploy app
+      environment:
+        name: dev
+        url: https://dev.pig.observer
+      runs-on: ubuntu-latest
+      env:
+        FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+      steps:
+        - uses: actions/checkout@v2
+        - uses: superfly/flyctl-actions/setup-flyctl@master
+        - run: flyctl deploy --remote-only
