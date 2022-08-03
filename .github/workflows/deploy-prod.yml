@@ -1,7 +1,7 @@
 name: Fly Deploy Prod
 on:
   release:
-    - released
+    types: [released]
 jobs:
   deploy:
       name: Deploy app
