@@ -2,8 +2,12 @@ import requests
 import json
 from pprint import pprint
 
-r = requests.get('https://web6.seattle.gov/Travelers/api/Map/Data?zoomId=14&type=2')
-points = r.json()['Features']
+# for some reason, the damn thing doesn't work
+# r = requests.get('https://web.seattle.gov/Travelers/api/Map/Data?zoomId=14&type=2')
+# points = r.json()['Features']
+
+with open("raw.json", "r") as f:
+    points = json.load(f)['Features']
 
 sources = []
 for point in points:
@@ -15,7 +19,7 @@ for point in points:
         result = {'id': cam_id, 'name': name}
         if cam['Type'] == 'sdot':
             stream = cam['ImageUrl'].replace('.jpg', '.stream')
-            stream_url = "https://58cc2dce193dd.streamlock.net:443/live/{stream}/playlist.m3u8".format(stream=stream)
+            stream_url = "https://61e0c5d388c2e.streamlock.net:443/live/{stream}/playlist.m3u8".format(stream=stream)
             result['stream'] = stream_url
         elif cam['Type'] == 'wsdot':
             url = 'https://images.wsdot.wa.gov/nw/' + cam['ImageUrl']
